@@ -259,6 +259,13 @@ def main():
         # Story que falhou: tenta de novo nas próximas rodadas (até 3 vezes, nas 6 horas seguintes)
         refazer_story = (status == "publicado_sem_story" and tem_story and post.get("story_tentativas", 0) < 3
                          and agora - quando < dt.timedelta(hours=6))
+        if status == "agendado" and agora - quando > dt.timedelta(hours=20):
+            # Atrasado demais (ex.: token ainda não configurado): não despeja posts velhos de uma vez no perfil.
+            post["status"] = "expirado"
+            post["erro"] = "Não publicado: passou mais de 20h do horário marcado."
+            pj.write_text(json.dumps(post, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            print(f"{nome}: expirado")
+            continue
         if status == "agendado" and quando > agora:
             print(f"{nome}: agendado para {post['publicar_em']}")
             continue
