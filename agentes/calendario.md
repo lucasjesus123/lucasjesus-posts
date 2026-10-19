@@ -17,7 +17,7 @@ Todo post vai também para o story (a arte `story.jpg` sai junto no render).
 ## Regras do grid
 
 - O perfil é visto em grade de 3. Nunca 3 posts seguidos do mesmo tom; se o calendário causar isso, troque o tom do dia.
-- Foto do Lucas: só foto REAL do catálogo. Entra no fecho dos carrosséis, no sábado e quando a pauta pedir; não repita a mesma foto em 7 dias.
+- Foto do Lucas: só as do catálogo. Ele aparece em pelo menos 3 posts por semana: capa do carrossel de segunda ou quarta, o retrato de sábado e o fecho dos carrosséis. Nunca a mesma foto duas vezes em 10 dias.
 - Carrossel: no máximo 3 por semana.
 - O mesmo assunto não volta antes de 14 dias (veja o campo `tema` dos últimos posts).
 - **Sem fotos catalogadas ainda** (`fotos/fotos.json` vazio): o sábado vira `nota` e o `fecho` sai sem avatar. Nunca use foto gerada por IA no lugar do Lucas.

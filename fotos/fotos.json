@@ -1,3 +1,195 @@
 {
-  "_ajuda": "Catálogo das fotos reais do Lucas. O squad preenche sozinho a partir de fotos/novas/. Campos: arquivo, descricao (o que se vê), contexto (onde/quando, só se informado), tom_de_luz (claro/escuro), espaco_para_texto (topo/base/lado/nenhum), uso (palco, estúdio, sax, trabalho, família...)."
+  "_ajuda": "Fotos do Lucas aprovadas por ele (19/10/2026). Use só estas. Campos: descricao, modelos_indicados, qualidade, deteccao.",
+  "andando-sueter-preto": {
+    "arquivo": "fotos/andando-sueter-preto.jpg",
+    "descricao": "Corpo inteiro andando, suéter preto, calça bege, fundo de estúdio bege",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa, dividido, moldura",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "blazer-azul-sorrindo": {
+    "arquivo": "fotos/blazer-azul-sorrindo.jpg",
+    "descricao": "Meio corpo, blazer azul xadrez, sorrindo, fundo preto",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "foto, capa, fecho",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "blazer-listrado-banco": {
+    "arquivo": "fotos/blazer-listrado-banco.jpg",
+    "descricao": "Sentado em banco alto, blazer listrado claro, softboxes de estúdio aparecendo",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "moldura (bastidor de ensaio), dividido",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "camisa-branca-maos-unidas": {
+    "arquivo": "fotos/camisa-branca-maos-unidas.jpg",
+    "descricao": "Close, camisa branca, mãos unidas no queixo, olhar sério, fundo preto",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato, foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "camisa-preta-bracos-cruzados": {
+    "arquivo": "fotos/camisa-preta-bracos-cruzados.jpg",
+    "descricao": "Meio corpo, camisa preta, braços cruzados, sério, fundo escuro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa, foto, retrato",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "camiseta-preta-mao-queixo": {
+    "arquivo": "fotos/camiseta-preta-mao-queixo.jpg",
+    "descricao": "Meio corpo, camiseta preta, mão no queixo, pensativo, fundo cinza",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato, capa, fecho",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "casaco-fundo-vermelho": {
+    "arquivo": "fotos/casaco-fundo-vermelho.jpg",
+    "descricao": "Busto, casaco cinza, fundo vermelho, olhar firme",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato (pb), foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "corpo-inteiro-camiseta-branca": {
+    "arquivo": "fotos/corpo-inteiro-camiseta-branca.jpg",
+    "descricao": "Corpo inteiro, camiseta branca, mãos nos bolsos, fundo claro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa (tom claro), dividido",
+    "qualidade": "ótima",
+    "deteccao": "silhueta"
+  },
+  "elevador-sorrindo": {
+    "arquivo": "fotos/elevador-sorrindo.jpg",
+    "descricao": "Busto, moletom preto, sorrindo, dentro de elevador",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "foto, moldura, fecho",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "escritorio-bracos-cruzados": {
+    "arquivo": "fotos/escritorio-bracos-cruzados.jpg",
+    "descricao": "Meio corpo, terno preto, braços cruzados, escritório com vista da cidade",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "foto, dividido, moldura",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "escritorio-mesa-blazer-azul": {
+    "arquivo": "fotos/escritorio-mesa-blazer-azul.jpg",
+    "descricao": "Blazer azul, mãos apoiadas na mesa, estante iluminada atrás, sorrindo",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "moldura, dividido, foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "hang-loose": {
+    "arquivo": "fotos/hang-loose.jpg",
+    "descricao": "Busto, camiseta preta, sorrindo e fazendo sinal de 'me liga'",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "foto (chamada para o direct), fecho",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "jaqueta-couro-oculos-escuros": {
+    "arquivo": "fotos/jaqueta-couro-oculos-escuros.jpg",
+    "descricao": "Jaqueta de couro, óculos escuros, fundo cinza, olhando para o lado",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "usar pouco: só em post de opinião ousada (foto)",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "mao-queixo-fundo-roxo": {
+    "arquivo": "fotos/mao-queixo-fundo-roxo.jpg",
+    "descricao": "Close, mão no queixo, fundo roxo desfocado",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato (pb obrigatório, o roxo destoa da paleta)",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "notebook-coworking": {
+    "arquivo": "fotos/notebook-coworking.jpg",
+    "descricao": "Atrás do notebook em coworking, camiseta preta, sorriso leve",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "dividido, moldura, foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "notebook-no-ombro": {
+    "arquivo": "fotos/notebook-no-ombro.jpg",
+    "descricao": "Meio corpo, camiseta branca, notebook no ombro, sorrindo, fundo claro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa (tom claro), dividido",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "pb-sofa-maos-unidas": {
+    "arquivo": "fotos/pb-sofa-maos-unidas.jpg",
+    "descricao": "P&B, sentado no sofá, terno, mãos unidas, sombra de janela",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato, foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "pedestal-branco": {
+    "arquivo": "fotos/pedestal-branco.jpg",
+    "descricao": "Corpo inteiro encostado em pedestal branco, roupa preta, fundo claro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa (tom claro), moldura",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "perfil-luz-vermelha-jaqueta": {
+    "arquivo": "fotos/perfil-luz-vermelha-jaqueta.jpg",
+    "descricao": "Perfil, olhando para baixo, jaqueta de couro, luz vermelha lateral",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato (pb)",
+    "qualidade": "ótima",
+    "deteccao": "silhueta"
+  },
+  "perfil-luzes-vermelhas": {
+    "arquivo": "fotos/perfil-luzes-vermelhas.jpg",
+    "descricao": "Close de perfil, olhando para o lado, fundo vermelho desfocado",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "retrato (pb)",
+    "qualidade": "ótima",
+    "deteccao": "silhueta"
+  },
+  "sofa-celular": {
+    "arquivo": "fotos/sofa-celular.jpg",
+    "descricao": "Sentado no sofá de couro mexendo no celular, ambiente de madeira quente",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "moldura, foto (bastidor)",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "sueter-marrom-sorrindo": {
+    "arquivo": "fotos/sueter-marrom-sorrindo.jpg",
+    "descricao": "Meio corpo, suéter marrom, braços cruzados, sorrindo, fundo cinza",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "capa, fecho, foto",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "terno-cinza-perna-cruzada": {
+    "arquivo": "fotos/terno-cinza-perna-cruzada.jpg",
+    "descricao": "Sentado, terno cinza, perna cruzada, sorrindo, fundo escuro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "moldura, capa",
+    "qualidade": "ótima",
+    "deteccao": "rosto"
+  },
+  "terno-cinza-sentado": {
+    "arquivo": "fotos/terno-cinza-sentado.jpg",
+    "descricao": "Sentado em caixote de madeira, terno cinza, sorrindo, corpo inteiro",
+    "contexto": "ensaio de imagem pessoal (não informado onde)",
+    "modelos_indicados": "moldura, dividido",
+    "qualidade": "boa",
+    "deteccao": "rosto"
+  }
 }

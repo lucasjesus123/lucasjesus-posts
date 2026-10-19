@@ -53,7 +53,7 @@ Toda peça aceita `"tom": "claro" | "escuro"` (o padrão vem do `arte.json`). O 
 
 ## Imagens
 
-- **Foto do Lucas: sempre real**, de `fotos/fotos.json`, e passa sozinha pelo tratamento de estúdio do `kit/foto.py`:
+- **Foto do Lucas: só as do catálogo `fotos/fotos.json`** (aprovadas por ele), e passa sozinha pelo tratamento de estúdio do `kit/foto.py`:
   correção suave de luz e balanço de branco, nitidez fina, recorte do fundo e **detecção do rosto**. O enquadramento é feito pelo rosto: ele nunca sai cortado e nenhum texto cai em cima dele.
 - Só use fotos com `"qualidade": "ótima"` ou `"boa"` no catálogo. Foto `"fraca"` (pequena ou tremida) não entra em arte.
 - **Imagem gerada (GPT):** só como ingrediente (objeto, mesa de trabalho, cenário, textura). Marque `"ia": true` na peça: o render aplica duotone em tinta e giz e um grão fino, e a imagem passa a parecer foto de revista, não arte de IA. Nunca gere o rosto do Lucas.
