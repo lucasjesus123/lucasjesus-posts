@@ -1,0 +1,33 @@
+name: Métricas
+
+# Toda segunda às 07:20 (Brasília) lê o desempenho dos últimos 30 dias para o Analista do squad.
+on:
+  schedule:
+    - cron: "20 10 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - env:
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/metricas.py
+      - name: Salvar
+        run: |
+          git config user.name "metricas"
+          git config user.email "actions@github.com"
+          git add metricas
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Métricas da semana [skip ci]"
+            for t in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q && break; sleep 5; done
+          fi

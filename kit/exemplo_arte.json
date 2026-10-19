@@ -1,0 +1,15 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {"modelo": "manchete", "chapeu": "Radar de IA", "data": "20 de outubro de 2026",
+     "titulo": "A IA agora usa o computador por você",
+     "subtitulo": "Os novos agentes clicam, preenchem e enviam. O que muda para quem tem empresa pequena.",
+     "fonte": "Fonte: anúncio oficial, 15/10/2026"},
+    {"modelo": "slide", "titulo": "O que aconteceu", "texto": "O agente abre o navegador, lê a tela e executa tarefas de várias etapas sem você programar nada."},
+    {"modelo": "lista", "titulo": "Por onde eu começaria", "sequencia": false,
+     "itens": [["Conferir notas fiscais", "Repetitivo e com regra clara."], ["Atualizar o CRM", "O agente lê a conversa e preenche o cadastro."], ["Responder orçamento", "Com a sua tabela de preços como fonte."]]},
+    {"modelo": "fecho", "opiniao": "Ferramenta nova não resolve processo bagunçado. Arruma o processo primeiro, depois coloca o agente.",
+     "imagem": "fotos/lucas-exemplo.jpg"}
+  ],
+  "story": {"modelo": "pergunta", "pergunta": "Que tarefa da tua empresa tu entregaria para um agente amanhã?", "contexto": "Saiu post novo sobre isso no meu perfil."}
+}

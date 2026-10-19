@@ -1,0 +1,30 @@
+name: Radar de IA
+
+# Todo dia às 05:50 (Brasília) lê os feeds de IA e grava radar/AAAA-MM-DD.json para o squad.
+on:
+  schedule:
+    - cron: "50 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/radar.py
+      - name: Salvar
+        run: |
+          git config user.name "radar-ia"
+          git config user.email "actions@github.com"
+          git add -A radar
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Radar de IA [skip ci]"
+            for t in 1 2 3 4 5; do git pull --rebase -q origin main && git push -q && break; sleep 5; done
+          fi
