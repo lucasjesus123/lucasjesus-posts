@@ -1,0 +1,59 @@
+{
+  "_ajuda": "Biblioteca de estilos aprovados pelo Lucas (19/10/2026). Cada estilo tem a imagem de referência e o MOLDE do prompt que gerou a arte. O Diretor de Arte copia o molde, troca só os textos, a foto e a cena, e mantém todo o resto (é o que garante o padrão). Para criar um estilo novo: gere, mostre ao Lucas e só registre aqui depois que ele aprovar.",
+  "capa-revista": {
+    "arquivo": "estilos/capa-revista.jpg",
+    "uso": "Autoridade, opinião forte, frase de impacto curta. Funciona como post único ou capa de carrossel.",
+    "tom": "escuro",
+    "fotos_boas": "camisa-preta-bracos-cruzados, sueter-marrom-sorrindo, blazer-azul-sorrindo, camiseta-preta-mao-queixo, escritorio-bracos-cruzados",
+    "textos": "titulo_linha1 (branco, até 5 palavras) + titulo_linha2 (dourado, até 4 palavras) + chapeu (opcional)",
+    "molde": "Premium Instagram post (4:5), designed like the cover of a high-end business magazine. Use the man from the reference photo exactly as he is (same face, full black beard, clear transparent-frame glasses, slicked-back black hair, {ROUPA_E_POSE}), cut out and placed center, from the waist up, studio lighting with a subtle rim light.\nBackground: deep navy blue (#0B1A33) with a soft spotlight glow behind him.\nAt the top, a huge masthead in bold condensed white sans-serif: \"LUCAS JESUS\", with the top of his head slightly overlapping the letters (magazine cover depth effect).\nSmall line under the masthead in gold (#C9A24B): \"{CHAPEU}\".\nBottom left, big bold headline in white: \"{TITULO_1}\" and a second line in gold: \"{TITULO_2}\".\nWrite all text exactly as given, Brazilian Portuguese, perfect accents. Clean, editorial, expensive, sharp typography, no extra text, no logos, no watermark."
+  },
+  "noticia-3d": {
+    "arquivo": "estilos/noticia-3d.jpg",
+    "uso": "Notícia de IA, ferramenta, caso de uso. Composição tipo Photoshop: ele + objeto 3D (celular, notebook, painel, chip) explicando a ideia.",
+    "tom": "claro",
+    "fotos_boas": "notebook-no-ombro, corpo-inteiro-camiseta-branca, pedestal-branco, sueter-marrom-sorrindo",
+    "textos": "selo (ex.: RADAR DE IA) + titulo_linha1 (azul-marinho) + titulo_linha2 (azul) + rodape curto; textos dentro do objeto 3D bem curtos",
+    "molde": "Premium Instagram news post (4:5), high-end tech creator style, Photoshop composite. Use the man from the reference photo exactly as he is (same face, black beard, clear transparent-frame glasses, {ROUPA_E_POSE}), cut out, placed on the right side, waist up.\nBackground: clean light gray-white studio (#EEF1F3) with soft shadows.\nOn the left side, {OBJETO_3D_E_CENA}. Soft glassmorphism cards floating around it with small icons ({ICONES}).\nTop left, small dark navy pill label with white text: \"{SELO}\".\nBig bold headline at the top in dark navy (#0B1A33), heavy condensed sans-serif, 2 lines: \"{TITULO_1}\" and in a blue accent (#2F6BFF): \"{TITULO_2}\".\nBottom, small dark text: \"{RODAPE}\"\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Clean, modern, premium, realistic lighting and shadows, no extra text, no logos, no watermark."
+  },
+  "frase-cinema": {
+    "arquivo": "estilos/frase-cinema.jpg",
+    "uso": "Frase reflexiva dele (propósito, família, trabalho, fé sem pregar). P&B de cinema.",
+    "tom": "escuro",
+    "fotos_boas": "pb-sofa-maos-unidas, camisa-branca-maos-unidas, camiseta-preta-mao-queixo, perfil-luz-vermelha-jaqueta, mao-queixo-fundo-roxo, casaco-fundo-vermelho",
+    "textos": "frase (até 22 palavras, quebrada em 3 a 6 linhas curtas)",
+    "molde": "Premium Instagram quote post (4:5), cinematic black and white, designed by a top art director. Use the man from the reference photo exactly as he is (same face, beard, clear glasses, {ROUPA_E_POSE}), black and white, placed on the right two-thirds of the frame, deep contrast, film grain.\nLeft side darker with negative space. Over it, a large elegant quote in white, refined high-contrast serif typeface (like a luxury magazine), short lines, left aligned:\n\"{FRASE_EM_LINHAS}\"\nLarge gold quotation mark (#C9A24B) above the quote.\nUnder the quote, small white sans-serif: \"— Lucas Jesus\".\nBottom of the image, very small, white at 70% opacity: \"lucasjesus.ia.br\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Elegant, minimal, emotional, expensive, no extra text, no logos, no watermark."
+  },
+  "frase-tipografica": {
+    "arquivo": "estilos/frase-tipografica.jpg",
+    "uso": "Frase curta e forte, SEM foto. O post de frase padrão.",
+    "tom": "escuro (ou claro: fundo off-white #F3F4F1 e letras azul-marinho)",
+    "fotos_boas": "nenhuma",
+    "textos": "frase de até 10 palavras em 3 a 5 linhas; a última linha em dourado",
+    "molde": "Premium Instagram typographic quote post (4:5), no people, designed by a top art director. Background: deep navy blue (#0B1A33) with a very subtle paper/grain texture and a faint soft light from the top left.\nHuge bold condensed white sans-serif typography filling most of the frame, left aligned, lines:\n\"{LINHAS_BRANCAS}\"\nand the last line in gold (#C9A24B), same size: \"{ULTIMA_LINHA}\".\nA thin gold horizontal line above the text. Top left small white text: \"LUCAS JESUS\". Top right small white text: \"#frase\".\nBottom left small white text at 70% opacity: \"lucasjesus.ia.br\". Bottom right a small white arrow inside a thin circle.\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Bold, confident, minimal, editorial, expensive. No people, no extra text, no logos, no watermark."
+  },
+  "dica-prompt": {
+    "arquivo": "estilos/dica-prompt.jpg",
+    "uso": "Na prática: prompt, ferramenta ou passo a passo para salvar. SEM foto.",
+    "tom": "claro",
+    "fotos_boas": "nenhuma",
+    "textos": "selo + titulo_1 (marinho) + titulo_2 (azul) + o conteúdo na tela (até 3 linhas curtas) + chamada de salvar",
+    "molde": "Premium Instagram \"save this\" tip post (4:5), no people, modern tech creator style. Background: clean off-white (#F3F4F1) with subtle soft shadows.\nTop: small dark navy pill label with white text \"{SELO}\". Under it, bold condensed dark navy (#0B1A33) headline, 2 lines: \"{TITULO_1}\" and in blue (#2F6BFF): \"{TITULO_2}\".\nCenter: {OBJETO_3D} at a slight angle, its screen shows a clean generic chat window (no app logos) with this text in dark monospace, readable:\n\"{TEXTO_NA_TELA}\"\nSmall floating glass cards around it with simple icons ({ICONES}).\nBottom: dark text \"{CHAMADA}\" with a small bookmark icon, and at the bottom left small gray text \"Lucas Jesus · lucasjesus.ia.br\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Premium, clean, realistic 3D, soft lighting, no extra text, no brand logos (no OpenAI, no WhatsApp logo), no watermark."
+  },
+  "radar-semana": {
+    "arquivo": "estilos/radar-semana.jpg",
+    "uso": "Capa do carrossel de notícias da semana (segunda) ou notícia quente (sexta). SEM foto.",
+    "tom": "escuro",
+    "fotos_boas": "nenhuma",
+    "textos": "chapeu (RADAR DE IA · SEMANA N) + titulo em 3 linhas (a última em dourado) + linha de apoio",
+    "molde": "Premium Instagram carousel cover (4:5) for AI news, no people. Cinematic dark scene: deep navy (#0B1A33) to black background, {CENA_3D} on a dark desk, lit by a single dramatic warm spotlight, subtle reflections, shallow depth of field.\nTop left: small gold (#C9A24B) text \"{CHAPEU}\".\nHuge bold condensed white headline, left aligned: \"{TITULO_1}\" / \"{TITULO_2}\" / and in gold: \"{TITULO_3}\".\nUnder it, a small white line: \"{APOIO}\".\nBottom right: small white text \"Arraste →\". Bottom left small white text at 70% opacity: \"Lucas Jesus\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Cinematic, editorial, premium. No people, no extra text, no brand logos, no glowing brains, no watermark."
+  },
+  "antes-depois": {
+    "arquivo": "estilos/antes-depois.jpg",
+    "uso": "Comparativo sem IA x com IA. Gera salvamento e compartilhamento. SEM foto.",
+    "tom": "misto",
+    "fotos_boas": "nenhuma",
+    "textos": "rotulo_a + titulo_a (até 4 palavras) + rotulo_b + titulo_b (até 4 palavras) + chamada",
+    "molde": "Premium Instagram comparison post (4:5), no people, split design. Top half: {CENA_ANTES}, desaturated gray. Bottom half: {CENA_DEPOIS}, warm soft light, rich colors. A thin gold (#C9A24B) horizontal line divides the two halves.\nOn the top half, a dark rounded label with white text \"{ROTULO_A}\" and a bold white condensed headline: \"{TITULO_A}\".\nOn the bottom half, a gold rounded label with dark navy text \"{ROTULO_B}\" and a bold white condensed headline: \"{TITULO_B}\".\nHeadlines have a soft dark shadow so they read on top of the photos.\nBottom left small white text: \"Lucas Jesus\". Bottom right small white text: \"{CHAMADA}\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Photorealistic, premium, editorial. No people, no extra text, no brand logos, no watermark."
+  }
+}

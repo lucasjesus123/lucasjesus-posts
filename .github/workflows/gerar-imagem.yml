@@ -1,6 +1,6 @@
-name: Gerar imagem (GPT)
+name: Gerar arte (GPT)
 
-# Gera ingredientes de imagem (sem texto) com a API oficial da OpenAI.
+# Gera as artes dos posts com a API oficial da OpenAI (GPT Image).
 # Disparado quando o squad grava um pedido em gerar/pedidos/.
 on:
   push:

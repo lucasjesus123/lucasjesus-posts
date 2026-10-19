@@ -1,16 +1,12 @@
-"""Gera INGREDIENTES de imagem com a API oficial da OpenAI (GPT Image), sem texto nenhum.
+"""Gera as ARTES dos posts com a API oficial da OpenAI (GPT Image). Roda no GitHub Actions.
 
-Regra da marca: a IA nunca faz a peça inteira. Ela gera um objeto, uma textura ou um cenário;
-o texto e a composição são feitos pelo kit/render.py, e a imagem recebe tratamento (duotone ou P&B).
-
-Cada pedido é um arquivo gerar/pedidos/NOME.json:
+Cada pedido é um arquivo gerar/pedidos/NOME.json, criado pelo scripts/pedir_arte.py:
   {
-    "prompt": "foto editorial de ... (sem texto)",
-    "referencias": ["fotos/lucas_palco.jpg"],   # opcional: caminhos do repositório ou URLs
-    "formato": "retrato",                         # retrato (1024x1536), paisagem (1536x1024) ou quadrado
+    "prompt": "prompt completo (o molde do estilo em estilos/estilos.json, já preenchido)",
+    "referencias": ["fotos/camisa-preta-bracos-cruzados.jpg"],   # foto do Lucas (opcional)
     "status": "pendente"
   }
-A imagem sai em gerar/saida/NOME.png e o pedido vira "pronto" (ou "erro", com a mensagem da OpenAI).
+A arte sai em gerar/saida/NOME.png e o pedido vira "pronto" (ou "erro", com a mensagem da OpenAI).
 Segredo: OPENAI_API_KEY. Modelo: variável OPENAI_IMAGE_MODEL ou o primeiro da lista que a conta aceitar.
 """
 import base64
@@ -27,14 +23,8 @@ MODELOS = [m for m in [os.environ.get("OPENAI_IMAGE_MODEL", "").strip()] if m] +
 ]
 SAIDA = pathlib.Path("gerar/saida")
 CACHE = pathlib.Path("gerar/cache")
-TAMANHOS = {"retrato": "1024x1536", "paisagem": "1536x1024", "quadrado": "1024x1024"}
-
-# Vai no fim de todo prompt: é o que separa uma foto crível de "arte de IA".
-ANTI_IA = (" Shot as a real editorial photograph: natural imperfect light, real materials, subtle film grain, "
-           "true-to-life colors, shallow depth of field where it makes sense. "
-           "Absolutely no text, letters, numbers, logos, watermarks or UI. "
-           "Avoid: glowing brains, neon purple or cyan glow, holograms, circuit-board patterns, generic humanoid robots, "
-           "floating particles, lens-flare spam, plastic skin, extra fingers, symmetrical stock-photo poses, sci-fi clichés.")
+# Instagram 4:5. Modelos novos aceitam múltiplos de 16; se recusar, cai para o retrato clássico.
+TAMANHOS = ["1088x1360", "1024x1536"]
 
 
 def baixar(ref):
@@ -51,24 +41,26 @@ def baixar(ref):
 
 def gerar(client, pedido):
     imagens = [baixar(r) for r in pedido.get("referencias", [])][:8]
-    tam = TAMANHOS.get(pedido.get("formato", "retrato"), "1024x1536")
-    prompt = pedido["prompt"].strip() + ANTI_IA
     ultimo = None
     for modelo in MODELOS:
-        try:
-            args = dict(model=modelo, prompt=prompt, size=tam, quality=pedido.get("qualidade", "high"), n=1)
-            if imagens:
-                r = client.images.edit(image=[open(f, "rb") for f in imagens], **args)
-            else:
-                r = client.images.generate(**args)
-            return modelo, base64.b64decode(r.data[0].b64_json)
-        except Exception as e:
-            ultimo = e
-            txt = str(e).lower()
-            if "model" in txt and any(k in txt for k in ("not found", "does not exist", "invalid", "access")):
-                print(f"Modelo {modelo} indisponível: {str(e)[:200]}")
-                continue
-            raise
+        for tam in TAMANHOS:
+            try:
+                args = dict(model=modelo, prompt=pedido["prompt"], size=tam,
+                            quality=pedido.get("qualidade", "high"), n=1)
+                if imagens:
+                    r = client.images.edit(image=[open(f, "rb") for f in imagens], **args)
+                else:
+                    r = client.images.generate(**args)
+                return modelo, base64.b64decode(r.data[0].b64_json)
+            except Exception as e:
+                ultimo = e
+                txt = str(e).lower()
+                if "size" in txt and tam != TAMANHOS[-1]:
+                    continue
+                if "model" in txt and any(k in txt for k in ("not found", "does not exist", "invalid", "access")):
+                    print(f"Modelo {modelo} indisponível: {str(e)[:200]}")
+                    break
+                raise
     raise ultimo
 
 

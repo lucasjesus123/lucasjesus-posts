@@ -8,15 +8,17 @@ O Instagram **@lucasjesus.oficial** no piloto automático: um post por dia, às 
 |---|---|---|
 | **Radar de IA** (GitHub) | todo dia, 05:50 | lê os feeds oficiais (OpenAI, Google, DeepMind, Hugging Face, Microsoft, NVIDIA) e a imprensa de tecnologia e grava `radar/AAAA-MM-DD.json` |
 | **Squad** (rotina diária do Claude) | todo dia, ~14h | estrategista, pesquisador, copywriter, diretor de arte e revisor criam o post do dia e salvam em `posts/AAAA-MM-DD/` |
-| **Gerar imagem (GPT)** (GitHub) | quando o squad pede | gera ingredientes de imagem com a API oficial da OpenAI (sem texto) |
+| **Gerar arte (GPT)** (GitHub) | quando o squad pede | cria a arte de cada slide com a API oficial da OpenAI |
 | **Publicar no Instagram** (GitHub) | a cada 5 min | publica no horário exato: post único, carrossel ou Reels, mais o story |
 | **Métricas** (GitHub) | segundas, 07:20 | lê alcance, salvamentos e compartilhamentos para o Analista ajustar a estratégia |
 
 Regras do squad em `agentes/` (comece por `squad.md`). Sistema visual em `agentes/marca.md` e `kit/render.py`.
 
-### Por que não tem cara de IA
+### As artes
 
-A arte é montada em código (tipografia, grid e paleta próprios), com as **suas fotos reais**. O GPT só gera ingredientes (objeto, cenário), que recebem tratamento de revista (duotone e grão). O texto passa por um revisor que barra os vícios de escrita de IA.
+O GPT (API oficial da OpenAI) cria cada arte nos **estilos aprovados** em `estilos/` (capa de revista, notícia 3D, frase cinema, frase tipográfica, dica de prompt, radar da semana, antes x depois). Cada estilo guarda o molde do prompt, então o padrão se mantém todo dia. Um revisor confere letra por letra antes de agendar.
+
+**Novo estilo:** gere uma arte que você goste, salve em `estilos/` e peça ao Claude para registrar o molde em `estilos/estilos.json`.
 
 ## O que você faz
 

@@ -1,6 +1,8 @@
-# Sistema visual (kit/render.py)
+# Sistema visual
 
-A arte é feita em código, não por gerador de imagem. É isso que tira a "cara de IA": tipografia de verdade, grid fixo, paleta própria e fotos reais.
+**Caminho principal:** a arte inteira é criada pelo GPT Image (API da OpenAI) nos estilos aprovados de `estilos/estilos.json` (ver `diretor_arte.md`).
+
+**Plano B** (se o GPT falhar duas vezes): os modelos em código do `kit/render.py`, descritos abaixo.
 
 ## Paleta (só estas cores)
 

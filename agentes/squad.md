@@ -26,8 +26,8 @@ Leia também: `voz.md` (como o Lucas fala), `calendario.md` (o que sai em cada d
 2. **Estrategista** → briefing.
 3. **Pesquisador** → fatos com fonte (pula nos dias de frase e pergunta, a não ser que o briefing cite um dado).
 4. **Copywriter** → 3 propostas. O orquestrador dá nota de 0 a 5 em: para o dedo, clareza em 1 segundo, soa como o Lucas, utilidade para quem lê, verdade. Fica com a maior soma; empate vence a que soa mais como o Lucas.
-5. **Diretor de Arte** → `arte.json` + imagens; renderiza com `python3 kit/render.py posts/PASTA/arte.json posts/PASTA`.
-6. **Revisor** (agente NOVO, que não viu a produção) abre TODOS os JPGs e a legenda. Corrija e revise de novo (no máximo 2 rodadas). Se ainda reprovar, troque por um post de frase, que é o mais seguro.
+5. **Diretor de Arte** → escolhe o estilo em `estilos/estilos.json`, preenche o molde e gera cada slide com o GPT (`scripts/pedir_arte.py`), depois o story (`scripts/story.py`). Plano B: `kit/render.py`.
+6. **Revisor** (agente NOVO, que não viu a produção) abre TODOS os JPGs e a legenda. Corrija e revise de novo (no máximo 2 rodadas). Se ainda reprovar, troque por um post no estilo frase-tipografica, que é o mais seguro.
 7. **Agendar** e conferir pendências (ver o prompt da rotina).
 
 ## Regras de ouro

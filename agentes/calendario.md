@@ -1,23 +1,21 @@
-# Calendário: 1 post por dia, às 18h
+# Calendário: 1 post por dia, às 18h (feed + story)
 
-Todo post vai também para o story (a arte `story.jpg` sai junto no render).
+As artes são criadas pelo GPT nos estilos de `estilos/estilos.json`. Nem todo post leva a foto do Lucas: na semana, 3 com foto e 4 sem.
 
-| Dia | Formato | Modelo(s) | Tom | O que é |
+| Dia | Formato | Estilo | Foto? | O que é |
 |---|---|---|---|---|
-| **Segunda** | Carrossel 5 a 7 | manchete + slide + lista + fecho | claro | **Radar da semana:** a notícia de IA mais importante dos últimos 7 dias e o que ela muda para quem tem empresa |
-| **Terça** | Post único | manifesto | escuro | **Frase forte:** opinião curta e afiada do Lucas sobre IA e negócios (até 12 palavras) |
-| **Quarta** | Carrossel 5 a 8 | manchete ou dividido + lista + fecho | claro | **Na prática:** uma ferramenta, um prompt ou um método, com o passo a passo que a pessoa consegue repetir hoje |
-| **Quinta** | Post único | versus ou nota | escuro | **Frase de contraste:** o jeito comum x o jeito do Lucas, ou uma anotação do caderno dele |
-| **Sexta** | Post único ou carrossel 3 a 5 | manchete (+ slide + fecho) | escuro | **Notícia quente:** o lançamento ou a novidade de IA dos últimos 3 dias |
-| **Sábado** | Post único | retrato (foto real) ou nota | claro | **Frase com rosto:** uma frase dele sobre trabalho, aprendizado ou liderança; com foto real quando houver no catálogo |
-| **Domingo** | Post único | frase | claro | **Propósito:** reflexão sobre trabalho, família, fé e tecnologia, no tom de quem é pastor e pai, sem pregar |
-
-**Frases são o forte do perfil:** pelo menos 4 por semana (terça, quinta, sábado e domingo). Alterne os modelos de frase (manifesto, versus, nota, frase, retrato) para o grid não ficar repetido: o mesmo modelo de frase não sai duas vezes na mesma semana.
+| **Segunda** | Carrossel 4 a 6 | radar-semana (capa) + slides de notícia | não | **Radar da semana:** as novidades de IA mais importantes dos últimos 7 dias e o que cada uma muda para quem tem empresa |
+| **Terça** | Post único | frase-tipografica | não | **Frase forte:** opinião curta e afiada sobre IA e negócios |
+| **Quarta** | Carrossel 4 a 7 | dica-prompt (capa) + passo a passo | não | **Na prática:** um prompt, uma ferramenta ou um método que a pessoa repete hoje |
+| **Quinta** | Post único | capa-revista | sim | **Autoridade:** a opinião do Lucas sobre um tema da semana, em formato de capa |
+| **Sexta** | Post único ou carrossel 2 a 4 | noticia-3d | sim | **Notícia quente:** o lançamento de IA dos últimos 3 dias, com ele e o objeto 3D |
+| **Sábado** | Post único | antes-depois (ou mito x verdade) | não | **Comparativo:** sem IA x com IA, para salvar e mandar para o sócio |
+| **Domingo** | Post único | frase-cinema | sim | **Propósito:** trabalho, família, fé e tecnologia, no tom de quem é pastor e pai, sem pregar |
 
 ## Regras do grid
 
-- O perfil é visto em grade de 3. Nunca 3 posts seguidos do mesmo tom; se o calendário causar isso, troque o tom do dia.
-- Foto do Lucas: só as do catálogo. Ele aparece em pelo menos 3 posts por semana: capa do carrossel de segunda ou quarta, o retrato de sábado e o fecho dos carrosséis. Nunca a mesma foto duas vezes em 10 dias.
-- Carrossel: no máximo 3 por semana.
+- Nunca o mesmo estilo em 2 posts seguidos; nunca 3 posts seguidos com a foto dele.
+- Alterne claro e escuro: nunca 3 escuros seguidos (se acontecer, faça a frase de terça no tom claro).
 - O mesmo assunto não volta antes de 14 dias (veja o campo `tema` dos últimos posts).
-- **Sem fotos catalogadas ainda** (`fotos/fotos.json` vazio): o sábado vira `nota` e o `fecho` sai sem avatar. Nunca use foto gerada por IA no lugar do Lucas.
+- Foto do Lucas: a mesma foto não se repete em 10 dias.
+- Ideias de `pautas/ideias.md` passam na frente do calendário quando couberem no dia.
