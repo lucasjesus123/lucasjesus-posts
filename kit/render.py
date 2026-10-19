@@ -313,8 +313,40 @@ def m_moldura(p, img, story):
 </div>"""
 
 
+def m_manifesto(p, img, story):
+    """Frase gigante, só tipografia pesada. Para opinião curta e forte (até ~12 palavras)."""
+    return f"""
+<div class="manifesto">
+  <h1 data-fit="{1150 if story else 900}" data-max="260">{t(p.get('frase', ''))}</h1>
+  <p class="assin">Lucas Jesus</p>
+</div>"""
+
+
+def m_nota(p, img, story):
+    """Frase como anotação do caderno dele: data, uma frase e um complemento."""
+    frase = p.get("frase", "")
+    n = len(frase.replace("|", ""))
+    corpo = 78 if n < 80 else 66 if n < 130 else 56
+    return f"""
+<div class="nota">
+  <p class="ntopo">{t(p.get('titulo') or 'Anotações')}<span>{t(p.get('data', ''))}</span></p>
+  <p class="nfrase" style="font-size:{corpo}px">{t(frase)}</p>
+  <p class="ncomp">{t(p.get('complemento', ''))}</p>
+</div>"""
+
+
+def m_versus(p, img, story):
+    """Contraste em duas linhas: o jeito comum e o jeito dele."""
+    return f"""
+<div class="versus">
+  <div class="vbloco antes"><span>{t(p.get('rotulo_a') or 'O que todo mundo faz')}</span><h2 data-fit="{420 if story else 330}" data-max="120">{t(p.get('a', ''))}</h2></div>
+  <div class="vbloco depois"><span>{t(p.get('rotulo_b') or 'O que eu faço')}</span><h2 data-fit="{420 if story else 330}" data-max="120">{t(p.get('b', ''))}</h2></div>
+</div>"""
+
+
 MODELOS = {"manchete": m_manchete, "slide": m_slide, "fecho": m_fecho, "frase": m_frase,
            "foto": m_foto, "pergunta": m_pergunta, "lista": m_lista,
+           "manifesto": m_manifesto, "nota": m_nota, "versus": m_versus,
            "capa": m_capa, "retrato": m_retrato, "dividido": m_dividido, "moldura": m_moldura}
 
 
@@ -334,6 +366,27 @@ p{text-wrap:pretty}
   align-items:baseline;font-family:Bric,sans-serif;font-size:25px;font-weight:500;color:var(--suave)}
 .assinatura b{font-weight:700;color:var(--texto);font-stretch:85%;font-size:28px;letter-spacing:.01em}
 .assinatura .fio{flex:1;height:2px;background:#C08A2B;margin:0 22px;align-self:center;opacity:.9}
+
+/* manifesto */
+.manifesto{flex:1;display:flex;flex-direction:column;justify-content:center}
+.manifesto h1{line-height:.88;letter-spacing:-.02em}
+.manifesto .assin{margin-top:40px;font-family:Bric,sans-serif;font-size:32px;font-weight:600;color:#C08A2B}
+
+/* nota */
+.nota{flex:1;display:flex;flex-direction:column;justify-content:center}
+.ntopo{display:flex;justify-content:space-between;font-family:Bric,sans-serif;font-size:30px;font-weight:700;padding-bottom:22px;border-bottom:3px solid #C08A2B;margin-bottom:60px}
+.ntopo span{font-weight:500;color:var(--suave)}
+.nfrase{font-weight:420;line-height:1.18;max-width:920px;text-wrap:balance}
+.ncomp{margin-top:44px;font-size:38px;line-height:1.3;font-style:italic;color:var(--suave);max-width:860px}
+.ncomp:empty{display:none}
+
+/* versus */
+.versus{flex:1;display:flex;flex-direction:column;justify-content:center;gap:56px}
+.vbloco span{display:block;font-family:Bric,sans-serif;font-size:30px;font-weight:700;margin-bottom:18px}
+.vbloco.antes span{color:var(--suave)}
+.vbloco.antes h2{color:var(--suave);font-weight:500;text-decoration:line-through;text-decoration-color:#C08A2B;text-decoration-thickness:6px}
+.vbloco.depois{padding-top:50px;border-top:3px solid #C08A2B}
+.vbloco.depois span{color:#C08A2B}
 
 /* manchete */
 .manchete{flex:1;display:flex;flex-direction:column}

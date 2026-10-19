@@ -23,7 +23,12 @@ Abordagens (uma diferente em cada proposta): contraste, número específico, inv
 - **Título:** até 9 palavras, funciona sozinho. Use "|" só para forçar quebra de linha.
 - **Subtítulo / texto de slide:** até 22 palavras.
 - **Carrossel:** a capa promete, cada slide entrega UMA coisa, o último é o `fecho` (opinião do Lucas em 1 ou 2 frases + o que fazer agora).
-- **Frase:** até 25 palavras. Precisa dar vontade de compartilhar e soar como ele, não como frase de caneca.
+- **Frases (o forte do perfil):** precisam dar vontade de print e de mandar para alguém. Soam como ele falando, não como frase de caneca.
+  - manifesto: até 12 palavras, afirmativa, com uma virada no fim;
+  - versus: os dois lados com o mesmo tamanho e a mesma estrutura;
+  - nota: uma observação de quem constrói sistemas, mais um complemento prático;
+  - frase: até 25 palavras, mais reflexiva.
+  Teste: se trocar o nome "Lucas Jesus" por qualquer outro guru e a frase continuar igual, ela é genérica. Reescreva.
 - Nada de destacar palavra solta, de caixa alta em frase inteira, de emoji na arte.
 
 ## Regras da legenda

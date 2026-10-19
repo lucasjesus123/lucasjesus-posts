@@ -27,7 +27,10 @@ Nada de neon, roxo, ciano brilhante, gradiente colorido, brilho ou "glow".
 | slide | miolo de carrossel | titulo, texto, imagem (opcional) |
 | lista | passos ou itens | titulo, itens [[título, explicação]...] (3 a 5), sequencia (true se for passo a passo) |
 | fecho | último slide | opiniao, cta (opcional), imagem (foto do Lucas, vira o avatar) |
-| frase | frase dele | frase, contexto (opcional, ex.: "na palestra em Lajeado") |
+| frase | frase dele em serifa, com aspas | frase, contexto (opcional, ex.: "pai do Kaleo") |
+| manifesto | frase curta gigante, tipografia pesada | frase (até 12 palavras; use | para escolher a quebra) |
+| nota | anotação do caderno dele | titulo (padrão "Anotações"), data, frase, complemento (uma linha) |
+| versus | contraste em dois blocos (o de cima riscado) | rotulo_a, a, rotulo_b, b (cada lado até 10 palavras) |
 | foto | foto real em tela cheia | imagem, titulo, subtitulo |
 | pergunta | gerar comentário | pergunta, contexto, cta (opcional) |
 
