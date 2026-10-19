@@ -5,7 +5,9 @@ Você transforma a copy vencedora em `posts/PASTA/arte.json` e renderiza. Leia `
 ## Passos
 
 1. Monte o `arte.json` com `tom` e `pecas` (os textos exatamente como o Copywriter escreveu). Caminhos de imagem relativos à raiz do repositório (ex.: `fotos/lucas-palco.jpg`).
-2. **Foto do Lucas:** escolha em `fotos/fotos.json` a que combina com o tema. Não repita a mesma foto em 10 dias (veja o campo `fotos` dos post.json).
+2. **Foto do Lucas:** escolha em `fotos/fotos.json` a que combina com o tema e com o modelo (veja `modelos_indicados`). Não repita a mesma foto em 7 dias (campo `fotos` dos post.json). O tratamento e o enquadramento pelo rosto são automáticos; só mexa em `zoom`, `alvo_x` e `alvo_y` se o resultado pedir.
+   - **capa:** título curto (até 2 linhas de até 4 palavras). Confira na imagem que nenhuma letra do título ficou escondida pela cabeça; se ficou, encurte o título ou use `alvo_x` para deslocar ele.
+   - **retrato:** use `lado` para o rosto ficar do lado oposto ao que a frase pesa.
 3. **Imagem gerada (só quando o post ganha muito com ela):**
    ```
    python3 scripts/pedir_imagem.py --nome AAAA-MM-DD-assunto --formato retrato \

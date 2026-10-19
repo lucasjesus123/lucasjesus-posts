@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 gerar/cache/
 .DS_Store
+assets/cache/

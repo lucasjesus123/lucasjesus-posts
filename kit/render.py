@@ -29,6 +29,8 @@ import json
 import pathlib
 import sys
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+
 from PIL import Image, ImageEnhance, ImageOps
 
 KIT = pathlib.Path(__file__).resolve().parent
@@ -94,6 +96,47 @@ def img_url(peca, base):
     return tratar(p, trat)
 
 
+FOTO_MODELOS = {"foto", "fecho", "capa", "retrato", "dividido", "moldura"}
+
+
+def _uri(img, fmt="JPEG"):
+    buf = io.BytesIO()
+    if fmt == "PNG":
+        img.save(buf, "PNG", optimize=True)
+        return "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
+    img.convert("RGB").save(buf, "JPEG", quality=90)
+    return "data:image/jpeg;base64," + base64.b64encode(buf.getvalue()).decode()
+
+
+def _ficha(p):
+    import foto  # kit/foto.py
+    return foto, foto.preparar(p["_arquivo"])
+
+
+def foto_uri(p, w, h, alvo_y=0.30, cabeca_frac=0.20, alvo_x=0.5):
+    """Foto real do Lucas tratada e enquadrada pelo rosto, no tamanho exato."""
+    if not p.get("_arquivo"):
+        return ""
+    foto, ficha = _ficha(p)
+    pb = p.get("tratamento") == "pb"
+    return _uri(foto.enquadrar(ficha, w, h, alvo_y=p.get("alvo_y", alvo_y),
+                               cabeca_frac=p.get("zoom", cabeca_frac), pb=pb, alvo_x=p.get("alvo_x", alvo_x)))
+
+
+def recorte_uri(p, w, h, cabeca_y=0.38, cabeca_frac=0.16, cx=0.5):
+    """Lucas recortado (sem fundo), posicionado pelo rosto."""
+    if not p.get("_arquivo"):
+        return ""
+    foto, ficha = _ficha(p)
+    rec = foto.recorte_posicionado(ficha, w, h, cabeca_y=p.get("alvo_y", cabeca_y),
+                                   cabeca_frac=p.get("zoom", cabeca_frac), cx=p.get("alvo_x", cx))
+    if p.get("tratamento") == "pb":
+        a = rec.split()[-1]
+        rec = ImageOps.grayscale(rec.convert("RGB")).convert("RGBA")
+        rec.putalpha(a)
+    return _uri(rec, "PNG")
+
+
 # ---------- texto ----------
 
 def t(s):
@@ -145,7 +188,8 @@ def m_slide(p, img, story):
 
 def m_fecho(p, img, story):
     """Último slide: a opinião do Lucas + o que fazer agora."""
-    avatar = f'<div class="avatar" style="background-image:url({img})"></div>' if img else ""
+    av = foto_uri(p, 240, 240, alvo_y=0.5, cabeca_frac=0.62) if p.get("_arquivo") else img
+    avatar = f'<div class="avatar" style="background-image:url({av})"></div>' if av else ""
     return f"""
 <div class="fecho">
   <p class="fopiniao">{t(p.get('opiniao', ''))}</p>
@@ -173,7 +217,7 @@ def m_foto(p, img, story):
     """Foto real dele em tela cheia, com título curto."""
     corpo = tam_titulo(p.get("titulo", ""), 118, 64)
     return f"""
-<div class="foto" style="background-image:url({img or ''})">
+<div class="foto" style="background-image:url({foto_uri(p, 1080, 1920 if story else 1350, alvo_y=0.27 if story else 0.25, cabeca_frac=0.17) if p.get('_arquivo') else (img or '')})">
   <div class="fgrad"></div>
   <div class="ftexto">
     <h1 data-fit="{420 if story else 360}" data-max="170">{t(p.get('titulo', ''))}</h1>
@@ -207,8 +251,71 @@ def m_lista(p, img, story):
 </div>"""
 
 
+def m_capa(p, img, story):
+    """Capa de revista: o título enorme ATRÁS de você (a cabeça passa por cima das letras)."""
+    h = 1920 if story else 1350
+    # a cabeça começa logo abaixo do título: o cabelo encosta nas letras sem esconder a palavra
+    frac = 0.17 if story else 0.22
+    topo_cabeca = 0.36 if story else 0.40
+    rec = recorte_uri(p, 1080, h, cabeca_y=topo_cabeca + frac / 2, cabeca_frac=frac, cx=0.56)
+    return f"""
+<div class="capa">
+  <div class="ctopo"><span class="marca">{t(p.get('chapeu', ''))}</span><span>{t(p.get('data', ''))}</span></div>
+  <h1 class="ctitulo" data-fit="{430 if story else 390}" data-max="300">{t(p.get('titulo', ''))}</h1>
+  <div class="crec" style="background-image:url({rec})"></div>
+  <div class="cbase"><p>{t(p.get('subtitulo', ''))}</p></div>
+</div>"""
+
+
+def m_retrato(p, img, story):
+    """Retrato (P&B por padrão) em tela cheia, com uma frase dele."""
+    if not p.get("tratamento"):
+        p["tratamento"] = "pb"
+    h = 1920 if story else 1350
+    lado = p.get("lado", "direita")  # onde fica o rosto
+    ax = 0.64 if lado == "direita" else 0.36
+    fundo = foto_uri(p, 1080, h, alvo_y=0.30 if story else 0.27, cabeca_frac=0.24, alvo_x=ax)
+    frase = p.get("frase", "")
+    n = len(frase.replace("|", ""))
+    corpo = 76 if n < 70 else 64 if n < 120 else 54
+    return f"""
+<div class="retrato" style="background-image:url({fundo})">
+  <div class="rgrad"></div>
+  <div class="rtexto"><blockquote style="font-size:{corpo}px">{t(frase)}</blockquote>
+  <p class="assin">Lucas Jesus{(' — ' + t(p.get('contexto'))) if p.get('contexto') else ''}</p></div>
+</div>"""
+
+
+def m_dividido(p, img, story):
+    """Foto em cima, ideia embaixo. Capa de carrossel ou post com autoridade."""
+    h = 1920 if story else 1350
+    ph = 1060 if story else 760
+    fundo = foto_uri(p, 1080, ph, alvo_y=0.42, cabeca_frac=0.30)
+    return f"""
+<div class="dividido">
+  <div class="dfoto" style="height:{ph}px;background-image:url({fundo})"></div>
+  <div class="dtexto">
+    <p class="dchapeu">{t(p.get('chapeu', ''))}</p>
+    <h1 data-fit="{300 if story else 250}" data-max="150">{t(p.get('titulo', ''))}</h1>
+    <p class="dsub">{t(p.get('subtitulo', ''))}</p>
+  </div>
+</div>"""
+
+
+def m_moldura(p, img, story):
+    """Bastidor: a foto como uma cópia impressa sobre o papel, com legenda à mão do editor."""
+    w, h = 912, (1100 if story else 860)
+    fundo = foto_uri(p, w, h, alvo_y=0.36, cabeca_frac=0.20)
+    return f"""
+<div class="moldura">
+  <div class="mfotoimp" style="height:{h}px;background-image:url({fundo})"></div>
+  <div class="mlegenda"><h2>{t(p.get('titulo', ''))}</h2><p>{t(p.get('legenda', ''))}</p></div>
+</div>"""
+
+
 MODELOS = {"manchete": m_manchete, "slide": m_slide, "fecho": m_fecho, "frase": m_frase,
-           "foto": m_foto, "pergunta": m_pergunta, "lista": m_lista}
+           "foto": m_foto, "pergunta": m_pergunta, "lista": m_lista,
+           "capa": m_capa, "retrato": m_retrato, "dividido": m_dividido, "moldura": m_moldura}
 
 
 CSS = """
@@ -223,7 +330,7 @@ body{font-family:News,serif;-webkit-font-smoothing:antialiased;text-rendering:ge
 h1,h2{font-family:Bric,sans-serif;font-stretch:75%;font-weight:700;line-height:.92;letter-spacing:-.015em;text-wrap:balance}
 p{text-wrap:pretty}
 /* assinatura: o nome dele é a marca */
-.assinatura{position:absolute;left:84px;right:84px;bottom:calc(var(--base) - 70px);display:flex;justify-content:space-between;
+.assinatura{position:absolute;z-index:5;left:84px;right:84px;bottom:calc(var(--base) - 70px);display:flex;justify-content:space-between;
   align-items:baseline;font-family:Bric,sans-serif;font-size:25px;font-weight:500;color:var(--suave)}
 .assinatura b{font-weight:700;color:var(--texto);font-stretch:85%;font-size:28px;letter-spacing:.01em}
 .assinatura .fio{flex:1;height:2px;background:#C08A2B;margin:0 22px;align-self:center;opacity:.9}
@@ -290,6 +397,41 @@ p{text-wrap:pretty}
 .lista li i{font-style:normal;font-family:Bric,sans-serif;font-weight:700;font-size:48px;color:#C08A2B;width:44px;flex:none;line-height:1}
 .lista li b{display:block;font-family:Bric,sans-serif;font-stretch:85%;font-size:44px;font-weight:700;line-height:1.05;margin-bottom:8px}
 .lista li span{display:block;font-size:34px;line-height:1.28;color:var(--suave)}
+
+/* capa (revista) */
+.quadro.sem-margem{padding:0}
+.capa{position:absolute;inset:0;padding:var(--topo) 84px 0}
+.ctopo{position:relative;z-index:1;display:flex;justify-content:space-between;font-family:Bric,sans-serif;font-size:28px;font-weight:500;color:var(--suave);padding-bottom:22px;border-bottom:3px solid #C08A2B}
+.ctopo .marca{color:var(--texto);font-weight:700}
+.ctitulo{position:relative;z-index:1;margin-top:34px;line-height:.86;letter-spacing:-.02em;text-transform:none}
+.crec{position:absolute;inset:0;z-index:2;background-size:100% 100%;filter:drop-shadow(0 18px 40px rgba(0,0,0,.35))}
+.cbase{position:absolute;left:0;right:0;bottom:0;z-index:3;padding:200px 84px calc(var(--base) + 26px);
+  background:linear-gradient(to bottom,transparent,var(--fundo) 55%)}
+.cbase p{font-size:42px;line-height:1.24;max-width:860px}
+.cbase p:empty{display:none}
+
+/* retrato */
+.retrato{position:absolute;inset:0;background-size:cover;background-position:center}
+.rgrad{position:absolute;inset:0;background:linear-gradient(to bottom,rgba(15,30,58,0) 45%,rgba(15,30,58,.82) 74%,#0F1E3A 100%)}
+.rtexto{position:absolute;left:84px;right:84px;bottom:calc(var(--base) + 24px);color:#FBFCFB}
+.rtexto blockquote{font-weight:420;line-height:1.14;max-width:900px;text-wrap:balance}
+.rtexto .assin{margin-top:30px;color:#C9D0DC}
+
+/* dividido */
+.dividido{position:absolute;inset:0;display:flex;flex-direction:column}
+.dfoto{flex:none;background-size:cover;background-position:center;border-bottom:6px solid #C08A2B}
+.dtexto{flex:1;padding:46px 84px calc(var(--base) + 10px);display:flex;flex-direction:column}
+.dchapeu{font-family:Bric,sans-serif;font-size:28px;font-weight:700;color:#C08A2B;margin-bottom:18px}
+.dchapeu:empty{display:none}
+.dtexto h1{margin-bottom:22px}
+.dsub{font-size:38px;line-height:1.26;color:var(--suave);max-width:880px}
+
+/* moldura (bastidor) */
+.moldura{flex:1;display:flex;flex-direction:column;justify-content:center}
+.mfotoimp{width:912px;background-size:cover;background-position:center;box-shadow:0 2px 0 rgba(15,30,58,.08),0 30px 60px -30px rgba(15,30,58,.45);outline:14px solid #FBFCFB}
+.mlegenda{margin-top:56px;display:flex;flex-direction:column;gap:14px}
+.mlegenda h2{font-size:64px}
+.mlegenda p{font-size:36px;line-height:1.3;font-style:italic;color:var(--suave);max-width:880px}
 """
 
 
@@ -304,9 +446,16 @@ def pagina(peca, tom, base, story):
     modelo = peca.get("modelo", "frase")
     if modelo not in MODELOS:
         raise SystemExit(f"Modelo desconhecido: {modelo}. Existem: {', '.join(MODELOS)}")
-    img = img_url(peca, base)
     tom = peca.get("tom", tom)
-    if modelo == "foto":
+    if modelo in FOTO_MODELOS and peca.get("imagem") and not peca.get("ia"):
+        arq = pathlib.Path(peca["imagem"])
+        if not arq.is_absolute():
+            arq = next((c for c in (base / arq, pathlib.Path.cwd() / arq, KIT.parent / arq) if c.exists()), arq)
+        peca = dict(peca, _arquivo=str(arq))
+        img = None
+    else:
+        img = img_url(peca, base)
+    if modelo in ("foto", "retrato"):
         tom = "escuro"
     h = 1920 if story else 1350
     # story: textos fora dos 14% do topo e 20% da base
@@ -314,7 +463,7 @@ def pagina(peca, tom, base, story):
     miolo = MODELOS[modelo](peca, img, story)
     assinatura = ('<div class="assinatura"><b>Lucas Jesus</b><span class="fio"></span>'
                   '<span>lucasjesus.ia.br</span></div>')
-    extra = " tem-foto" if modelo == "foto" else ""
+    extra = {"foto": " tem-foto", "retrato": " tem-foto", "capa": " sem-margem", "dividido": " sem-margem"}.get(modelo, "")
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>{fonte_css()}
 :root{{--h:{h}px;--topo:{topo}px;--base:{baixo}px}}{CSS}</style></head>
 <body><div class="quadro {tom}{extra}"><div class="miolo">{miolo}</div>{assinatura}</div></body></html>"""

@@ -17,7 +17,11 @@ Leia também: `voz.md` (como o Lucas fala), `calendario.md` (o que sai em cada d
 
 ## Fluxo
 
-0. **Fotos novas.** Se houver arquivos em `fotos/novas/` (fora o LEIA-ME), catalogue cada um: abra, descreva o que se vê (lugar, roupa, momento, enquadramento, se tem espaço para texto), dê um nome curto em kebab-case, mova com `git mv` para `fotos/` e registre em `fotos/fotos.json`. Nunca invente onde ou quando a foto foi tirada: se não der para saber, escreva "contexto: não informado".
+0. **Fotos novas.** Se houver arquivos em `fotos/novas/` (fora o LEIA-ME), catalogue cada um:
+   - abra a foto, descreva o que se vê (lugar, roupa, momento, expressão, enquadramento), dê um nome curto em kebab-case e mova com `git mv` para `fotos/`;
+   - rode `python3 kit/foto.py fotos/NOME.jpg` e copie para o catálogo a `qualidade` e a `deteccao`;
+   - registre em `fotos/fotos.json`: arquivo, descricao, contexto, qualidade, modelos_indicados (ex.: retrato P&B para foto pensativa; capa e dividido para foto de corpo inteiro ou meio corpo; moldura e foto para palco e bastidor).
+   Nunca invente onde ou quando a foto foi tirada: se não der para saber, escreva "contexto: não informado". Foto com marca d'água de outro app ou que pareça gerada por IA não entra: anote `"qualidade": "recusada"` e o motivo.
 1. **Contexto.** Leia o calendário do dia, `pautas/ideias.md` (ideias que o Lucas deixou: têm prioridade sobre o calendário quando couberem no dia), o radar mais recente em `radar/`, `metricas/ultimas.json` se existir, e os `post.json` dos 10 últimos posts.
 2. **Estrategista** → briefing.
 3. **Pesquisador** → fatos com fonte (pula nos dias de frase e pergunta, a não ser que o briefing cite um dado).
