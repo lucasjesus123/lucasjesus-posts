@@ -4,5 +4,6 @@
   "qualidade": "high",
   "post": "posts/2026-10-20",
   "slide": "01",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "Falta o segredo OPENAI_API_KEY no repositório. Arte feita no plano B (kit/render.py)."
 }
