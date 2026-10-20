@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-10-20T13:52:48+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "data": "2026-10-19T22:04:28+00:00",
+      "resumo": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "nota": 10.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "data": "2026-10-19T12:00:00+00:00",
+      "resumo": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "nota": 9.92
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "data": "2026-10-19T15:37:09+00:00",
+      "resumo": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "nota": 9.07
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "data": "2026-10-19T19:28:34+00:00",
+      "resumo": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "nota": 8.23
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "data": "2026-10-19T18:22:47+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "nota": 8.19
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "data": "2026-10-20T13:06:44+00:00",
+      "resumo": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
+      "nota": 7.97
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "data": "2026-10-20T13:00:00+00:00",
+      "resumo": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "nota": 7.96
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI adoption by industry shows what other sectors can learn",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "data": "2026-10-20T12:00:00+00:00",
+      "resumo": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "nota": 7.92
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "A visit to Samsung’s massive new semiconductor hub",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "data": "2026-10-20T09:00:00+00:00",
+      "resumo": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "nota": 7.8
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "data": "2026-10-19T09:08:05+00:00",
+      "resumo": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "nota": 7.8
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "data": "2026-10-19T23:39:38+00:00",
+      "resumo": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "nota": 7.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "data": "2026-10-19T20:09:24+00:00",
+      "resumo": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "nota": 7.26
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+      "data": "2026-10-19T18:49:04+00:00",
+      "resumo": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "nota": 7.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "People are using AI to make their smart TVs dumb again",
+      "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "data": "2026-10-19T16:13:22+00:00",
+      "resumo": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "nota": 7.1
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "data": "2026-10-19T13:58:41+00:00",
+      "resumo": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]",
+      "nota": 7.0
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "data": "2026-10-20T13:07:24+00:00",
+      "resumo": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "nota": 6.97
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "data": "2026-10-19T12:30:00+00:00",
+      "resumo": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+      "nota": 6.94
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "data": "2026-10-20T11:00:00+00:00",
+      "resumo": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "nota": 6.88
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "data": "2026-10-20T11:00:00+00:00",
+      "resumo": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "nota": 6.88
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+      "link": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+      "data": "2026-10-20T05:00:00+00:00",
+      "resumo": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries. Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some […]",
+      "nota": 6.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "data": "2026-10-20T01:27:03+00:00",
+      "resumo": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "nota": 6.48
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "data": "2026-10-19T22:49:27+00:00",
+      "resumo": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
+      "nota": 6.37
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "data": "2026-10-19T21:28:20+00:00",
+      "resumo": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+      "nota": 6.32
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "TV LG QNED 55″ com Mini LED atinge 32% OFF em oferta no Mercado Livre",
+      "link": "https://tecnoblog.net/achados/tv-lg-qned-55-com-mini-led-atinge-32-off-em-oferta-no-mercado-livre/",
+      "data": "2026-10-19T21:18:03+00:00",
+      "resumo": "Modelo 55QNED70BSA, lançado em 2026, conta com Mini LED para melhor iluminação e inteligência artificial integrada para diversas áreas do sistema WebOS 26 TV LG QNED 55″ com Mini LED atinge 32% OFF em oferta no Mercado Livre",
+      "nota": 6.31
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "data": "2026-10-18T20:37:40+00:00",
+      "resumo": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
+      "nota": 6.28
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "link": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "data": "2026-10-19T19:27:08+00:00",
+      "resumo": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […]",
+      "nota": 6.23
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "data": "2026-10-19T19:00:12+00:00",
+      "resumo": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "nota": 6.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "data": "2026-10-19T18:37:27+00:00",
+      "resumo": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "nota": 6.2
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "link": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "data": "2026-10-19T17:45:55+00:00",
+      "resumo": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is…",
+      "nota": 6.16
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
+      "link": "https://tecnoblog.net/noticias/usuarios-usam-ia-para-remover-anuncios-e-mudar-interfaces-de-tvs/",
+      "data": "2026-10-19T15:41:42+00:00",
+      "resumo": "Projetos usam ferramentas como Claude Code para criar launchers personalizados. Usuários recorrem à IA para remover anúncios e mudar interfaces de TVs",
+      "nota": 6.08
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "link": "https://tecnoblog.net/noticias/anthropic-quer-barrar-ias-apenas-diante-de-riscos-extremos/",
+      "data": "2026-10-19T15:31:29+00:00",
+      "resumo": "Projeto prevê bloqueio de modelos que ameacem causar mais de 50 mortes ou ferimentos graves, ou prejuízos acima de US$ 1 bilhão. Anthropic quer barrar IAs apenas diante de riscos extremos",
+      "nota": 6.07
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "data": "2026-10-19T14:30:00+00:00",
+      "resumo": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]",
+      "nota": 6.03
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Democrats think cracking down on AI could give them an edge",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "data": "2026-10-19T12:00:00+00:00",
+      "resumo": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That […]",
+      "nota": 5.92
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "data": "2026-10-17T20:21:19+00:00",
+      "resumo": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "nota": 5.27
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "data": "2026-10-19T20:21:53+00:00",
+      "resumo": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "nota": 5.27
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Disney agrees to hire the majority of Character AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "data": "2026-10-18T16:30:00+00:00",
+      "resumo": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "nota": 5.11
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta removes language that raised scraping and AI training concerns",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "data": "2026-10-17T21:31:32+00:00",
+      "resumo": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "nota": 4.32
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "data": "2026-10-17T21:00:13+00:00",
+      "resumo": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs. Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with […]",
+      "nota": 4.3
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "AI game clones are making indie developers afraid to show their work",
+      "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+      "data": "2026-10-19T16:59:22+00:00",
+      "resumo": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+      "nota": 4.13
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Chefe do Instagram admite que ainda não sabe como combater deep fakes",
+      "link": "https://tecnoblog.net/noticias/chefe-do-instagram-admite-que-ainda-nao-sabe-como-combater-deep-fakes/",
+      "data": "2026-10-19T16:39:33+00:00",
+      "resumo": "Perfis usam avatares gerados por inteligência artificial para reproduzir conteúdo original. Chefe do Instagram admite que ainda não sabe como combater deep fakes",
+      "nota": 4.12
+    }
+  ]
+}
