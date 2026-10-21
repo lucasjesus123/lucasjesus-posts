@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-10-21T18:00:00-03:00",
+  "dia": "quarta",
+  "tema": "Conferência de caixa com IA: cruzar vendas do PDV, maquininha e extrato do banco com um prompt",
+  "grande_ideia": "Tu não precisa conferir linha por linha: a IA cruza os três relatórios e te entrega só o que não bate.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 6",
+  "estilo": "dica-prompt (plano B: manchete + slides do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Quem confere tudo no olho não fica mais seguro. Fica mais cansado.\n\nO sistema, a maquininha e o banco quase nunca contam a mesma história.\nEm vez de bater linha por linha, deixa a IA cruzar os três.\nEla te devolve uma tabela só com o que não bate.\nE já aponta o motivo provável de cada diferença.\nTeu trabalho fica em conferir a lista e corrigir.\n\nPrompt para copiar:\n\nVou te enviar 3 arquivos do mesmo período: as vendas do meu sistema (PDV), o relatório da maquininha e o extrato do banco.\n1. Cruze os três por data, valor e forma de pagamento.\n2. Monte uma tabela só com o que não bate: data, valor em cada arquivo, forma de pagamento e diferença.\n3. Para cada linha, diga o motivo provável (taxa da maquininha, valor que caiu em outro dia, venda cancelada, estorno ou outro).\n4. No fim, mostre o total das diferenças e por qual linha eu começo a conferir.\nSe faltar informação, me pergunte. Não invente valores.\n\nDois cuidados: exporte em planilha ou CSV, porque tabela em foto ou PDF escaneado pode ser lida errado. E tire nome e CPF de cliente antes de subir. No Claude, para ler XLSX, ative \"execução de código e criação de arquivos\".\n\nSalva para usar no próximo fechamento.\n\n#InteligenciaArtificial #FechamentoDeCaixa #ControleFinanceiro #ChatGPT #ClaudeAI",
+  "story": true,
+  "status": "agendado"
+}

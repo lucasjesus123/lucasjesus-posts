@@ -1,0 +1,22 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {"modelo": "manchete", "chapeu": "Na prática", "data": "Salve para o fechamento da semana",
+     "titulo": "Pare de conferir|linha por linha",
+     "subtitulo": "Um prompt cruza vendas, maquininha e banco e te mostra só o que não bate.",
+     "fonte": ""},
+    {"modelo": "slide", "titulo": "Passo 1.|Três arquivos,|um período",
+     "texto": "Vendas do sistema ou PDV, relatório da maquininha e extrato do banco. Do mesmo dia ou da mesma semana, em planilha ou CSV."},
+    {"modelo": "slide", "titulo": "Passo 2.|Cole este prompt",
+     "texto": "No ChatGPT ou no Claude: “Cruze por data, valor e forma de pagamento. Monte uma tabela só com o que não bate.”"},
+    {"modelo": "lista", "titulo": "Passo 3. Pergunte o porquê", "sequencia": false,
+     "itens": [["Taxa da maquininha", "O valor chega ao banco já descontado."],
+               ["Caiu em outro dia", "Venda de um dia que só aparece no extrato depois."],
+               ["Venda cancelada", "Está no sistema, mas o dinheiro não entrou."],
+               ["Estorno", "O valor entrou e depois saiu da conta."]]},
+    {"modelo": "slide", "titulo": "Passo 4.|Olhe só o que sobrou",
+     "texto": "Confira as linhas da lista e corrija. Toda semana, no mesmo dia. E tire nome e CPF de cliente antes de subir."},
+    {"modelo": "fecho", "opiniao": "Olhar tudo dá sensação de controle. Controle mesmo é saber onde olhar.",
+     "cta": "Faz o teste nesta sexta. Salva para usar no próximo fechamento."}
+  ]
+}
