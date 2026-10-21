@@ -1,0 +1,330 @@
+{
+  "gerado_em": "2026-10-21T14:09:40+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone",
+    "Ars Technica: HTTP Error 503: Service Temporarily Unavailable"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "data": "2026-10-21T12:00:00+00:00",
+      "resumo": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "nota": 11.91
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "data": "2026-10-21T13:00:00+00:00",
+      "resumo": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "nota": 10.95
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "data": "2026-10-21T07:00:00+00:00",
+      "resumo": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "nota": 10.7
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "data": "2026-10-21T04:50:00+00:00",
+      "resumo": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "nota": 10.61
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "data": "2026-10-21T13:57:43+00:00",
+      "resumo": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason […]",
+      "nota": 9.99
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "data": "2026-10-20T10:00:00+00:00",
+      "resumo": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "nota": 9.83
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "data": "2026-10-20T07:00:00+00:00",
+      "resumo": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "nota": 9.7
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "data": "2026-10-20T23:01:23+00:00",
+      "resumo": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "nota": 9.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "data": "2026-10-20T20:35:10+00:00",
+      "resumo": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "nota": 9.27
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Advancing coding in low‑resource programming languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "data": "2026-10-19T12:00:00+00:00",
+      "resumo": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "nota": 8.91
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "data": "2026-10-21T10:50:37+00:00",
+      "resumo": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+      "nota": 8.86
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "data": "2026-10-21T10:30:41+00:00",
+      "resumo": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
+      "nota": 8.85
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "data": "2026-10-21T10:30:02+00:00",
+      "resumo": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA […]",
+      "nota": 8.85
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
+      "data": "2026-10-21T09:55:28+00:00",
+      "resumo": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "nota": 8.82
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "data": "2026-10-21T04:00:00+00:00",
+      "resumo": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "nota": 8.58
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI acquires Orchestra Bio",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "data": "2026-10-20T00:00:00+00:00",
+      "resumo": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "nota": 8.41
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "data": "2026-10-21T10:54:49+00:00",
+      "resumo": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "nota": 7.86
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+      "link": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+      "data": "2026-10-21T10:10:01+00:00",
+      "resumo": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor what they do and […]",
+      "nota": 7.83
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote",
+      "link": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/",
+      "data": "2026-10-21T09:30:16+00:00",
+      "resumo": "Founded in a tent near the Berlin Wall in 1980, the Tempodrom moved several times before settling near Anhalter Bahnhof in 2001. Its permanent home has since hosted concerts, galas and political events. Today, it hosts a different kind of spectacle. GTC Berlin runs three days, with more than 100 sessions on agentic AI, robotics, […]",
+      "nota": 7.81
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+      "data": "2026-10-20T23:04:19+00:00",
+      "resumo": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
+      "nota": 7.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "data": "2026-10-20T22:24:02+00:00",
+      "resumo": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "data": "2026-10-20T22:11:34+00:00",
+      "resumo": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]",
+      "nota": 7.33
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "data": "2026-10-20T21:25:22+00:00",
+      "resumo": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "nota": 7.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "data": "2026-10-20T20:40:41+00:00",
+      "resumo": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
+      "nota": 7.27
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "ChatGPT now lets you lock your chats",
+      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "data": "2026-10-20T18:36:53+00:00",
+      "resumo": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+      "nota": 7.19
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Making the internet better for AI agents might make it worse for everyone else",
+      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "data": "2026-10-19T18:22:47+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
+      "nota": 7.18
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+      "data": "2026-10-20T17:55:12+00:00",
+      "resumo": "Eric Schmidt’s fortune is about to get even bigger.",
+      "nota": 7.16
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "data": "2026-10-20T16:20:06+00:00",
+      "resumo": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+      "nota": 7.09
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+      "data": "2026-10-20T16:00:00+00:00",
+      "resumo": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+      "nota": 7.08
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "data": "2026-10-21T14:00:00+00:00",
+      "resumo": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "nota": 6.99
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "data": "2026-10-20T13:06:44+00:00",
+      "resumo": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
+      "nota": 6.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "data": "2026-10-20T13:00:00+00:00",
+      "resumo": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry.",
+      "nota": 6.95
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI adoption by industry shows what other sectors can learn",
+      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "data": "2026-10-20T12:00:00+00:00",
+      "resumo": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably…",
+      "nota": 6.91
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+      "data": "2026-10-20T10:30:11+00:00",
+      "resumo": "Nebius and Nscale are among global technology partners looking to NVIDIA Vera CPUs to build the next wave of infrastructure. Their momentum reflects rapid advancements in agentic computing. Agents do more than generate answers: they retrieve information, run software tools, execute code and evaluate results. Each step depends on fast CPU processing. Vera accelerates that […]",
+      "nota": 6.85
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "data": "2026-10-19T09:08:05+00:00",
+      "resumo": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to…",
+      "nota": 6.79
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "A visit to Samsung’s massive new semiconductor hub",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "data": "2026-10-20T09:00:00+00:00",
+      "resumo": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "nota": 6.78
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "data": "2026-10-19T23:39:38+00:00",
+      "resumo": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
+      "nota": 6.4
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "data": "2026-10-20T18:38:24+00:00",
+      "resumo": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "nota": 6.19
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "data": "2026-10-20T18:07:34+00:00",
+      "resumo": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+      "nota": 6.17
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
+      "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+      "data": "2026-10-20T17:12:48+00:00",
+      "resumo": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "nota": 6.13
+    }
+  ]
+}
