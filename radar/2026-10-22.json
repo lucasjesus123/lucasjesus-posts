@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-10-22T14:07:53+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "data": "2026-10-21T12:00:00+00:00",
+      "resumo": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "nota": 10.91
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "data": "2026-10-21T20:27:41+00:00",
+      "resumo": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "nota": 10.26
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "data": "2026-10-21T19:53:20+00:00",
+      "resumo": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]",
+      "nota": 10.24
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "data": "2026-10-22T13:53:26+00:00",
+      "resumo": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "nota": 9.99
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "data": "2026-10-21T13:00:00+00:00",
+      "resumo": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "nota": 9.95
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Claude did not invent scorpion antivenom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "data": "2026-10-22T12:21:07+00:00",
+      "resumo": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm […]",
+      "nota": 9.93
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "data": "2026-10-22T10:00:00+00:00",
+      "resumo": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "nota": 9.83
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "data": "2026-10-22T08:41:18+00:00",
+      "resumo": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "nota": 9.77
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "data": "2026-10-21T07:00:00+00:00",
+      "resumo": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "nota": 9.7
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "data": "2026-10-22T06:00:00+00:00",
+      "resumo": "What forward deployed engineering means at OpenAI",
+      "nota": 9.66
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "data": "2026-10-21T04:50:00+00:00",
+      "resumo": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "nota": 9.61
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "data": "2026-10-21T21:00:00+00:00",
+      "resumo": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "nota": 9.29
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "data": "2026-10-21T17:00:00+00:00",
+      "resumo": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "nota": 9.12
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "1Password lets AI agents use your passwords without seeing them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "data": "2026-10-22T13:00:00+00:00",
+      "resumo": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it […]",
+      "nota": 8.95
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "data": "2026-10-22T10:38:29+00:00",
+      "resumo": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "nota": 8.85
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "link": "https://openai.com/index/ted-taylor-restaurant",
+      "data": "2026-10-20T10:00:00+00:00",
+      "resumo": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "nota": 8.83
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "data": "2026-10-21T07:00:00+00:00",
+      "resumo": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "nota": 8.7
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "data": "2026-10-20T07:00:00+00:00",
+      "resumo": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "nota": 8.7
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "data": "2026-10-21T00:00:00+00:00",
+      "resumo": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "nota": 8.41
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "data": "2026-10-21T00:00:00+00:00",
+      "resumo": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "nota": 8.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "data": "2026-10-20T23:01:23+00:00",
+      "resumo": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "nota": 8.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "data": "2026-10-20T20:35:10+00:00",
+      "resumo": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "nota": 8.27
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "AI agents are ready to shop. Some retailers are wary.",
+      "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "data": "2026-10-22T12:30:00+00:00",
+      "resumo": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the […]",
+      "nota": 7.93
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "data": "2026-10-21T10:50:37+00:00",
+      "resumo": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+      "nota": 7.86
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "data": "2026-10-21T10:30:41+00:00",
+      "resumo": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
+      "nota": 7.85
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+      "link": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "data": "2026-10-21T10:30:02+00:00",
+      "resumo": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that protects the models and data those agents depend on while running. Today, NVIDIA […]",
+      "nota": 7.85
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "link": "https://tecnoblog.net/noticias/galaxy-s23-do-brasil-recebe-android-17-one-ui-9/",
+      "data": "2026-10-21T09:55:28+00:00",
+      "resumo": "Empresa libera update no modelo lançado em 2023. Software baseado no Android 17 tem expansão do Galaxy AI como principal novidade. Galaxy S23 do Brasil recebe Android 17/One UI 9",
+      "nota": 7.82
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "data": "2026-10-22T05:00:27+00:00",
+      "resumo": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
+      "nota": 7.62
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Southeast Asia’s digital economy to hit $368 billion",
+      "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "data": "2026-10-21T04:00:00+00:00",
+      "resumo": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "nota": 7.58
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI acquires Orchestra Bio",
+      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "data": "2026-10-20T00:00:00+00:00",
+      "resumo": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "nota": 7.41
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta to create a new class of shares to fund AI push",
+      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "data": "2026-10-21T21:30:02+00:00",
+      "resumo": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, […]",
+      "nota": 7.31
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Walmart is inviting AI agents to shop for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "data": "2026-10-21T19:30:00+00:00",
+      "resumo": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]",
+      "nota": 7.22
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "data": "2026-10-21T19:30:00+00:00",
+      "resumo": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "nota": 7.22
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "data": "2026-10-21T18:51:42+00:00",
+      "resumo": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "nota": 7.2
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "data": "2026-10-21T17:59:12+00:00",
+      "resumo": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "nota": 7.16
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Conversational Gemini navigation comes to Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "data": "2026-10-21T15:00:00+00:00",
+      "resumo": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \"rollout happening globally too,\" according to Google (we've asked for specific regional availability details). It's taken almost 12 months for Google to bring […]",
+      "nota": 7.04
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "data": "2026-10-22T14:00:00+00:00",
+      "resumo": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is […]",
+      "nota": 6.99
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nirva raises $33M for a pendant that only listens to you",
+      "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "data": "2026-10-22T13:26:52+00:00",
+      "resumo": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "nota": 6.97
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Eiliko maker says it’s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+      "data": "2026-10-22T11:00:00+00:00",
+      "resumo": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security […]",
+      "nota": 6.87
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "link": "https://tecnoblog.net/noticias/muse-agente-de-ia-da-meta-expos-contratos-e-planilhas-na-internet/",
+      "data": "2026-10-21T10:54:49+00:00",
+      "resumo": "Empresa de segurança digital localizou quase 7 mil links com potenciais dados sensíveis. Muse: agente de IA da Meta expôs contratos e planilhas na internet",
+      "nota": 6.87
+    }
+  ]
+}
