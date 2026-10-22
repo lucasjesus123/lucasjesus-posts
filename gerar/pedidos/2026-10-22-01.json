@@ -1,0 +1,10 @@
+{
+  "prompt": "Premium Instagram post (4:5), designed like the cover of a high-end business magazine. Use the man from the reference photo exactly as he is (same face, full black beard, clear transparent-frame glasses, slicked-back black hair, black button-up shirt, arms crossed, serious confident expression), cut out and placed center, from the waist up, studio lighting with a subtle rim light.\nBackground: deep navy blue (#0B1A33) with a soft spotlight glow behind him.\nAt the top, a huge masthead in bold condensed white sans-serif: \"LUCAS JESUS\", with the top of his head slightly overlapping the letters (magazine cover depth effect).\nSmall line under the masthead in gold (#C9A24B): \"OPINIÃO · ANÚNCIOS NO CHATGPT\".\nBottom left, big bold headline in white: \"ANTES DO ANÚNCIO,\" and a second line in gold: \"ARRUME A CASA.\".\nWrite all text exactly as given, Brazilian Portuguese, perfect accents. Clean, editorial, expensive, sharp typography, no extra text, no logos, no watermark.",
+  "referencias": [
+    "fotos/camisa-preta-bracos-cruzados.jpg"
+  ],
+  "qualidade": "high",
+  "post": "posts/2026-10-22",
+  "slide": "01",
+  "status": "pendente"
+}
