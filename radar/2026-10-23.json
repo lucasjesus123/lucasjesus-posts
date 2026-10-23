@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-10-23T13:51:15+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "The Verge",
+      "titulo": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "data": "2026-10-22T21:51:25+00:00",
+      "resumo": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+      "nota": 10.33
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "data": "2026-10-21T12:00:00+00:00",
+      "resumo": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "nota": 9.92
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "data": "2026-10-23T00:00:00+00:00",
+      "resumo": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "nota": 9.42
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "data": "2026-10-22T00:00:00+00:00",
+      "resumo": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "nota": 9.42
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta’s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "data": "2026-10-22T20:32:05+00:00",
+      "resumo": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]",
+      "nota": 9.28
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "data": "2026-10-21T20:27:41+00:00",
+      "resumo": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "nota": 9.28
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "data": "2026-10-22T19:00:00+00:00",
+      "resumo": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "nota": 9.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Claude Duet app is Anthropic’s bet on agents",
+      "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "data": "2026-10-22T13:53:26+00:00",
+      "resumo": "Claude Duet is available through waitlist for Pro and Max plan users.",
+      "nota": 9.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "data": "2026-10-21T13:00:00+00:00",
+      "resumo": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Making the case for context-aware AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "data": "2026-10-22T10:00:00+00:00",
+      "resumo": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
+      "nota": 8.84
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "data": "2026-10-22T08:41:18+00:00",
+      "resumo": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
+      "nota": 8.78
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "data": "2026-10-21T07:00:00+00:00",
+      "resumo": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "nota": 8.71
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "What FDE means at OpenAI",
+      "link": "https://openai.com/index/forward-deployed-engineering-means",
+      "data": "2026-10-22T06:00:00+00:00",
+      "resumo": "What forward deployed engineering means at OpenAI",
+      "nota": 8.67
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "data": "2026-10-21T04:50:00+00:00",
+      "resumo": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "nota": 8.62
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "data": "2026-10-21T21:00:00+00:00",
+      "resumo": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "nota": 8.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "data": "2026-10-22T19:07:09+00:00",
+      "resumo": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "nota": 8.22
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "data": "2026-10-22T19:00:00+00:00",
+      "resumo": "Fast, focused, low-cost decisions for any application.",
+      "nota": 8.21
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Discord now formats Markdown previews right",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "data": "2026-10-22T18:58:19+00:00",
+      "resumo": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]",
+      "nota": 8.21
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The Foundations of Scalable AI",
+      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "data": "2026-10-22T18:48:04+00:00",
+      "resumo": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+      "nota": 8.21
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "data": "2026-10-21T17:00:00+00:00",
+      "resumo": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "nota": 8.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Uber puts all 30,000 employees on ChatGPT Work",
+      "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "data": "2026-10-22T16:00:00+00:00",
+      "resumo": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+      "nota": 8.09
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "link": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "data": "2026-10-22T15:00:02+00:00",
+      "resumo": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
+      "nota": 8.05
+    },
+    {
+      "fonte": "Google DeepMind",
+      "titulo": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "data": "2026-10-22T14:30:24+00:00",
+      "resumo": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "nota": 8.03
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Retro gaming is being overrun with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "data": "2026-10-23T12:00:00+00:00",
+      "resumo": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]",
+      "nota": 7.92
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "link": "https://tecnoblog.net/noticias/claude-ganha-agente-24x7-para-brigar-com-chatgpt-google-e-meta/",
+      "data": "2026-10-22T10:38:29+00:00",
+      "resumo": "Claude Duet tem navegador próprio para acessar a internet. Novidade está em fase de teste. Claude ganha agente 24×7 para brigar com ChatGPT, Google e Meta",
+      "nota": 7.87
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "data": "2026-10-21T07:00:00+00:00",
+      "resumo": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "nota": 7.71
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Kazakhstan Expands Compute for Its AI Future",
+      "link": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "data": "2026-10-23T02:00:13+00:00",
+      "resumo": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
+      "nota": 7.51
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Left alone with nothing to do, AI agents started playing",
+      "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "data": "2026-10-23T00:45:37+00:00",
+      "resumo": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "nota": 7.45
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "data": "2026-10-21T00:00:00+00:00",
+      "resumo": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "nota": 7.42
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "data": "2026-10-21T00:00:00+00:00",
+      "resumo": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "nota": 7.42
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "data": "2026-10-22T22:24:34+00:00",
+      "resumo": "",
+      "nota": 7.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "data": "2026-10-22T22:08:24+00:00",
+      "resumo": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "nota": 7.35
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Designing an AI serving harness built to last",
+      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+      "data": "2026-10-22T21:17:29+00:00",
+      "resumo": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
+      "nota": 7.31
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "data": "2026-10-22T18:43:53+00:00",
+      "resumo": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "nota": 7.2
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "data": "2026-10-22T18:15:00+00:00",
+      "resumo": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]",
+      "nota": 7.18
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Someone hacked the Switch 2 by using an old game and AI",
+      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "data": "2026-10-22T17:21:31+00:00",
+      "resumo": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
+      "nota": 7.15
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "data": "2026-10-22T16:47:17+00:00",
+      "resumo": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "nota": 7.12
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Spotify’s current AI bet is about being the music service that agents choose",
+      "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "data": "2026-10-22T15:03:58+00:00",
+      "resumo": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "nota": 7.05
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+      "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "data": "2026-10-21T10:50:37+00:00",
+      "resumo": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux, with a Windows version arriving in December. Announcements include: […]",
+      "nota": 6.87
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+      "link": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
+      "data": "2026-10-21T10:30:41+00:00",
+      "resumo": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for […]",
+      "nota": 6.86
+    }
+  ]
+}
