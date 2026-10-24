@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-10-24T18:00:00-03:00",
+  "dia": "sábado",
+  "tema": "Proposta comercial depois da reunião: sem IA x com IA",
+  "grande_ideia": "Proposta boa não nasce de copiar a do cliente anterior; nasce do que o cliente disse na reunião, e a IA ajuda a transformar isso em rascunho.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "antes-depois (plano B: versus do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Teu cliente explicou o problema dele na reunião. A proposta precisa mostrar isso.\n\nTu já tem a matéria-prima: as anotações ou a transcrição da reunião.\n1. Cola as anotações, a tabela de preços e o modelo de proposta no ChatGPT ou no Claude.\n2. Pede: \"Escreve uma proposta usando a dor que o cliente citou nestas anotações. Usa só os preços da tabela.\"\n3. Revisa valor e prazo e envia no mesmo dia.\nPreço e decisão continuam contigo. A IA só organiza o que tu ouviu.\nCuidado: não cola CPF nem dado sensível do cliente.\n\nSalva este post e manda para o teu sócio.\n\n#InteligenciaArtificial #PropostaComercial #Vendas #PequenasEmpresas #ChatGPT",
+  "story": true,
+  "status": "agendado"
+}

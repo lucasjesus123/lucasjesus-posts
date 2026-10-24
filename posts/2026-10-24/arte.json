@@ -1,0 +1,7 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {"modelo": "versus", "rotulo_a": "Sem IA", "a": "Proposta copiada|da anterior",
+     "rotulo_b": "Com IA", "b": "Proposta tirada|da reunião"}
+  ]
+}
