@@ -1,0 +1,10 @@
+{
+  "prompt": "Premium Instagram quote post (4:5), cinematic black and white, designed by a top art director. Use the man from the reference photo exactly as he is (same face, beard, clear glasses, white long-sleeve dress shirt, sitting in a dark chair, hands clasped under the chin, serious calm look into the camera, wristwatch on the left wrist), black and white, placed on the right two-thirds of the frame, deep contrast, film grain.\nLeft side darker with negative space. Over it, a large elegant quote in white, refined high-contrast serif typeface (like a luxury magazine), short lines, left aligned:\n\"Na música,\na pausa\ntambém é escrita.\nNa tua agenda,\nquem escreve?\"\nLarge gold quotation mark (#C9A24B) above the quote.\nUnder the quote, small white sans-serif: \"— Lucas Jesus\".\nBottom of the image, very small, white at 70% opacity: \"lucasjesus.ia.br\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Elegant, minimal, emotional, expensive, no extra text, no logos, no watermark.",
+  "referencias": [
+    "fotos/camisa-branca-maos-unidas.jpg"
+  ],
+  "qualidade": "high",
+  "post": "posts/2026-10-25",
+  "slide": "01",
+  "status": "pendente"
+}
