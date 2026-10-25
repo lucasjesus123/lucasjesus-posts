@@ -1,0 +1,8 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {"modelo": "retrato", "frase": "Na música, a pausa|também é escrita.|Na tua agenda,|quem escreve?",
+     "contexto": "saxofonista e escritor", "lado": "direita", "tratamento": "pb",
+     "imagem": "fotos/camisa-branca-maos-unidas.jpg"}
+  ]
+}
