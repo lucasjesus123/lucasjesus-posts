@@ -1,0 +1,28 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {
+      "modelo": "manchete",
+      "chapeu": "Radar de IA",
+      "data": "26 de outubro de 2026",
+      "titulo": "Muita manchete de IA.|Só duas pedem|tua atenção.",
+      "subtitulo": "Para quem tem empresa pequena, a semana teve um agente novo e um alerta de segurança. Um pede calma; o outro, uma checagem hoje.",
+      "fonte": "Fontes: Anthropic e BleepingComputer, outubro de 2026"
+    },
+    {
+      "modelo": "slide",
+      "titulo": "Claude Duet:|o agente que avisa,|executa e pergunta",
+      "texto": "Começa pelos EUA, por lista de espera. Aqui, o passo é anotar 2 ou 3 tarefas repetitivas que tu delegaria."
+    },
+    {
+      "modelo": "slide",
+      "titulo": "Chave de API vazada|vira conta|no teu cartão",
+      "texto": "No OpenCode, houve cobrança acima de US$ 1.700 numa noite. Usou? Revoga e troca a chave. E põe limite de gasto no provedor."
+    },
+    {
+      "modelo": "fecho",
+      "opiniao": "Semana de IA se lê com calma. Duas notícias, duas ações pequenas, as duas cabem em meia hora.",
+      "cta": "Salva e manda para o teu sócio ou fornecedor."
+    }
+  ]
+}

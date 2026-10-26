@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-10-26T18:00:00-03:00",
+  "dia": "segunda",
+  "tema": "Radar da semana: Claude Duet (agente da Anthropic para pequena empresa, só EUA) e o vazamento de chaves de API no OpenCode",
+  "grande_ideia": "Muita manchete de IA na semana; só duas pedem a atenção do dono de empresa pequena, e nenhuma pede pressa.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 4",
+  "estilo": "radar-semana, variante clara (plano B: manchete + slides + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "https://claude.com/resources/articles/claude-duet",
+  "legenda": "Li as notícias de IA da semana por ti. Ficaram duas.\n\n1. Claude Duet: a Anthropic abriu lista de espera para um agente pensado para profissionais e donos de pequenas empresas. Ele avisa o que precisa de atenção, executa tarefas e pede confirmação antes de agir.\nComeça pelos assinantes Pro e Max dos EUA, em ondas. Ainda não chegou aqui.\nO que fazer agora: anotar 2 ou 3 tarefas repetitivas que tu delegaria. Quando abrir, tu testa com critério, e não por curiosidade.\n\n2. OpenCode: uma invasão expôs chaves de API de OpenAI, Anthropic e Google que usuários tinham salvo no painel da ferramenta. Teve cobrança indevida acima de US$ 1.700 numa noite.\nSe usou o OpenCode, revoga, troca a chave e revisa a fatura hoje.\nPara todo mundo que usa chave de API em automação ou chatbot (tu ou teu fornecedor): limite de gasto mensal e alerta de cobrança no painel do provedor. E chave salva em ferramenta de terceiro só se for necessário.\n\nO Duet pede calma. A chave de API pede meia hora hoje.\n\nFontes: Anthropic, https://claude.com/resources/articles/claude-duet\nBleepingComputer, https://bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks\n\nSalva este post e manda para o sócio ou para quem cuida das tuas automações.\n\n#InteligenciaArtificial #PequenasEmpresas #SegurancaDigital #Claude #Automacao",
+  "story": true,
+  "status": "agendado"
+}
