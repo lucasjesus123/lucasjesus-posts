@@ -1,0 +1,26 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {"modelo": "manchete", "chapeu": "Na prática", "data": "Salve para a próxima avaliação",
+     "titulo": "Quem lê tuas avaliações|vê o teu silêncio",
+     "subtitulo": "Escreve uma vez como a casa responde. O ChatGPT ou o Claude faz o rascunho.",
+     "fonte": ""},
+    {"modelo": "slide", "titulo": "A crítica ficou|sem resposta",
+     "texto": "Toma tempo e mexe com o emocional. Normal. Mas quem chega depois lê a crítica e não lê a tua versão."},
+    {"modelo": "lista", "titulo": "Passo 1. O guia da casa", "sequencia": false,
+     "itens": [["Tom", "Gentil e profissional, do teu jeito."],
+               ["Quem assina", "Teu nome ou tuas iniciais."],
+               ["Nunca prometer", "Nada de desconto ou brinde para mudar a nota."],
+               ["Canal privado", "Onde o problema se resolve de verdade."],
+               ["Tamanho máximo", "Até 4 linhas, sem tentar vender."]]},
+    {"modelo": "slide", "titulo": "Passo 2.|Cole este prompt",
+     "texto": "“Use meu guia de resposta: [cole as 5 linhas]. Escreva 2 versões curtas e gentis para a avaliação abaixo. Se for crítica: reconheça, peça desculpas se couber e convide para resolver no privado. Sem vender, sem inventar. Avaliação: [cole aqui]”"},
+    {"modelo": "lista", "titulo": "Passo 3. A última palavra é tua", "sequencia": true,
+     "itens": [["Escolhe", "A versão que soa como tu."],
+               ["Personaliza", "Um detalhe real que só tu sabes."],
+               ["Confere", "Sem nome, telefone ou dado do pedido."],
+               ["Publica", "E responde os elogios também."]]},
+    {"modelo": "fecho", "opiniao": "Avaliação ruim tem conserto. Silêncio, eu acho, pesa mais.",
+     "cta": "Salva e responde a próxima ainda hoje."}
+  ]
+}

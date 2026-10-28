@@ -4,5 +4,6 @@
   "qualidade": "high",
   "post": "posts/2026-10-28",
   "slide": "01",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "Sem resposta do workflow (rodou 17 s sem gerar; OPENAI_API_KEY provavelmente ausente). Arte feita no plano B (kit/render.py)."
 }

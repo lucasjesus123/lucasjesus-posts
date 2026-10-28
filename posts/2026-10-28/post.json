@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-10-28T18:00:00-03:00",
+  "dia": "quarta",
+  "tema": "Responder avaliações do Google (inclusive as ruins) com ChatGPT ou Claude, a partir de um guia de resposta da casa",
+  "grande_ideia": "Quem lê tuas avaliações vê o teu silêncio: escreve uma vez como a casa responde, e a IA faz o rascunho; a última palavra é tua.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 6",
+  "estilo": "dica-prompt (plano B: manchete + slides + lista + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "https://support.google.com/business/answer/3474122?hl=pt-BR",
+  "legenda": "Tem crítica no teu Google esperando resposta faz semanas?\n\nAcontece muito: dói ler, então fica para depois.\nSó que quem procura tua empresa lê a crítica e não encontra a tua versão.\nNo ensaio é igual: tu escreves o arranjo uma vez e depois só ajustas na hora de tocar.\nAqui o arranjo é o guia da casa, em 5 linhas.\nA IA faz o rascunho. Tu escolhes, pões um detalhe real e publicas.\n\nPrompt para copiar:\n\nVocê vai me ajudar a responder as avaliações do Google da minha empresa. Siga este guia da casa:\n- Tom: [ex.: próximo e educado, tratando por você]\n- Quem assina: [ex.: Lucas, da Loja X]\n- Nunca prometer: [ex.: reembolso sem análise, prazo que não depende de nós, desconto ou brinde para mudar a avaliação]\n- Para resolver: [ex.: WhatsApp da loja ou e-mail do atendimento]\n- Tamanho: no máximo 4 linhas\n\nPara a avaliação abaixo:\n1. Escreva 2 versões de resposta, curtas, gentis e sem tentar vender nada.\n2. Se for crítica: agradeça, reconheça o problema sem discutir, peça desculpas se couber e convide para resolver pelo canal acima.\n3. Se for elogio: agradeça citando algo que a pessoa mencionou.\n4. Não repita dados pessoais do cliente nem detalhes do pedido.\n5. Se faltar contexto, me pergunte. Não invente o que aconteceu.\n\nAvaliação: [cole aqui só o texto, sem o nome do cliente]\n\nAntes de publicar:\nQuem responde é o proprietário ou administrador do Perfil da Empresa, e a empresa precisa estar verificada. Caminho: Perfil da Empresa > Ler avaliações > Responder.\nA resposta é pública, sai em nome da empresa e pode ser editada ou excluída depois. O Google analisa antes de publicar.\nE nada de oferecer desconto ou brinde para mudarem ou tirarem a avaliação: as regras do Google proíbem.\nBom senso: não cole nome, telefone ou dado do pedido do cliente no ChatGPT ou no Claude.\n\nFonte: Ajuda do Perfil da Empresa no Google, https://support.google.com/business/answer/3474122?hl=pt-BR\n\nSalva para responder a próxima ainda hoje.\n\n#InteligenciaArtificial #AvaliacoesGoogle #AtendimentoAoCliente #ChatGPT #ClaudeAI",
+  "story": true,
+  "status": "agendado"
+}
