@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-10-28T15:30:09+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "data": "2026-10-28T09:30:00+00:00",
+      "resumo": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "nota": 12.75
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "data": "2026-10-27T15:00:00+00:00",
+      "resumo": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "nota": 11.98
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "data": "2026-10-27T07:00:00+00:00",
+      "resumo": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "nota": 11.65
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "data": "2026-10-28T15:00:00+00:00",
+      "resumo": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "nota": 10.98
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "data": "2026-10-28T15:00:46+00:00",
+      "resumo": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+      "nota": 8.98
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Working with academic communities to build scientific understanding",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "data": "2026-10-26T14:30:00+00:00",
+      "resumo": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "data": "2026-10-26T13:45:00+00:00",
+      "resumo": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "nota": 8.93
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "ChatGPT’s expanding world of work",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "data": "2026-10-26T10:00:00+00:00",
+      "resumo": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "nota": 8.77
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "data": "2026-10-27T00:00:00+00:00",
+      "resumo": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "nota": 8.35
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "data": "2026-10-27T23:34:27+00:00",
+      "resumo": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "data": "2026-10-26T22:00:00+00:00",
+      "resumo": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "nota": 8.27
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "data": "2026-10-27T17:08:08+00:00",
+      "resumo": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "nota": 8.07
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "data": "2026-10-27T16:51:22+00:00",
+      "resumo": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may […]",
+      "nota": 8.06
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s next Genie AI model generates more realistic experiences",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "data": "2026-10-27T16:00:00+00:00",
+      "resumo": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]",
+      "nota": 8.02
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "data": "2026-10-27T13:50:51+00:00",
+      "resumo": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
+      "nota": 7.93
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta quietly launched an ‘AI pet journal’ app",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "data": "2026-10-28T11:27:30+00:00",
+      "resumo": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with […]",
+      "nota": 7.83
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "data": "2026-10-26T07:00:00+00:00",
+      "resumo": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "nota": 7.65
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "data": "2026-10-26T07:00:00+00:00",
+      "resumo": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "nota": 7.65
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "data": "2026-10-27T02:00:00+00:00",
+      "resumo": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "nota": 7.44
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "data": "2026-10-28T01:15:28+00:00",
+      "resumo": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "nota": 7.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "data": "2026-10-27T01:12:21+00:00",
+      "resumo": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+      "nota": 7.4
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "data": "2026-10-26T00:00:00+00:00",
+      "resumo": "Bringing fast and capable computer use to everyone",
+      "nota": 7.35
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "data": "2026-10-27T21:44:34+00:00",
+      "resumo": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "nota": 7.26
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Who’s really in charge at Anthropic after the IPO?",
+      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "data": "2026-10-27T21:38:28+00:00",
+      "resumo": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "nota": 7.26
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "data": "2026-10-27T20:48:58+00:00",
+      "resumo": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI […]",
+      "nota": 7.22
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "data": "2026-10-27T18:55:35+00:00",
+      "resumo": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "nota": 7.14
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "data": "2026-10-26T16:49:42+00:00",
+      "resumo": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "nota": 7.06
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Our newest AI Quest: Mapping the human brain",
+      "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "data": "2026-10-26T16:00:00+00:00",
+      "resumo": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "nota": 7.02
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "data": "2026-10-27T13:00:00+00:00",
+      "resumo": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "nota": 6.9
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Pairing industrial AI autonomy and human control",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "data": "2026-10-28T12:00:00+00:00",
+      "resumo": "",
+      "nota": 6.85
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "data": "2026-10-27T11:00:00+00:00",
+      "resumo": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
+      "nota": 6.81
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The data center boom has an upside: innovation for the US grid",
+      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "data": "2026-10-27T22:55:41+00:00",
+      "resumo": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "nota": 6.31
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Só 3% das empresas viram ganhos com IA, mostra estudo",
+      "link": "https://tecnoblog.net/noticias/so-3-das-empresas-viram-ganhos-com-ia-mostra-estudo/",
+      "data": "2026-10-27T21:53:16+00:00",
+      "resumo": "Gartner diz que 77% dos conselhos esperam mais produtividade e menos custos; 38% das companhias já estouraram o orçamento. Só 3% das empresas viram ganhos com IA, mostra estudo",
+      "nota": 6.27
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "data": "2026-10-27T21:50:04+00:00",
+      "resumo": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "nota": 6.26
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Claude recusa tarefas de engenharia reversa em TVs e jogos",
+      "link": "https://tecnoblog.net/noticias/claude-recusa-tarefas-de-engenharia-reversa-em-tvs-e-jogos/",
+      "data": "2026-10-27T21:49:34+00:00",
+      "resumo": "Usuários relatam restrições no Opus 5.5; Anthropic não confirmou mudança nos filtros de segurança. Claude recusa tarefas de engenharia reversa em TVs e jogos",
+      "nota": 6.26
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Will the real Anthropic please stand up",
+      "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "data": "2026-10-26T17:45:43+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
+      "nota": 6.09
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "VisionQuest is what happens when AI really goes rogue",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "data": "2026-10-27T17:30:00+00:00",
+      "resumo": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]",
+      "nota": 6.08
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "data": "2026-10-27T16:14:18+00:00",
+      "resumo": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You […]",
+      "nota": 6.03
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "link": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "data": "2026-10-27T15:00:20+00:00",
+      "resumo": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
+      "nota": 5.98
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "data": "2026-10-27T14:59:09+00:00",
+      "resumo": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "nota": 5.98
+    }
+  ]
+}
