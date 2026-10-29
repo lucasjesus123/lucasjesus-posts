@@ -1,0 +1,6 @@
+{
+  "01": {
+    "gpt": "Premium Instagram post (4:5), designed like the cover of a high-end business magazine. Use the man from the reference photo exactly as he is (same face, full black beard, clear transparent-frame glasses, slicked-back black hair, plain black t-shirt, one hand on his chin, thoughtful confident expression), cut out and placed center, from the waist up, studio lighting with a subtle rim light.\nBackground: deep navy blue (#0B1A33) with a soft spotlight glow behind him.\nAt the top, a huge masthead in bold condensed white sans-serif: \"LUCAS JESUS\", with the top of his head slightly overlapping the letters (magazine cover depth effect).\nSmall line under the masthead in gold (#C9A24B): \"OPINIÃO · FERRAMENTAS DE IA\".\nBottom left, big bold headline in white: \"MAIS UMA ASSINATURA\" and a second line in gold: \"NÃO É ESTRATÉGIA.\".\nWrite all text exactly as given, Brazilian Portuguese, perfect accents. Clean, editorial, expensive, sharp typography, no extra text, no logos, no watermark.",
+    "usado": "plano B (kit/render.py, modelo capa): o workflow 'Gerar arte (GPT)' não respondeu ao pedido 2026-10-29-01 (OPENAI_API_KEY ausente)"
+  }
+}
