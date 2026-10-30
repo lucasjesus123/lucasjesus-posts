@@ -1,0 +1,10 @@
+{
+  "prompt": "Premium Instagram news post (4:5), high-end tech creator style, Photoshop composite. Use the man from the reference photo exactly as he is (same face, black beard, clear transparent-frame glasses, brown sweater, arms crossed, warm smile), cut out, placed on the right side, waist up.\nBackground: clean light gray-white studio (#EEF1F3) with soft shadows.\nOn the left side, a large glossy 3D laptop at a slight angle, its screen shows a clean generic chat window (no app logos) with a finished document open in a side panel, three paper files floating out of the screen. Soft glassmorphism cards floating around it with small icons (a document icon with the word \"Ata\", a megaphone icon with the word \"Comunicado\", a tag icon with the word \"Promoção\").\nTop left, small dark navy pill label with white text: \"RADAR DE IA\".\nBig bold headline at the top in dark navy (#0B1A33), heavy condensed sans-serif, 2 lines: \"Arquivo pronto não é\" and in a blue accent (#2F6BFF): \"arquivo revisado\".\nBottom, small dark text: \"Gemini agora cria e edita arquivos no chat.\"\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Clean, modern, premium, realistic lighting and shadows, no extra text, no logos, no watermark.",
+  "referencias": [
+    "fotos/sueter-marrom-sorrindo.jpg"
+  ],
+  "qualidade": "high",
+  "post": "posts/2026-10-30",
+  "slide": "01",
+  "status": "pendente"
+}
