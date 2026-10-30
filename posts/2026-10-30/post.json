@@ -1,0 +1,17 @@
+{
+  "publicar_em": "2026-10-30T18:00:00-03:00",
+  "dia": "sexta",
+  "tema": "Gemini agora cria, mostra e deixa editar arquivos (documentos, PDFs, apresentações, planilhas) dentro do chat: o arquivo vem pronto, a revisão continua do dono",
+  "grande_ideia": "O Gemini entrega o arquivo. A revisão continua tua.",
+  "objetivo": "compartilhamento",
+  "formato": "único",
+  "estilo": "noticia-3d (plano B: dividido do kit/render.py)",
+  "tom": "claro",
+  "fotos": [
+    "sueter-marrom-sorrindo.jpg"
+  ],
+  "fonte": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+  "legenda": "A parte chata sumiu. A parte importante continua contigo.\n\nO app Gemini agora cria documento, PDF, apresentação e planilha, e te deixa ver e editar o arquivo dentro do chat.\nNada de copiar texto, colar no Word e arrumar a formatação.\nDá para abrir em tela cheia, digitar o ajuste, ou selecionar um trecho e perguntar.\nDocumento e PDF podem ser enviados ao Google Drive; apresentação abre no Slides ou baixa em PPTX.\nSó que arquivo bonito engana. Um horário errado no comunicado de dezembro vira cliente na frente da porta fechada.\nEntão lê antes de mandar, e deixa CPF, telefone e dado sensível de cliente fora do chat.\nNo celular, por enquanto, só PDF. O resto é na web.\nFonte: Google, blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/\n\nManda para o teu sócio, ou para quem cuida dos documentos aí na empresa.\n\n#InteligenciaArtificial #Gemini #GoogleWorkspace #PequenaEmpresa",
+  "story": true,
+  "status": "agendado"
+}
