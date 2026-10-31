@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-10-31T08:53:17+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "data": "2026-10-28T13:15:00+00:00",
+      "resumo": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "nota": 10.18
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "data": "2026-10-28T09:30:00+00:00",
+      "resumo": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "nota": 10.03
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "data": "2026-10-30T09:00:00+00:00",
+      "resumo": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "nota": 10.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "data": "2026-10-29T09:00:00+00:00",
+      "resumo": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "nota": 10.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "data": "2026-10-29T17:00:00+00:00",
+      "resumo": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "nota": 9.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "data": "2026-10-30T09:30:00+00:00",
+      "resumo": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "nota": 9.03
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "data": "2026-10-30T00:00:00+00:00",
+      "resumo": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "data": "2026-10-30T21:52:03+00:00",
+      "resumo": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "nota": 8.54
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "data": "2026-10-30T20:26:10+00:00",
+      "resumo": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+      "nota": 8.48
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "data": "2026-10-29T19:14:36+00:00",
+      "resumo": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "nota": 8.43
+    },
+    {
+      "fonte": "Google DeepMind",
+      "titulo": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "data": "2026-10-28T17:00:58+00:00",
+      "resumo": "",
+      "nota": 8.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "data": "2026-10-29T07:00:00+00:00",
+      "resumo": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "nota": 7.92
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "link": "https://openai.com/index/credit-saison",
+      "data": "2026-10-29T00:00:00+00:00",
+      "resumo": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "data": "2026-10-30T21:54:34+00:00",
+      "resumo": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "nota": 7.54
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Last-minute Halloween costumes for tech nerds",
+      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "data": "2026-10-30T21:26:59+00:00",
+      "resumo": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "nota": 7.52
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "data": "2026-10-30T20:48:43+00:00",
+      "resumo": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
+      "nota": 7.5
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI-backed Thrive Holdings acquires ADT",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "data": "2026-10-29T19:56:19+00:00",
+      "resumo": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "nota": 7.46
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "data": "2026-10-30T18:21:38+00:00",
+      "resumo": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
+      "nota": 7.39
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "data": "2026-10-30T17:47:12+00:00",
+      "resumo": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "nota": 7.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "data": "2026-10-30T17:00:00+00:00",
+      "resumo": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "data": "2026-10-29T16:00:35+00:00",
+      "resumo": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "link": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "data": "2026-10-30T15:00:10+00:00",
+      "resumo": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "nota": 7.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "data": "2026-10-30T13:54:25+00:00",
+      "resumo": "DoorDash said that it is open to working with third-party agent makers.",
+      "nota": 7.21
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-carbon-com-avancos-em-ciberseguranca-mas-voce-ainda-nao-pode-usa-lo/",
+      "data": "2026-10-29T13:19:18+00:00",
+      "resumo": "Modelo supera números da Anthropic e OpenAI em testes gerais da Artificial Analysis e avança em capacidades de segurança. Google lança Gemini 4 Carbon com avanços em cibersegurança, mas você ainda não pode usá-lo",
+      "nota": 7.18
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "data": "2026-10-30T13:01:14+00:00",
+      "resumo": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
+      "nota": 7.17
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "We urgently need to monitor AI agents’ actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "data": "2026-10-29T10:11:12+00:00",
+      "resumo": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
+      "nota": 7.05
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "data": "2026-10-30T09:00:00+00:00",
+      "resumo": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+      "nota": 7.0
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "data": "2026-10-31T01:20:05+00:00",
+      "resumo": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "nota": 6.69
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "data": "2026-10-29T23:42:22+00:00",
+      "resumo": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "nota": 6.62
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "data": "2026-10-30T22:56:13+00:00",
+      "resumo": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "nota": 6.59
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Cracks are emerging in the AI spending boom",
+      "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "data": "2026-10-30T21:17:40+00:00",
+      "resumo": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "nota": 6.52
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Creating AI value with enterprise context",
+      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "data": "2026-10-28T20:32:02+00:00",
+      "resumo": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
+      "nota": 6.49
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "data": "2026-10-29T20:08:31+00:00",
+      "resumo": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "nota": 6.47
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Granola crunches up a dictation feature to compete with Wispr",
+      "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "data": "2026-10-29T17:54:38+00:00",
+      "resumo": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "nota": 6.38
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "data": "2026-10-30T17:38:04+00:00",
+      "resumo": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
+      "nota": 6.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "data": "2026-10-30T16:03:45+00:00",
+      "resumo": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "nota": 6.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+      "data": "2026-10-28T15:00:46+00:00",
+      "resumo": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
+      "nota": 6.26
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "data": "2026-10-30T14:58:06+00:00",
+      "resumo": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
+      "nota": 6.25
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google vai encerrar agente de IA que programa sozinho",
+      "link": "https://tecnoblog.net/noticias/google-vai-encerrar-agente-de-ia-que-programa-sozinho/",
+      "data": "2026-10-30T14:42:59+00:00",
+      "resumo": "Jules deixará de aceitar novas tarefas em 11 de novembro. Aprendizados do projeto serão aproveitados no Antigravity. Google vai encerrar agente de IA que programa sozinho",
+      "nota": 6.24
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "data": "2026-10-30T13:00:00+00:00",
+      "resumo": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "nota": 6.17
+    }
+  ]
+}
