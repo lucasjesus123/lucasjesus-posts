@@ -1,0 +1,7 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {"modelo": "versus", "rotulo_a": "Sem IA", "a": "Um texto|para todos",
+     "rotulo_b": "Com IA", "b": "Um texto|por cliente"}
+  ]
+}

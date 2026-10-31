@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-10-31T18:00:00-03:00",
+  "dia": "sábado",
+  "tema": "Cobrança de cliente atrasado: a mesma mensagem para todos x uma mensagem por cliente (lembrete gentil, segundo aviso, conversa franca) escrita pela IA e conferida pelo dono",
+  "grande_ideia": "Quem atrasou três dias e quem sumiu pedem conversas diferentes: a IA escreve uma mensagem por cliente no tom da casa, tu confere e envia.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "antes-depois (plano B: versus do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Mandar a mesma cobrança para todo mundo parece justo. Só que trava a conversa.\n\nQuem atrasou três dias e quem sumiu há dois meses pedem jeitos diferentes.\nUm precisa de um lembrete gentil. O outro, de uma conversa franca.\nCola na IA a lista com primeiro nome, valor, dias de atraso e se é bom cliente.\nPede três modelos: \"lembrete gentil, segundo aviso e conversa franca, no tom da minha empresa\".\nTu confere, ajusta e envia pelo WhatsApp. A decisão continua contigo.\nCPF e dado sensível ficam fora disso.\n\nSalva para usar na próxima cobrança, e manda para quem cuida do financeiro.\n\n#InteligenciaArtificial #CobrancaDeClientes #ContasAReceber #WhatsAppBusiness",
+  "story": true,
+  "status": "agendado"
+}
