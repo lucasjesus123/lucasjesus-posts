@@ -1,0 +1,13 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {
+      "modelo": "retrato",
+      "frase": "Minhas ferramentas|vão ficar velhas.|O que eu ensinar|ao Kaleo, não.",
+      "contexto": "pai do Kaleo",
+      "lado": "direita",
+      "tratamento": "pb",
+      "imagem": "fotos/pb-sofa-maos-unidas.jpg"
+    }
+  ]
+}
