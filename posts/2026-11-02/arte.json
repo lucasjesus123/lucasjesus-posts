@@ -1,0 +1,28 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {
+      "modelo": "manchete",
+      "chapeu": "Radar de IA",
+      "data": "2 de novembro de 2026",
+      "titulo": "A IA vai pedir licença.|O robô quase|não compra.",
+      "subtitulo": "Uma proposta para o teu site recusar treino de IA e um número que tira a pressa de vender para robô.",
+      "fonte": "Fontes: IETF, Google e DoorDash, outubro de 2026"
+    },
+    {
+      "modelo": "slide",
+      "titulo": "Um aviso no robots.txt|para recusar|treino de IA",
+      "texto": "É proposta. A Anthropic já começou a implementar; Google e OpenAI prometem seguir. Recusar treino não tira teu site da busca do Google."
+    },
+    {
+      "modelo": "slide",
+      "titulo": "993 milhões de pedidos.|Por robô de IA,|só centenas.",
+      "texto": "DoorDash, 3º trimestre. Agentes de IA de fora somam várias centenas de pedidos desde que começaram. Primeiro, cuida do teu atendimento."
+    },
+    {
+      "modelo": "fecho",
+      "opiniao": "Uma decisão sobre o teu site e um motivo a menos para correr. Semana de IA se lê com calma.",
+      "cta": "Salva e manda para quem cuida do teu site."
+    }
+  ]
+}

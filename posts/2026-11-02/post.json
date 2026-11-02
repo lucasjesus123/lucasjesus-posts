@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-02T18:00:00-03:00",
+  "dia": "segunda",
+  "tema": "Radar da semana: proposta de aviso no robots.txt para recusar treino de IA (IETF; Anthropic, Google, OpenAI) e DoorDash com só várias centenas de pedidos por agentes de IA de terceiros",
+  "grande_ideia": "A IA vai pedir licença ao teu site, e o comércio por robô ainda é começo: uma decisão para anotar e um motivo a menos para correr.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 4",
+  "estilo": "radar-semana, variante clara (plano B: manchete + slides + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "https://mailarchive.ietf.org/arch/msg/ai-control/mddjatOxSR0h6GmLRBWlc839c7w",
+  "legenda": "Li as notícias de IA da semana por ti. Duas valem o teu tempo.\n\n1. Um aviso para o teu site recusar treino de IA.\nSaiu na IETF (o grupo que cuida dos padrões da internet) a proposta de um aviso único no robots.txt para dizer \"não use meu conteúdo para treinar IA\". Sem listar robô por robô.\nA Anthropic disse que já começou a implementar. O Google disse que vai respeitar a partir do início de 2027, e a OpenAI, nos próximos meses.\nO que muda para ti: o texto do teu site, teu catálogo e teu blog passam a ter uma escolha simples. E recusar treino não tira o teu site da busca do Google.\nAinda é proposta, então não precisa mexer hoje. Anota para conversar com quem cuida do teu site.\n\n2. A DoorDash entregou 993 milhões de pedidos no 3º trimestre.\nNa teleconferência de resultados, o CEO contou que agentes de IA de fora fizeram só várias centenas de pedidos desde que começaram a funcionar.\nO que muda para ti: comprar por agente de IA ainda é começo de conversa. Antes de pensar em vender para robô, vale arrumar o atendimento que já existe: WhatsApp, resposta rápida, cardápio e preço claros.\n\nUma decisão sobre o teu site e um motivo a menos para correr.\n\nFontes: IETF, https://mailarchive.ietf.org/arch/msg/ai-control/mddjatOxSR0h6GmLRBWlc839c7w\nGoogle, https://developers.google.com/search/blog/2026/10/ai-training-control\nDoorDash, resultados do 3º tri de 2026 (o número de pedidos por agente foi dito na teleconferência): https://ir.doordash.com/news/news-details/2026/DoorDash-Releases-Third-Quarter-2026-Financial-Results/default.aspx\n\nSalva e manda para quem cuida do teu site.\n\n#InteligenciaArtificial #PequenasEmpresas #SiteDaEmpresa #MarketingDigital",
+  "story": true,
+  "status": "agendado"
+}
