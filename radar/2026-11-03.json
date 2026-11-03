@@ -1,0 +1,296 @@
+{
+  "gerado_em": "2026-11-03T08:53:09+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic clamps down on Claude’s AI video game clones",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "data": "2026-11-02T18:56:02+00:00",
+      "resumo": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]",
+      "nota": 9.42
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "data": "2026-11-02T18:00:00+00:00",
+      "resumo": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "nota": 9.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "data": "2026-11-02T18:00:00+00:00",
+      "resumo": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "nota": 9.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "data": "2026-11-02T15:30:00+00:00",
+      "resumo": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "nota": 9.28
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "data": "2026-11-02T15:00:00+00:00",
+      "resumo": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "nota": 9.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "data": "2026-11-03T00:35:52+00:00",
+      "resumo": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "nota": 8.65
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "link": "https://openai.com/index/dan-driscoll-joins-openai",
+      "data": "2026-11-02T00:00:00+00:00",
+      "resumo": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "data": "2026-11-02T18:01:30+00:00",
+      "resumo": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
+      "nota": 8.38
+    },
+    {
+      "fonte": "Google",
+      "titulo": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "data": "2026-11-02T17:45:00+00:00",
+      "resumo": "Here are Google’s latest AI updates from October 2026",
+      "nota": 8.37
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "data": "2026-11-02T17:00:00+00:00",
+      "resumo": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "nota": 8.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "data": "2026-11-02T13:57:53+00:00",
+      "resumo": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "nota": 8.21
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "LifeVal",
+      "link": "https://openai.com/index/lifeval",
+      "data": "2026-11-02T09:00:00+00:00",
+      "resumo": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "nota": 8.0
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI",
+      "link": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "data": "2026-11-03T07:00:12+00:00",
+      "resumo": "Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments […]",
+      "nota": 7.92
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Qodo builds context into AI code review with Codex",
+      "link": "https://openai.com/index/qodo-codex-plugin",
+      "data": "2026-11-02T00:00:00+00:00",
+      "resumo": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "data": "2026-11-02T23:13:53+00:00",
+      "resumo": "The one-year-old startup is now valued at $300 million.",
+      "nota": 7.6
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "data": "2026-11-02T22:14:50+00:00",
+      "resumo": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "nota": 7.56
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "data": "2026-11-02T19:19:17+00:00",
+      "resumo": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "nota": 7.43
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "data": "2026-11-02T16:30:00+00:00",
+      "resumo": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "nota": 7.32
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Stop counting tokens, start counting what ships",
+      "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "data": "2026-11-02T13:10:32+00:00",
+      "resumo": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
+      "nota": 7.18
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The agentic web is here",
+      "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "data": "2026-11-02T09:35:19+00:00",
+      "resumo": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
+      "nota": 7.03
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "data": "2026-11-03T07:20:00+00:00",
+      "resumo": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "nota": 6.94
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "data": "2026-11-03T04:18:47+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
+      "nota": 6.81
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "data": "2026-11-03T03:30:00+00:00",
+      "resumo": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "nota": 6.78
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "data": "2026-11-03T01:49:52+00:00",
+      "resumo": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "nota": 6.71
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "data": "2026-11-01T21:55:23+00:00",
+      "resumo": "Data centers are deeply unpopular. But what if we called them something else?",
+      "nota": 6.54
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+      "data": "2026-11-02T18:05:31+00:00",
+      "resumo": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "nota": 6.38
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "data": "2026-11-02T17:51:19+00:00",
+      "resumo": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]",
+      "nota": 6.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "data": "2026-11-02T15:00:00+00:00",
+      "resumo": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "nota": 6.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "data": "2026-11-01T20:57:58+00:00",
+      "resumo": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "nota": 5.5
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "data": "2026-10-31T16:12:55+00:00",
+      "resumo": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "nota": 5.31
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Data centers are now a midterm issue, even in Brooklyn",
+      "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "data": "2026-11-01T02:22:10+00:00",
+      "resumo": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+      "nota": 4.73
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "data": "2026-10-31T21:41:00+00:00",
+      "resumo": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "nota": 4.53
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "data": "2026-10-31T21:17:03+00:00",
+      "resumo": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "nota": 4.52
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "IA faz demanda por fitas magnéticas voltar a crescer",
+      "link": "https://tecnoblog.net/noticias/boom-da-ia-faz-disparar-demanda-por-fitas-magneticas/",
+      "data": "2026-11-02T19:40:16+00:00",
+      "resumo": "Fujifilm investirá R$ 344 milhões para quintuplicar a produção de fitas magnéticas. Mídias são usadas por data centers para guardar grandes volumes de dados. IA faz demanda por fitas magnéticas voltar a crescer",
+      "nota": 4.45
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "data": "2026-10-31T16:05:00+00:00",
+      "resumo": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
+      "nota": 4.3
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Nova TV QNED Mini LED 55″ da LG despenca 38% no mês da Black Friday",
+      "link": "https://tecnoblog.net/achados/nova-tv-qned-mini-led-55-da-lg-despenca-38-no-mes-da-black-friday/",
+      "data": "2026-11-02T14:46:44+00:00",
+      "resumo": "LG QNED70 de 55\" tem painel 4K com tecnologia avançada de cores e IA que recomenda conteúdos; smart TV da LG sai 38% mais em conta no Pix em oferta da Amazon Nova TV QNED Mini LED 55″ da LG despenca 38% no mês da Black Friday",
+      "nota": 4.25
+    }
+  ]
+}
