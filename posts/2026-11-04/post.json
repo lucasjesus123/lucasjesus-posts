@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-04T18:00:00-03:00",
+  "dia": "quarta",
+  "tema": "Transformar a transcrição de uma reunião em ata curta com decisões, tarefas (quem faz o quê até quando) e perguntas em aberto, com um prompt fixo no ChatGPT ou no Claude",
+  "grande_ideia": "Reunião boa termina com dono e prazo: cola a transcrição num prompt fixo, a IA monta a ata e marca 'sem dono' em vez de inventar; quem conduziu revisa e manda no grupo.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 6",
+  "estilo": "dica-prompt (plano B: manchete + slides + lista + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Na semana seguinte à reunião, quem lembra quem ia fazer o quê?\n\nTodo mundo sai concordando. Ninguém sai com a lista.\nA transcrição da reunião já tem tudo, só está bagunçada.\nCom um prompt fixo, o ChatGPT ou o Claude separa o que foi decidido, quem ficou com cada tarefa e até quando.\nE o detalhe que mais ajuda: quando ninguém assumiu, ele escreve “sem dono” em vez de inventar.\nDepois quem conduziu revisa, manda no grupo e abre a próxima reunião pela ata.\n\nPrompt para copiar:\n\nVocê vai montar uma ata curta a partir da transcrição de reunião abaixo. Use só o que está na transcrição.\n\nDevolva nesta ordem:\n1. Decisões: o que ficou decidido, uma por linha.\n2. Tarefas: uma tabela com tarefa, responsável e prazo.\n3. Perguntas em aberto: o que ficou sem resposta ou para depois.\n\nRegras:\n- Se uma tarefa não tem responsável claro, escreva “sem dono”. Se não tem data, escreva “sem prazo”. Não invente nome nem data.\n- Registre o que foi combinado, não a conversa toda nem opiniões.\n- Se algo estiver ambíguo, marque com [confirmar].\n- Português simples, frases curtas, no máximo uma página.\n\nTranscrição: [cole aqui]\n\nAntes de colar:\nCombina com os participantes antes de gravar. Ninguém gosta de descobrir depois.\nTira nome de cliente, valores, documentos e qualquer dado sensível da transcrição.\nA ata é rascunho: quem conduziu a reunião confere antes de mandar.\n\nSalva para usar na próxima reunião.\n\n#InteligenciaArtificial #AtaDeReuniao #GestaoDeEquipe #ChatGPT #ClaudeAI",
+  "story": true,
+  "status": "agendado"
+}

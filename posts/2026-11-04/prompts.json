@@ -1,0 +1,75 @@
+{
+  "01": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "manchete",
+      "chapeu": "Na prática",
+      "data": "Salva para a próxima reunião",
+      "titulo": "Reunião boa termina|com dono e prazo",
+      "subtitulo": "Cola a transcrição num prompt fixo. O ChatGPT ou o Claude devolve a ata com quem faz o quê.",
+      "fonte": ""
+    }
+  },
+  "02": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "slide",
+      "titulo": "Todo mundo concordou.|Ninguém anotou.",
+      "texto": "Na semana seguinte, cada um lembra de um jeito. E a tarefa que era de todos fica sem ninguém."
+    }
+  },
+  "03": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "lista",
+      "titulo": "Passo 1. A transcrição",
+      "sequencia": false,
+      "itens": [
+        [
+          "Meet ou Teams",
+          "A reunião online pode ser gravada e transcrita."
+        ],
+        [
+          "Presencial",
+          "Grava no celular e passa a fala para texto."
+        ],
+        [
+          "Combina antes",
+          "Avisa todo mundo que vai gravar. Sem surpresa."
+        ],
+        [
+          "Limpa o sensível",
+          "Tira dado de cliente, valor e documento antes de colar."
+        ]
+      ]
+    }
+  },
+  "04": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "slide",
+      "titulo": "Passo 2.|Cola este prompt",
+      "texto": "“Monte uma ata curta desta transcrição, só com o que foi dito. Devolva: 1. Decisões. 2. Tarefas em tabela: tarefa, responsável, prazo. 3. Perguntas em aberto. Sem responsável, escreva ‘sem dono’. Sem data, ‘sem prazo’. Não invente. Transcrição: [cole aqui]”"
+    }
+  },
+  "05": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "slide",
+      "titulo": "Passo 3.|Quem conduziu revisa",
+      "texto": "Confere nomes e datas, resolve os ‘sem dono’ e manda no grupo. Na próxima reunião, a ata abre a pauta."
+    }
+  },
+  "06": {
+    "plano": "B (kit/render.py) — OPENAI_API_KEY ausente",
+    "peca": {
+      "modelo": "fecho",
+      "opiniao": "Reunião sem ata é ensaio sem partitura: na hora de tocar, cada um lembra de um jeito.",
+      "cta": "Salva e usa na próxima reunião."
+    }
+  },
+  "story": {
+    "plano": "B (kit/render.py)",
+    "peca": "story a partir da peça 01"
+  }
+}
