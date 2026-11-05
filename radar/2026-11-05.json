@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-11-05T08:53:27+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "The Verge",
+      "titulo": "ChatGPT will now make you animated GIFs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "data": "2026-11-04T18:00:00+00:00",
+      "resumo": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single […]",
+      "nota": 10.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "data": "2026-11-04T00:00:00+00:00",
+      "resumo": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "data": "2026-11-04T14:30:00+00:00",
+      "resumo": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "nota": 9.23
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "data": "2026-11-04T08:00:00+00:00",
+      "resumo": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Cisco defends at machine speed with OpenAI",
+      "link": "https://openai.com/index/cisco-cyber",
+      "data": "2026-11-03T08:00:00+00:00",
+      "resumo": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Heimstaden is changing residential real estate management with AI",
+      "link": "https://openai.com/index/heimstaden",
+      "data": "2026-11-03T08:00:00+00:00",
+      "resumo": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "data": "2026-11-04T07:00:00+00:00",
+      "resumo": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "nota": 8.92
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "data": "2026-11-04T00:00:00+00:00",
+      "resumo": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "data": "2026-11-04T21:25:44+00:00",
+      "resumo": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "nota": 8.52
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Gemini for Home now plugs into AT&T’s smart security system",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "data": "2026-11-04T20:23:24+00:00",
+      "resumo": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
+      "nota": 8.48
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Open source AI is booming. Hugging Face explains who profits.",
+      "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "data": "2026-11-04T19:30:04+00:00",
+      "resumo": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "nota": 8.44
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "link": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+      "data": "2026-11-04T18:44:57+00:00",
+      "resumo": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "nota": 8.41
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Nothing teases a screen-free AI device ahead of launch next month",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "data": "2026-11-04T18:26:07+00:00",
+      "resumo": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature […]",
+      "nota": 8.4
+    },
+    {
+      "fonte": "Google DeepMind",
+      "titulo": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "data": "2026-11-03T17:01:49+00:00",
+      "resumo": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Accelerating engineering for the physical world",
+      "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "data": "2026-11-03T12:00:00+00:00",
+      "resumo": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "nota": 8.13
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "data": "2026-11-03T00:00:00+00:00",
+      "resumo": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "data": "2026-11-04T22:42:15+00:00",
+      "resumo": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier […]",
+      "nota": 7.58
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "data": "2026-11-03T22:41:03+00:00",
+      "resumo": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "nota": 7.57
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "data": "2026-11-04T21:56:01+00:00",
+      "resumo": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "nota": 7.54
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "data": "2026-11-04T21:10:56+00:00",
+      "resumo": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "nota": 7.51
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Preparing our next security sprint to harden OpenAI",
+      "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "data": "2026-11-02T18:00:00+00:00",
+      "resumo": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "nota": 7.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Rewarding defenders with bigger bug bounties",
+      "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "data": "2026-11-02T18:00:00+00:00",
+      "resumo": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "nota": 7.38
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Uber only fulfilled 4 rides from AI agents last quarter",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "data": "2026-11-04T15:58:45+00:00",
+      "resumo": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "data": "2026-11-02T15:30:00+00:00",
+      "resumo": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "nota": 7.28
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing the Grid Protectors Program",
+      "link": "https://openai.com/index/grid-protectors-program",
+      "data": "2026-11-02T15:00:00+00:00",
+      "resumo": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "nota": 7.25
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Sam Altman addresses RAM comments: People should ‘put as much as they want in their computers’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+      "data": "2026-11-04T14:46:01+00:00",
+      "resumo": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it […]",
+      "nota": 7.24
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Securing the agentic enterprise with data lineage",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "data": "2026-11-04T13:00:00+00:00",
+      "resumo": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
+      "nota": 7.17
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "How “reverse game theory” could keep AI agents in check",
+      "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "data": "2026-11-03T10:43:41+00:00",
+      "resumo": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
+      "nota": 7.08
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "data": "2026-11-05T01:26:22+00:00",
+      "resumo": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "nota": 6.69
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "data": "2026-11-04T22:45:09+00:00",
+      "resumo": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+      "nota": 6.58
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "data": "2026-11-04T22:13:16+00:00",
+      "resumo": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+      "nota": 6.56
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "data": "2026-11-04T19:29:52+00:00",
+      "resumo": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "nota": 6.44
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google amplia demissões voluntárias para investir mais em IA",
+      "link": "https://tecnoblog.net/noticias/google-amplia-demissoes-voluntarias-para-investir-mais-em-ia/",
+      "data": "2026-11-04T19:03:52+00:00",
+      "resumo": "Programa chegou a cinco países, mas não inclui o Brasil. Funcionários receberam ofertas de até 12 meses de salário para deixar a empresa. Google amplia demissões voluntárias para investir mais em IA",
+      "nota": 6.42
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "data": "2026-11-04T18:50:55+00:00",
+      "resumo": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+      "nota": 6.41
+    },
+    {
+      "fonte": "Google",
+      "titulo": "The latest AI news we announced in October 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "data": "2026-11-02T17:45:00+00:00",
+      "resumo": "Here are Google’s latest AI updates from October 2026",
+      "nota": 6.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic is still grappling with the economics of compute",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "data": "2026-11-03T17:07:01+00:00",
+      "resumo": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+      "nota": 6.34
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Raising the quality of insights in agentic analytics",
+      "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "data": "2026-11-02T17:00:00+00:00",
+      "resumo": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
+      "nota": 6.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+      "data": "2026-11-04T16:51:35+00:00",
+      "resumo": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "nota": 6.33
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "data": "2026-11-04T16:17:22+00:00",
+      "resumo": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+      "nota": 6.31
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Data centers lost the midterms",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "data": "2026-11-04T16:05:39+00:00",
+      "resumo": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 […]",
+      "nota": 6.3
+    }
+  ]
+}
