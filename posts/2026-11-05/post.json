@@ -1,0 +1,17 @@
+{
+  "publicar_em": "2026-11-05T18:00:00-03:00",
+  "dia": "quinta",
+  "tema": "A IA já acha falha de sistema em escala (OpenAI: 948 falhas de escalonamento local no kernel Linux achadas, validadas e com correção proposta por um pipeline de IA); na pequena empresa, segurança é a atualização que fica para depois",
+  "grande_ideia": "A IA acha o furo, o remendo já existe: quem cai primeiro é o computador sem atualização, então liga o automático e uma pessoa confere uma vez por mês.",
+  "objetivo": "autoridade",
+  "formato": "único",
+  "estilo": "capa-revista (plano B: capa do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [
+    "camisa-preta-bracos-cruzados.jpg"
+  ],
+  "fonte": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "legenda": "948 falhas achadas por uma IA. E a proposta de correção de cada uma já veio junto.\n\nFoi o que a OpenAI publicou esta semana: um sistema que achou essas falhas no Linux e escreveu a correção, com gente revisando antes de reportar.\nEu construo sistema com IA e penso assim: essa ferramenta não fica só com o mocinho.\nSó que o lado bom dessa história é simples. Para quase toda falha conhecida, o fabricante já lançou a correção.\nO CERT.br diz isso faz tempo: configure atualizações automáticas.\nO problema é o computador do caixa que não reinicia faz tempo. O plugin do site em que ninguém mexe. O roteador que veio da operadora.\nLiga o automático no Windows, no celular da empresa e no site. Uma pessoa confere uma vez por mês. Pronto.\nFonte: OpenAI, https://openai.com/index/a-thousand-fewer-paths-to-root\n\nSalva para fazer a conferência do mês que vem.\n\n#InteligenciaArtificial #SegurancaDigital #PequenasEmpresas #GestaoDeTI",
+  "story": true,
+  "status": "agendado"
+}

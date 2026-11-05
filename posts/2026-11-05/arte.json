@@ -1,0 +1,15 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {
+      "modelo": "capa",
+      "chapeu": "Opinião · IA e segurança",
+      "data": "Novembro de 2026",
+      "titulo": "A IA acha o furo.|O remendo já existe.",
+      "subtitulo": "Quem cai primeiro é o computador sem atualização. A correção está pronta, só falta alguém apertar o botão.",
+      "imagem": "fotos/camisa-preta-bracos-cruzados.jpg",
+      "zoom": 0.23,
+      "alvo_y": 0.47
+    }
+  ]
+}
