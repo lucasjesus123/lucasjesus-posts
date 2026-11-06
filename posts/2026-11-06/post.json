@@ -1,0 +1,17 @@
+{
+  "publicar_em": "2026-11-06T18:00:00-03:00",
+  "dia": "sexta",
+  "tema": "ChatGPT Images 2.6 (OpenAI, 04/11): GIF e imagem de referência no ChatGPT; a foto de celular do produto vira GIF para story e status, mas o dono confere cor, tamanho e acabamento com a peça real",
+  "grande_ideia": "Foto de celular vira GIF. Confere o produto real.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "noticia-3d (plano B: dividido do kit/render.py)",
+  "tom": "claro",
+  "fotos": [
+    "notebook-no-ombro.jpg"
+  ],
+  "fonte": "https://openai.com/index/introducing-images-2-6",
+  "legenda": "O ChatGPT começou a fazer GIF. Antes de postar o teu, confere o produto.\n\nNa quarta (04/11), a OpenAI anunciou o ChatGPT Images 2.6.\nA novidade: GIF e imagem de referência.\nPara quem vende, isso cai direto no dia a dia: foto do produto, story, status do WhatsApp.\nO GIF está sendo liberado aos poucos, então pode ainda não aparecer na tua conta.\nUm cuidado antes de postar: confere cor, tamanho e acabamento com a peça na mão.\nSe o cliente vê uma coisa e recebe outra, o GIF bonito vira reclamação.\n\nFonte: OpenAI, openai.com/index/introducing-images-2-6\n\nSalva para lembrar da conferência antes do próximo story.\n\n#InteligenciaArtificial #ChatGPT #PequenaEmpresa #WhatsAppBusiness",
+  "story": true,
+  "status": "agendado"
+}

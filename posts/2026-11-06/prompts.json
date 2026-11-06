@@ -1,0 +1,7 @@
+{
+  "01": {
+    "prompt": "Premium Instagram news post (4:5), high-end tech creator style, Photoshop composite. Use the man from the reference photo exactly as he is (same face, black beard, clear transparent-frame glasses, white t-shirt, holding a silver laptop on his shoulder, smiling), cut out, placed on the right side, waist up.\nBackground: clean light gray-white studio (#EEF1F3) with soft shadows.\nOn the left side, a large realistic 3D smartphone showing a product photo turning into a short animated loop, with a small frame strip beside it. Soft glassmorphism cards floating around it with small icons (camera, play, checkmark).\nTop left, small dark navy pill label with white text: \"RADAR DE IA\".\nBig bold headline at the top in dark navy (#0B1A33), heavy condensed sans-serif, 2 lines: \"FOTO DE CELULAR VIRA GIF\" and in a blue accent (#2F6BFF): \"CONFERE O PRODUTO REAL\".\nBottom, small dark text: \"Fonte: OpenAI, 04/11/2026\"\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Clean, modern, premium, realistic lighting and shadows, no extra text, no logos, no watermark.",
+    "foto": "fotos/notebook-no-ombro.jpg",
+    "resultado": "não enviado ao GPT: OPENAI_API_KEY ausente desde 25/10; arte feita no plano B (kit/render.py, modelo dividido)"
+  }
+}
