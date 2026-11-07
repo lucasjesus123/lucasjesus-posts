@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-07T18:00:00-03:00",
+  "dia": "sábado",
+  "tema": "Processo que só o dono sabe fazer x um áudio do dono explicando a tarefa vira passo a passo escrito pela IA, que ele confere e entrega à equipe (delegar)",
+  "grande_ideia": "Tu explica uma vez, a IA põe no papel, tu confere e a equipe segue sem te ligar.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "antes-depois (plano B: versus do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Funcionário novo não precisa aprender te seguindo pela loja o dia inteiro.\n\n1. Escolhe uma tarefa que só tu sabe: fechar o caixa, montar orçamento, abrir a loja.\n2. Grava um áudio de uns 3 minutos, do jeito que tu explicaria pessoalmente.\n3. Cola a transcrição no ChatGPT ou no Claude: passos numerados, o que conferir no fim, onde costuma dar erro, [confirmar] onde ficou vago.\n4. Revisa, testa com alguém da equipe e guarda numa pasta.\nSenha e dado de cliente ficam fora do áudio.\nAssim tu tira férias e a empresa segue no compasso, sem te ligar.\n\nSalva para montar o primeiro passo a passo esta semana e manda para o teu sócio.\n\n#InteligenciaArtificial #Delegar #GestaoDeEquipe #PequenasEmpresas #ProcessosEmpresariais",
+  "story": true,
+  "status": "agendado"
+}

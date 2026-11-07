@@ -1,0 +1,6 @@
+{
+  "01": {
+    "prompt": "Premium Instagram comparison post (4:5), no people, split design. Top half: a small business owner's desk with a ringing phone and scattered handwritten sticky notes, desaturated gray. Bottom half: the same desk, tidy, with a printed numbered checklist in a clear folder, warm soft light, rich colors. A thin gold (#C9A24B) horizontal line divides the two halves.\nOn the top half, a dark rounded label with white text \"Sem IA\" and a bold white condensed headline: \"Tu explica de novo a cada funcionário novo.\".\nOn the bottom half, a gold rounded label with dark navy text \"Com IA\" and a bold white condensed headline: \"Tu explica uma vez e a IA põe no papel.\".\nHeadlines have a soft dark shadow so they read on top of the photos.\nBottom left small white text: \"Lucas Jesus\". Bottom right small white text: \"Salve e mande ao sócio\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Photorealistic, premium, editorial. No people, no extra text, no brand logos, no watermark.",
+    "gerado_por": "plano B (kit/render.py, modelo versus): OPENAI_API_KEY ausente no repositório"
+  }
+}

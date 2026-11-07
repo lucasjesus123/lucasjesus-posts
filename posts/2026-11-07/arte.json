@@ -1,0 +1,7 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {"modelo": "versus", "rotulo_a": "Sem IA", "a": "Tu explica de novo|a cada funcionário novo.",
+     "rotulo_b": "Com IA", "b": "Tu explica uma vez|e a IA põe no papel."}
+  ]
+}
