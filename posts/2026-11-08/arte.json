@@ -1,0 +1,13 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {
+      "modelo": "retrato",
+      "frase": "A IA escreve|a resposta.|O nome|embaixo dela|é o teu.",
+      "contexto": "pastor e empresário",
+      "lado": "direita",
+      "tratamento": "pb",
+      "imagem": "fotos/casaco-fundo-vermelho.jpg"
+    }
+  ]
+}
