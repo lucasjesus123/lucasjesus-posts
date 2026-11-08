@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-11-08T08:53:29+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "link": "https://openai.com/index/introducing-gpt-6-cyber",
+      "data": "2026-11-05T09:00:00+00:00",
+      "resumo": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "nota": 10.0
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "data": "2026-11-07T12:30:00+00:00",
+      "resumo": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "nota": 9.15
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "data": "2026-11-06T00:00:00+00:00",
+      "resumo": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "data": "2026-11-05T17:00:00+00:00",
+      "resumo": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "data": "2026-11-06T08:00:00+00:00",
+      "resumo": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "nota": 7.96
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "data": "2026-11-06T23:46:18+00:00",
+      "resumo": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "nota": 7.62
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta says US users can now video chat with their Muse AI avatar",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "data": "2026-11-05T19:48:28+00:00",
+      "resumo": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "nota": 7.45
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI released a new cybersecurity model. Is that enough?",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "data": "2026-11-05T19:06:12+00:00",
+      "resumo": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "nota": 7.43
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "data": "2026-11-05T17:00:00+00:00",
+      "resumo": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+      "link": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "data": "2026-11-05T16:00:00+00:00",
+      "resumo": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack. […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "data": "2026-11-06T15:54:47+00:00",
+      "resumo": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "nota": 7.29
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "data": "2026-11-06T22:53:46+00:00",
+      "resumo": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "nota": 6.58
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "data": "2026-11-05T22:40:55+00:00",
+      "resumo": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "nota": 6.57
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
+      "link": "https://tecnoblog.net/noticias/google-anuncia-gemini-omni-1-2-flash-para-criar-videos-de-ate-15-segundos/",
+      "data": "2026-11-05T22:06:01+00:00",
+      "resumo": "Novo modelo gera vídeos de até 15 segundos com mais qualidade. Novidade também traz maior controle de tempo e ajustes por comandos de voz ou texto. Google anuncia Gemini Omni 1.2 Flash para criar vídeos de até 15 segundos",
+      "nota": 6.55
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "data": "2026-11-05T20:00:00+00:00",
+      "resumo": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "nota": 6.46
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "link": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "data": "2026-11-05T20:00:41+00:00",
+      "resumo": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. As businesses put more agents to work, AI factories need CPUs that can execute those […]",
+      "nota": 6.46
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "data": "2026-11-06T18:44:20+00:00",
+      "resumo": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "nota": 6.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "data": "2026-11-05T18:02:27+00:00",
+      "resumo": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "nota": 6.38
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "data": "2026-11-05T17:00:35+00:00",
+      "resumo": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "nota": 6.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "data": "2026-11-07T15:50:00+00:00",
+      "resumo": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "nota": 6.29
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "data": "2026-11-07T15:43:45+00:00",
+      "resumo": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "nota": 6.28
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "data": "2026-11-07T15:00:00+00:00",
+      "resumo": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+      "nota": 6.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "data": "2026-11-06T06:28:32+00:00",
+      "resumo": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+      "nota": 5.9
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "data": "2026-11-07T01:40:28+00:00",
+      "resumo": "The deal highlights the challenges of developing massive AI data centers.",
+      "nota": 5.7
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "data": "2026-11-06T23:00:44+00:00",
+      "resumo": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "nota": 5.59
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "All the latest updates on AI data centers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "data": "2026-11-06T20:02:22+00:00",
+      "resumo": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
+      "nota": 5.46
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "data": "2026-11-06T18:44:38+00:00",
+      "resumo": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "nota": 5.41
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "data": "2026-11-06T18:10:10+00:00",
+      "resumo": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]",
+      "nota": 5.39
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "data": "2026-11-06T18:00:00+00:00",
+      "resumo": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "nota": 5.38
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Claude can now analyze your spending with its new Personal Finance tool",
+      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "data": "2026-11-05T18:00:00+00:00",
+      "resumo": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "nota": 5.38
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "data": "2026-11-06T17:23:52+00:00",
+      "resumo": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "nota": 5.35
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "data": "2026-11-06T17:00:00+00:00",
+      "resumo": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
+      "nota": 5.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "data": "2026-11-06T16:38:02+00:00",
+      "resumo": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
+      "nota": 5.32
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Axiom Math wants to keep AI slop out of mathematics",
+      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "data": "2026-11-05T16:16:45+00:00",
+      "resumo": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "nota": 5.31
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "data": "2026-11-06T16:00:35+00:00",
+      "resumo": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "nota": 5.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+      "link": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/",
+      "data": "2026-11-05T16:00:05+00:00",
+      "resumo": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers. […]",
+      "nota": 5.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "data": "2026-11-05T19:12:39+00:00",
+      "resumo": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "nota": 4.43
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Galaxy S26 FE atinge menor preço desde o lançamento no Magalu",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-fe-atinge-menor-preco-desde-o-lancamento-no-magalu/",
+      "data": "2026-11-05T17:51:57+00:00",
+      "resumo": "Galaxy S26 FE (128 GB) tem chip de 3 nanômetros e novas funções de IA; premium acessível da Samsung sai 41% mais em conta no Pix com cupom durante a Black November 2026 Galaxy S26 FE atinge menor preço desde o lançamento no Magalu",
+      "nota": 4.37
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "data": "2026-11-05T21:40:36+00:00",
+      "resumo": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "nota": 3.53
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+      "data": "2026-11-05T21:39:40+00:00",
+      "resumo": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "nota": 3.53
+    }
+  ]
+}
