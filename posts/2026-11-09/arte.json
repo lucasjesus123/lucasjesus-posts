@@ -1,0 +1,10 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {"modelo": "manchete", "chapeu": "Radar de IA", "data": "9 de novembro de 2026", "titulo": "Uma para testar,|uma para acompanhar,|uma para esperar", "subtitulo": "As três notícias de IA da semana que mexem com quem tem empresa, separadas pelo que pedem de ti.", "fonte": "Fontes: Google, Meta e Anthropic, novembro de 2026"},
+    {"modelo": "slide", "titulo": "Para testar:|vídeo de 15 s|no Google Vids", "texto": "Gemini Omni 1.2 Flash, 3 clipes por mês sem custo. Para ti: clipe curto para story. Confere se aparece na tua conta."},
+    {"modelo": "slide", "titulo": "Para acompanhar:|a Meta pausou|os termos novos", "texto": "Ampliavam o uso do conteúdo do site da tua empresa. Para ti: seguem os termos atuais. Pausa não é fim."},
+    {"modelo": "slide", "titulo": "Para esperar:|o Claude lendo|conta bancária", "texto": "Beta, só nos EUA: lê saldos e até 24 meses de transações, não mexe no dinheiro. Para ti: sinal do que vem."},
+    {"modelo": "fecho", "opiniao": "Toda semana tem muita notícia de IA. Eu separo assim: o que testar, o que acompanhar e o que só anotar.", "cta": "Salva e usa a mesma triagem na próxima semana."}
+  ]
+}

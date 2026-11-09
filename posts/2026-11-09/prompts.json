@@ -1,0 +1,20 @@
+{
+  "01": {
+    "gpt": "Premium Instagram carousel cover (4:5) for AI news, no people. Clean light editorial scene: off-white (#F3F4F1) studio background, a smartphone playing a short product video, a printed terms document with a paper clip and a small bank card reader on a light wooden desk, lit by a soft warm side light, subtle shadows, shallow depth of field.\nTop left: small gold (#C9A24B) text \"RADAR DE IA · 9 DE NOVEMBRO\".\nHuge bold condensed dark navy (#0B1A33) headline, left aligned: \"UMA PARA TESTAR,\" / \"UMA PARA ACOMPANHAR,\" / and in gold: \"UMA PARA ESPERAR\".\nUnder it, a small dark navy line: \"O que muda para quem tem empresa\".\nBottom right: small dark navy text \"Arraste →\". Bottom left small dark navy text at 70% opacity: \"Lucas Jesus\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Cinematic, editorial, premium. No people, no extra text, no brand logos, no glowing brains, no watermark.",
+    "plano_b": "kit/render.py manchete (arte.json)",
+    "motivo_plano_b": "OPENAI_API_KEY ausente no GitHub"
+  },
+  "02": {
+    "plano_b": "slide"
+  },
+  "03": {
+    "plano_b": "slide"
+  },
+  "04": {
+    "plano_b": "slide"
+  },
+  "05": {
+    "plano_b": "fecho"
+  },
+  "story": "kit/render.py (story a partir da capa)"
+}
