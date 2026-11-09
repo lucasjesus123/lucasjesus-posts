@@ -1,0 +1,240 @@
+{
+  "gerado_em": "2026-11-09T08:53:34+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "data": "2026-11-09T05:00:39+00:00",
+      "resumo": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+      "nota": 8.84
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "data": "2026-11-09T05:00:04+00:00",
+      "resumo": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "nota": 8.84
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "data": "2026-11-08T22:54:50+00:00",
+      "resumo": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
+      "nota": 8.58
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "data": "2026-11-08T19:18:19+00:00",
+      "resumo": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+      "nota": 8.43
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "data": "2026-11-07T12:30:00+00:00",
+      "resumo": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "nota": 8.15
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "data": "2026-11-09T08:00:53+00:00",
+      "resumo": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+      "nota": 7.96
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "data": "2026-11-09T05:00:00+00:00",
+      "resumo": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "nota": 7.84
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "data": "2026-11-09T05:00:40+00:00",
+      "resumo": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "nota": 6.84
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
+      "link": "https://tecnoblog.net/noticias/dona-da-99-teve-numero-insignificante-de-corridas-solicitadas-por-agentes-de-ia/",
+      "data": "2026-11-09T04:18:55+00:00",
+      "resumo": "Na semana passada, Uber revelou que apenas quatro viagens por IA foram registradas. Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
+      "nota": 6.81
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "data": "2026-11-06T23:46:18+00:00",
+      "resumo": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "nota": 6.62
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Elvis and Eminem rights holders are suing Suno",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "data": "2026-11-08T17:23:19+00:00",
+      "resumo": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]",
+      "nota": 6.35
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "data": "2026-11-06T15:54:47+00:00",
+      "resumo": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "nota": 6.29
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "data": "2026-11-06T22:53:46+00:00",
+      "resumo": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "nota": 5.58
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "data": "2026-11-06T18:44:20+00:00",
+      "resumo": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "nota": 5.41
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "data": "2026-11-07T15:50:00+00:00",
+      "resumo": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "nota": 5.29
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "data": "2026-11-07T15:43:45+00:00",
+      "resumo": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "nota": 5.28
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "data": "2026-11-07T15:00:00+00:00",
+      "resumo": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+      "nota": 5.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Crusoe sells troubled Wyoming data center project to Google",
+      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "data": "2026-11-07T01:40:28+00:00",
+      "resumo": "The deal highlights the challenges of developing massive AI data centers.",
+      "nota": 4.7
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "data": "2026-11-06T23:00:44+00:00",
+      "resumo": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
+      "nota": 4.59
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "data": "2026-11-06T18:44:38+00:00",
+      "resumo": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "nota": 4.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "data": "2026-11-06T18:00:00+00:00",
+      "resumo": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "nota": 4.38
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "data": "2026-11-06T17:23:52+00:00",
+      "resumo": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "nota": 4.35
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "link": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "data": "2026-11-06T16:00:35+00:00",
+      "resumo": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "nota": 4.3
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "link": "https://tecnoblog.net/noticias/amd-agora-prioriza-data-centers-mas-e-os-jogos-e-os-pcs/",
+      "data": "2026-11-06T19:59:24+00:00",
+      "resumo": "Aplicações de IA aumentaram demanda por data centers que, por sua vez, agora são principal fonte de receita para a AMD. AMD agora prioriza data centers; mas e os jogos e os PCs?",
+      "nota": 2.46
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "data": "2026-11-06T17:43:02+00:00",
+      "resumo": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "nota": 2.37
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Could potential AI clones of GTA VI force a quicker official port?",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "data": "2026-11-06T16:19:12+00:00",
+      "resumo": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "nota": 2.31
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Microsoft quer patentear IA que altera falas ao vivo",
+      "link": "https://tecnoblog.net/noticias/microsoft-quer-patentear-ia-que-altera-falas-ao-vivo/",
+      "data": "2026-11-06T15:10:46+00:00",
+      "resumo": "Sistema poderia traduzir discursos e substituir palavras com poucos segundos de atraso e sincronia labial. Microsoft quer patentear IA que altera falas ao vivo",
+      "nota": 2.26
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
+      "link": "https://tecnoblog.net/achados/huawei-watch-gt-7-com-gps-esta-42-mais-barato-na-amazon/",
+      "data": "2026-11-06T13:43:32+00:00",
+      "resumo": "Watch GT 7 (46 mm) traz GPS com IA mais preciso e tela AMOLED de 3.000 nits; novo smartwatch da Huawei recebe desconto de 42% em oferta da Black November no Pix Huawei Watch GT 7 com GPS está 42% mais barato na Amazon",
+      "nota": 2.2
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Nubank demite funcionários após IA reduzir fila de fraudes",
+      "link": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
+      "data": "2026-11-06T13:09:13+00:00",
+      "resumo": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros. Instituição atribui cortes a uma reestruturação interna. Nubank demite funcionários após IA reduzir fila de fraudes",
+      "nota": 2.18
+    }
+  ]
+}
