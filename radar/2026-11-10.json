@@ -1,0 +1,297 @@
+{
+  "gerado_em": "2026-11-10T08:53:16+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "data": "2026-11-09T08:00:00+00:00",
+      "resumo": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "nota": 10.96
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "data": "2026-11-09T19:00:00+00:00",
+      "resumo": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
+      "nota": 10.42
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "data": "2026-11-09T13:00:00+00:00",
+      "resumo": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "nota": 10.17
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Closing the AI guidance gap in education",
+      "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "data": "2026-11-10T09:00:00+00:00",
+      "resumo": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "nota": 10.0
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "data": "2026-11-09T19:24:51+00:00",
+      "resumo": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "nota": 9.44
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "data": "2026-11-09T19:00:00+00:00",
+      "resumo": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "nota": 9.42
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "data": "2026-11-09T18:00:00+00:00",
+      "resumo": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "nota": 9.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Kuken Industries searches 70 years of drawings in minutes",
+      "link": "https://openai.com/index/kuken",
+      "data": "2026-11-09T08:00:00+00:00",
+      "resumo": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "data": "2026-11-09T05:00:39+00:00",
+      "resumo": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+      "nota": 7.84
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "link": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "data": "2026-11-09T05:00:04+00:00",
+      "resumo": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "nota": 7.84
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic reportedly plans to move forward with IPO plans",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "data": "2026-11-10T01:27:12+00:00",
+      "resumo": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "nota": 7.69
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "data": "2026-11-09T20:09:06+00:00",
+      "resumo": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "nota": 7.47
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "data": "2026-11-09T19:09:58+00:00",
+      "resumo": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+      "nota": 7.43
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "data": "2026-11-09T18:07:23+00:00",
+      "resumo": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+      "nota": 7.38
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "data": "2026-11-09T17:36:08+00:00",
+      "resumo": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - […]",
+      "nota": 7.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "data": "2026-11-09T16:56:54+00:00",
+      "resumo": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "data": "2026-11-09T15:50:38+00:00",
+      "resumo": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, saying, \"We had a situation where somebody […]",
+      "nota": 7.29
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Disney and Adobe are building generative AI tools together",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "data": "2026-11-09T15:38:56+00:00",
+      "resumo": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to […]",
+      "nota": 7.28
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "data": "2026-11-09T13:00:00+00:00",
+      "resumo": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed…",
+      "nota": 7.17
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "link": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "data": "2026-11-09T08:00:53+00:00",
+      "resumo": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
+      "nota": 6.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Otter AI can now follow conversations across 30+ languages",
+      "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+      "data": "2026-11-10T07:00:00+00:00",
+      "resumo": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "nota": 6.92
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "link": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "data": "2026-11-09T05:00:00+00:00",
+      "resumo": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "nota": 6.84
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "data": "2026-11-10T00:28:49+00:00",
+      "resumo": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]",
+      "nota": 6.65
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "data": "2026-11-09T23:51:58+00:00",
+      "resumo": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+      "nota": 6.62
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "data": "2026-11-09T23:07:59+00:00",
+      "resumo": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]",
+      "nota": 6.59
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "data": "2026-11-09T19:35:33+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+      "nota": 6.45
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "data": "2026-11-09T18:09:52+00:00",
+      "resumo": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "nota": 6.39
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "data": "2026-11-09T17:05:43+00:00",
+      "resumo": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
+      "nota": 6.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "data": "2026-11-09T16:12:28+00:00",
+      "resumo": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "nota": 6.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "link": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "data": "2026-11-09T05:00:40+00:00",
+      "resumo": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "nota": 5.84
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
+      "link": "https://tecnoblog.net/noticias/dona-da-99-teve-numero-insignificante-de-corridas-solicitadas-por-agentes-de-ia/",
+      "data": "2026-11-09T04:18:55+00:00",
+      "resumo": "Na semana passada, Uber revelou que apenas quatro viagens por IA foram registradas. Dona da 99 teve número “insignificante” de corridas solicitadas por agentes de IA",
+      "nota": 5.81
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "data": "2026-11-09T17:24:26+00:00",
+      "resumo": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "nota": 5.35
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "link": "https://tecnoblog.net/noticias/desenvolvedor-cria-script-que-manda-dados-de-memoria-ram-para-sam-altman/",
+      "data": "2026-11-09T17:19:21+00:00",
+      "resumo": "Ferramenta para Linux transforma dados de memória disponível em mensagens irônicas ao CEO da OpenAI, em resposta a declarações sobre o uso de RAM em PCs. Desenvolvedor cria script que manda dados de RAM para Sam Altman",
+      "nota": 5.35
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Apple começa a cobrar por uso extra de IA em apps profissionais",
+      "link": "https://tecnoblog.net/noticias/apple-comeca-a-cobrar-por-uso-extra-de-ia-em-apps-profissionais/",
+      "data": "2026-11-09T20:28:43+00:00",
+      "resumo": "Pacote adicional custa cerca de R$ 300 e permite continuar usando recursos de IA após o limite mensal. Apple começa a cobrar por uso extra de IA em apps profissionais",
+      "nota": 4.48
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google apresenta versões mais potentes de seus chips de IA",
+      "link": "https://tecnoblog.net/noticias/google-apresenta-versoes-mais-potentes-de-seus-chips-de-ia/",
+      "data": "2026-11-09T18:53:38+00:00",
+      "resumo": "TPU 8tx e 8i Max completam família de quatro aceleradores da 8ª geração. Google apresenta versões mais potentes de seus chips de IA",
+      "nota": 4.42
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Linus Torvalds já vê “paz” entre Linux e ferramentas de IA que caçam bugs",
+      "link": "https://tecnoblog.net/noticias/linus-torvalds-ja-ve-paz-entre-linux-e-ferramentas-de-ia-que-cacam-bugs/",
+      "data": "2026-11-09T15:26:09+00:00",
+      "resumo": "Linus Torvalds relatou que, em alguns pontos do Linux, o número de correções começou a superar os relatórios de bugs gerados por IA. Linus Torvalds já vê “paz” entre Linux e ferramentas de IA que caçam bugs",
+      "nota": 4.27
+    }
+  ]
+}
