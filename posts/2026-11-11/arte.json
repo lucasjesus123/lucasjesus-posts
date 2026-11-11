@@ -1,0 +1,100 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {
+      "modelo": "manchete",
+      "chapeu": "Na prática",
+      "data": "Salva para fazer hoje",
+      "titulo": "O que a IA|fala da tua empresa?",
+      "subtitulo": "Antes de querer aparecer, pergunta. Um prompt fixo no ChatGPT, no Claude e no Gemini mostra o que está certo e o que está errado.",
+      "fonte": ""
+    },
+    {
+      "modelo": "slide",
+      "titulo": "Ela já responde|sobre o teu negócio",
+      "texto": "A OpenAI anunciou um espaço para empresas cuidarem das próprias informações no ChatGPT. Começou em teste, ainda sem data para o Brasil."
+    },
+    {
+      "modelo": "lista",
+      "titulo": "O prompt",
+      "sequencia": false,
+      "itens": [
+        [
+          "O que faz",
+          "Serviços e para quem a empresa trabalha."
+        ],
+        [
+          "Onde e quando",
+          "Endereço, cidade e horário de atendimento."
+        ],
+        [
+          "Contato e preço",
+          "WhatsApp, site, redes e faixa de preço."
+        ],
+        [
+          "De onde tirou",
+          "Pede a fonte de cada informação."
+        ],
+        [
+          "Sem inventar",
+          "“Se não tiver certeza, escreva ‘não encontrei’. Não invente.” Prompt completo na legenda."
+        ]
+      ]
+    },
+    {
+      "modelo": "lista",
+      "titulo": "Como rodar",
+      "sequencia": true,
+      "itens": [
+        [
+          "Nas três",
+          "A mesma pergunta no ChatGPT, no Claude e no Gemini."
+        ],
+        [
+          "Conversa nova",
+          "Sem histórico, para ela não usar o que tu já contou."
+        ],
+        [
+          "Busca na web ligada",
+          "Assim ela procura agora, não só no que já sabia."
+        ],
+        [
+          "Pergunta como cliente",
+          "“Onde tem [serviço] em [cidade]?” Tu aparece?"
+        ],
+        [
+          "Anota",
+          "Certo, errado ou faltando, item por item."
+        ]
+      ]
+    },
+    {
+      "modelo": "lista",
+      "titulo": "Onde corrigir",
+      "sequencia": false,
+      "itens": [
+        [
+          "Site",
+          "Nome, o que faz, cidade, endereço, horário e WhatsApp escritos em texto, não só em imagem."
+        ],
+        [
+          "Perfil da Empresa no Google",
+          "Horário, categoria e fotos em dia."
+        ],
+        [
+          "Instagram e redes",
+          "Bio, endereço e contato iguais aos do site."
+        ],
+        [
+          "Tudo igual",
+          "A mesma informação em todo lugar. A correção não aparece na hora."
+        ]
+      ]
+    },
+    {
+      "modelo": "fecho",
+      "opiniao": "A IA toca de ouvido: repete o que encontra. Se cada lugar diz um horário, a resposta sai desafinada.",
+      "cta": "Salva e roda de novo daqui a um mês."
+    }
+  ]
+}

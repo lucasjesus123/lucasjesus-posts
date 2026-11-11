@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-11T18:00:00-03:00",
+  "dia": "quarta",
+  "tema": "Conferir o que o ChatGPT, o Claude e o Gemini dizem da tua empresa com um prompt fixo e corrigir a origem (site, Perfil da Empresa no Google, redes); gancho: perfis de empresa no ChatGPT anunciados pela OpenAI em 10/11",
+  "grande_ideia": "Antes de querer aparecer na IA, pergunta o que ela já diz da tua empresa e corrige onde a informação nasce.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 6",
+  "estilo": "dica-prompt (plano B: manchete + slide + lista + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "https://openai.com/index/introducing-businesses-chatgpt",
+  "legenda": "Tu já perguntou para o ChatGPT o que ele responde sobre a tua empresa?\n\nTeu cliente já pergunta. E a resposta pode estar certa, errada ou vazia.\nA OpenAI anunciou um espaço para a empresa cuidar das próprias informações e ver como aparece no ChatGPT. Começou em teste, ainda sem data para o Brasil.\nAntes de pensar em aparecer, vale saber o que já aparece.\nRoda o prompt abaixo no ChatGPT, no Claude e no Gemini, anota o que veio certo, errado ou faltando e corrige onde a informação nasce: site, Perfil da Empresa no Google e redes.\nFonte: OpenAI, https://openai.com/index/introducing-businesses-chatgpt\n\nPrompt para copiar:\n\nO que você sabe sobre a empresa [nome], de [cidade]? Responda em tópicos:\n1. O que a empresa faz e para quem.\n2. Endereço e cidade.\n3. Horário de atendimento.\n4. Telefone, WhatsApp, site e redes sociais.\n5. Preços e o que diferencia ela das outras.\nPara cada item, diga de onde tirou a informação (link ou nome do site).\nSe não tiver certeza de algum item, escreva “não encontrei”. Não invente.\n\nDepois, numa conversa nova, pergunta como cliente:\nOnde tem [serviço] em [cidade]? Me indique algumas opções e diga por quê.\n\nComo rodar:\nConversa nova em cada uma, com a busca na web ligada.\nAnota item por item: certo, errado ou faltando.\nCorrige no site (com texto, não só imagem), no Perfil da Empresa no Google e nas redes. A mesma informação em todo lugar.\nA correção não aparece na hora. Roda de novo daqui a um mês e compara.\n\nSalva para rodar hoje e de novo no mês que vem.\n\n#InteligenciaArtificial #ChatGPT #PerfilDaEmpresaNoGoogle #MarketingLocal #PequenasEmpresas",
+  "story": true,
+  "status": "agendado"
+}
