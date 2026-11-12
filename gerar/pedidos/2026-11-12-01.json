@@ -6,5 +6,6 @@
   "qualidade": "high",
   "post": "posts/2026-11-12",
   "slide": "01",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "OPENAI_API_KEY ausente (workflow \"Gerar arte\" terminou sem gerar; 12/11). Arte feita no plano B (kit/render.py)."
 }

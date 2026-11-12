@@ -1,0 +1,17 @@
+{
+  "publicar_em": "2026-11-12T18:00:00-03:00",
+  "dia": "quinta",
+  "tema": "Medir o custo da tarefa antes de investir em IA (horas x valor da hora x custo da ferramenta); gancho: pesquisa Avanade/Vanson Bourne, 64% das grandes empresas no Brasil dizem não ter calculado formalmente o retorno financeiro da IA",
+  "grande_ideia": "Primeiro, a conta. Depois, a IA: sem o número de antes, ninguém prova depois que a IA funcionou.",
+  "objetivo": "autoridade",
+  "formato": "único",
+  "estilo": "capa-revista (plano B: capa do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [
+    "camiseta-preta-mao-queixo.jpg"
+  ],
+  "fonte": "https://economiasc.com/2026/11/06/64-das-empresas-brasileiras-ainda-nao-medem-retorno-financeiro-da-ia-aponta-estudo/",
+  "legenda": "A ferramenta é a parte fácil. O difícil é saber quanto a tarefa custa hoje.\n\nÉ como ensaio: sem ouvir como a música está agora, não dá para saber se melhorou.\nAntes de investir em IA, mede a tarefa que ela vai fazer: horas por semana x 4 semanas x valor da hora.\nEx.: 4 h x 4 semanas x R$ 60 = R$ 960 por mês, contra uma ferramenta de R$ 250 por mês que assumiria parte disso.\nDaqui a 3 meses, mede de novo. Aí sim dá para saber se funcionou.\nNuma pesquisa da Avanade com grandes empresas no Brasil, 64% dizem que não calcularam formalmente o retorno financeiro da IA.\nA IA pode dar retorno. Sem o número de antes, ninguém consegue provar.\nFonte: Avanade, via Economia SC, https://economiasc.com/2026/11/06/64-das-empresas-brasileiras-ainda-nao-medem-retorno-financeiro-da-ia-aponta-estudo/\n\nSalva e faz essa conta antes da próxima assinatura.\n\n#InteligenciaArtificial #IAparaEmpresas #GestaoEmpresarial #Produtividade",
+  "story": true,
+  "status": "agendado"
+}

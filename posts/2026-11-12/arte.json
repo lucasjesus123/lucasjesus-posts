@@ -1,0 +1,15 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {
+      "modelo": "capa",
+      "chapeu": "Opinião · Antes de investir",
+      "data": "Novembro de 2026",
+      "titulo": "Primeiro, a conta.|Depois, a IA.",
+      "subtitulo": "Mede quanto a tarefa custa hoje. Sem o número de antes, ninguém consegue provar depois que a IA funcionou.",
+      "imagem": "fotos/camiseta-preta-mao-queixo.jpg",
+      "zoom": 0.23,
+      "alvo_y": 0.47
+    }
+  ]
+}
