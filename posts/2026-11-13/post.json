@@ -1,0 +1,17 @@
+{
+  "publicar_em": "2026-11-13T18:00:00-03:00",
+  "dia": "sexta",
+  "tema": "Gemini 4 Hydrogen na Busca do Google (12/11, global, para todos): entende pergunta com várias partes e pedido específico; o dono troca a palavra-chave solta pela pergunta inteira, com contexto, e confere as fontes",
+  "grande_ideia": "Para de pesquisar por palavra solta: a Busca agora aguenta a pergunta inteira, com o contexto da tua empresa.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "noticia-3d (plano B: dividido do kit/render.py)",
+  "tom": "claro",
+  "fotos": [
+    "sueter-marrom-sorrindo.jpg"
+  ],
+  "fonte": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+  "legenda": "Aquela pesquisa com três palavras soltas pode ficar para trás.\n\nOntem (12/11) o Google colocou o Gemini 4 Hydrogen na Busca, para todos os usuários, no mundo todo.\nSegundo o Google, ele lida com pergunta de várias partes, erro de digitação difícil e pedido bem específico.\nNa prática: a ideia é que a Busca aguente a pergunta inteira, não só a palavra-chave.\nEm vez de \"embalagem delivery\", tenta: \"preciso de um fornecedor de embalagem para delivery em Porto Alegre, pedido mínimo baixo, que entregue em 3 dias. Quais opções e o que perguntar antes de fechar?\"\nE confere as fontes que ela mostra antes de decidir.\nFonte: Google, https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/\n\nSalva para usar na próxima vez que for atrás de fornecedor.\n\n#InteligenciaArtificial #GoogleGemini #BuscaGoogle #GestaoEmpresarial",
+  "story": true,
+  "status": "agendado"
+}
