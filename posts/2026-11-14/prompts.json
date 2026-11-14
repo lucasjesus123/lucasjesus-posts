@@ -1,0 +1,12 @@
+{
+  "01": {
+    "gpt": "Premium Instagram comparison post (4:5), no people, split design. Top half: a hand quickly signing the last page of a thick printed contract with a pen on a messy office desk, the other pages untouched and stacked, desaturated gray. Bottom half: the same office desk, tidy, a printed contract open with exactly four short paragraphs highlighted in yellow marker, a pen and a laptop beside it showing a blank generic chat window, a cup of coffee, warm soft light, rich colors. A thin gold (#C9A24B) horizontal line divides the two halves.\nOn the top half, a dark rounded label with white text \"SEM IA\" and a bold white condensed headline: \"Assina no embalo\".\nOn the bottom half, a gold rounded label with dark navy text \"COM IA\" and a bold white condensed headline: \"Lê as 4 cláusulas\".\nHeadlines have a soft dark shadow so they read on top of the photos.\nBottom left small white text: \"Lucas Jesus\". Bottom right small white text: \"Salva para dezembro\".\nWrite all text exactly as given, Brazilian Portuguese with perfect accents. Photorealistic, premium, editorial. No people, no extra text, no brand logos, no watermark.",
+    "plano_b": {
+      "modelo": "versus",
+      "rotulo_a": "Sem IA",
+      "a": "Tu assina sem ler|e vê a multa depois.",
+      "rotulo_b": "Com IA",
+      "b": "Tu pede à IA|e lê a multa antes."
+    }
+  }
+}

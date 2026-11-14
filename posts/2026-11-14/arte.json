@@ -1,0 +1,7 @@
+{
+  "tom": "escuro",
+  "pecas": [
+    {"modelo": "versus", "rotulo_a": "Sem IA", "a": "Tu assina sem ler|e vê a multa depois.",
+     "rotulo_b": "Com IA", "b": "Tu pede à IA|e lê a multa antes."}
+  ]
+}

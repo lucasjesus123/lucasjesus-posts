@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-14T18:00:00-03:00",
+  "dia": "sábado",
+  "tema": "Contrato de fornecedor ou locação: assinar no embalo sem ler x pedir à IA que aponte onde estão multa, prazo de aviso, reajuste e renovação automática, e ler esses trechos no original (IA não substitui advogado)",
+  "grande_ideia": "A IA não assina por ti, mas te mostra as quatro cláusulas que tu ias pular: multa, prazo de aviso, reajuste e renovação automática.",
+  "objetivo": "salvamento",
+  "formato": "único",
+  "estilo": "antes-depois (plano B: versus do kit/render.py)",
+  "tom": "escuro",
+  "fotos": [],
+  "fonte": "",
+  "legenda": "Fim de ano é quando o aluguel, a internet e o contador pedem tua assinatura.\n\nA gente assina no embalo e só lê o contrato quando quer sair.\nAí aparecem a multa, o prazo de aviso, o reajuste e a renovação automática.\nNa prática, antes de assinar:\n1. Tira CPF, CNPJ, dados bancários e nomes, se preferir.\n2. Cola o contrato no ChatGPT ou no Claude com este pedido:\n\"Me lista onde estão a multa por cancelamento, o prazo de aviso para sair, o índice de reajuste e a renovação automática. Para cada um, dá o número da cláusula e copia o trecho.\"\n3. Abre o original e lê essas cláusulas com calma.\nA IA aponta onde ler, mas não substitui advogado. Valor alto ou algo estranho, leva ao teu advogado já sabendo o que perguntar.\n\nSalva para usar no próximo contrato que chegar.\n\n#InteligenciaArtificial #Contratos #PequenasEmpresas #GestaoEmpresarial",
+  "story": true,
+  "status": "agendado"
+}

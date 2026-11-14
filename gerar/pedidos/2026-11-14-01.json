@@ -4,5 +4,6 @@
   "qualidade": "high",
   "post": "posts/2026-11-14",
   "slide": "01",
-  "status": "pendente"
+  "status": "erro",
+  "erro": "Workflow \"Gerar arte\" não respondeu em 10 min (OPENAI_API_KEY ausente, como desde 11/11). Arte feita no plano B (kit/render.py)."
 }
