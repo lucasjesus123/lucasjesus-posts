@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-11-15T08:53:25+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "The Verge",
+      "titulo": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "data": "2026-11-13T20:45:10+00:00",
+      "resumo": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
+      "nota": 9.49
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "link": "https://openai.com/business/customer-stories/amplitude",
+      "data": "2026-11-12T20:00:00+00:00",
+      "resumo": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "nota": 9.46
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "data": "2026-11-13T15:00:00+00:00",
+      "resumo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "nota": 9.25
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "link": "https://openai.com/business/customer-stories/shield",
+      "data": "2026-11-13T08:00:00+00:00",
+      "resumo": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "data": "2026-11-14T17:30:00+00:00",
+      "resumo": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "nota": 8.36
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "data": "2026-11-13T14:00:00+00:00",
+      "resumo": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]",
+      "nota": 8.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI agent startup LangChain hits $3B valuation",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "data": "2026-11-13T19:37:57+00:00",
+      "resumo": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "nota": 7.45
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "data": "2026-11-12T19:11:00+00:00",
+      "resumo": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "nota": 7.43
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "data": "2026-11-12T18:00:00+00:00",
+      "resumo": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "nota": 7.38
+    },
+    {
+      "fonte": "Google DeepMind",
+      "titulo": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "data": "2026-11-12T18:00:50+00:00",
+      "resumo": "",
+      "nota": 7.38
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "link": "https://tecnoblog.net/noticias/chatgpt-wallet-permite-que-um-agente-de-ia-compre-e-pague-por-voce/",
+      "data": "2026-11-13T17:19:32+00:00",
+      "resumo": "OpenAI anunciou ChatGPT Wallet, sistema que permite que Dots (agentes de IA) paguem compras online em nome do usuário com mais segurança. ChatGPT Wallet permite que um agente de IA compre e pague por você",
+      "nota": 7.35
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "data": "2026-11-13T16:00:12+00:00",
+      "resumo": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+      "nota": 7.3
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "data": "2026-11-14T15:00:00+00:00",
+      "resumo": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
+      "nota": 7.25
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "data": "2026-11-12T12:00:00+00:00",
+      "resumo": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "nota": 7.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "data": "2026-11-12T22:22:28+00:00",
+      "resumo": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "nota": 6.56
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "data": "2026-11-12T21:55:32+00:00",
+      "resumo": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+      "nota": 6.54
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "data": "2026-11-13T18:40:30+00:00",
+      "resumo": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "nota": 6.41
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "data": "2026-11-13T14:05:22+00:00",
+      "resumo": "",
+      "nota": 6.22
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+      "link": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
+      "data": "2026-11-13T13:42:16+00:00",
+      "resumo": "Levantamento analisou mais de 8 milhões de mensagens. Respostas erradas, instruções ignoradas e pedidos mal compreendidos são principais causas de frustração. Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+      "nota": 6.2
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Holiday Extras is rethinking what it can build with Codex",
+      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "data": "2026-11-12T09:30:00+00:00",
+      "resumo": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "nota": 6.03
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "data": "2026-11-13T22:43:00+00:00",
+      "resumo": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "nota": 5.58
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "data": "2026-11-12T21:27:10+00:00",
+      "resumo": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "nota": 5.52
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "No, AI agents did not discover a previously unknown Maya site",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "data": "2026-11-12T19:42:40+00:00",
+      "resumo": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a […]",
+      "nota": 5.45
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "data": "2026-11-12T19:27:45+00:00",
+      "resumo": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "nota": 5.44
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "data": "2026-11-12T18:39:23+00:00",
+      "resumo": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "nota": 5.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "data": "2026-11-13T15:58:00+00:00",
+      "resumo": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "nota": 5.29
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "What’s really at stake in the Jensen Huang saga",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "data": "2026-11-13T14:47:16+00:00",
+      "resumo": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+      "nota": 5.25
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Tinder proíbe que agentes de IA conversem pelos usuários",
+      "link": "https://tecnoblog.net/noticias/tinder-proibe-que-agentes-de-ia-conversem-pelos-usuarios/",
+      "data": "2026-11-13T14:17:13+00:00",
+      "resumo": "Match Group quer impedir que assistentes escolham perfis e enviem mensagens no lugar das pessoas. Tinder proíbe que agentes de IA conversem pelos usuários",
+      "nota": 5.22
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "link": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "data": "2026-11-13T13:00:42+00:00",
+      "resumo": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
+      "nota": 5.17
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "data": "2026-11-13T12:52:19+00:00",
+      "resumo": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+      "nota": 5.17
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "ByteDance estaria trabalhando em IA rival do Muse",
+      "link": "https://tecnoblog.net/noticias/bytedance-estaria-trabalhando-em-ia-rival-do-muse-meta/",
+      "data": "2026-11-12T09:04:53+00:00",
+      "resumo": "Agente pessoal pode chegar “nas próximas semanas” com proposta bastante semelhante à nova inteligência artificial da empresa estadunidense. ByteDance estaria trabalhando em IA rival do Muse",
+      "nota": 5.01
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
+      "link": "https://tecnoblog.net/noticias/chatgpt-e-gemini-indicam-lojas-falsas-para-compras-aponta-estudo/",
+      "data": "2026-11-12T20:38:47+00:00",
+      "resumo": "Pior resultado foi o da Perplexity, que recomendou sites problemáticos em 15% das respostas. ChatGPT e Gemini indicam lojas falsas para compras, aponta estudo",
+      "nota": 4.49
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "link": "https://tecnoblog.net/noticias/gemini-4-hydrogen-e-o-novo-modelo-do-google-para-tarefas-do-dia-a-dia/",
+      "data": "2026-11-12T20:05:40+00:00",
+      "resumo": "Novo modelo substitui o Gemini 3.8 Flash e chega gratuitamente ao aplicativo Gemini e à Busca do Google. Gemini 4 Hydrogen é o novo modelo do Google para tarefas do dia a dia",
+      "nota": 4.47
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "data": "2026-11-12T19:23:03+00:00",
+      "resumo": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "nota": 4.44
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "data": "2026-11-12T19:07:35+00:00",
+      "resumo": "",
+      "nota": 4.43
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "data": "2026-11-12T17:36:40+00:00",
+      "resumo": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "nota": 4.36
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "data": "2026-11-13T17:25:45+00:00",
+      "resumo": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "nota": 4.36
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "United Airlines bane agentes de IA na compra de passagens",
+      "link": "https://tecnoblog.net/noticias/united-airlines-bane-agentes-de-ia-na-compra-de-passagens/",
+      "data": "2026-11-12T16:30:58+00:00",
+      "resumo": "A United justifica a restrição pela proteção de dados sensíveis, pelo risco de erros operacionais e por exigências regulatórias. United Airlines bane agentes de IA na compra de passagens",
+      "nota": 4.32
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
+      "link": "https://tecnoblog.net/noticias/microsoft-enfrenta-dificuldades-para-religar-outlook-teams-e-outros-servicos/",
+      "data": "2026-11-13T12:00:27+00:00",
+      "resumo": "Usuários ainda podem enfrentar falhas de acesso e atrasos na entrega de mensagens no Outlook, Teams e Copilot após pane global. Microsoft diz que serviços estão quase todos normalizados; empresa pediu desculpas",
+      "nota": 4.13
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "data": "2026-11-13T21:20:47+00:00",
+      "resumo": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "nota": 3.52
+    }
+  ]
+}
