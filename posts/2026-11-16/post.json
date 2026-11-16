@@ -1,0 +1,15 @@
+{
+  "publicar_em": "2026-11-16T18:00:00-03:00",
+  "dia": "segunda",
+  "tema": "Radar da semana: Claude Meetings no Google Meet (beta, Team/Enterprise), estudo da Podqi com 9% de respostas de IA citando loja falsa ou inativa, Gemini 4 Carbon com /swarm em prévia (Ultra e API paga); a IA trabalha, o dono confere",
+  "grande_ideia": "A IA trabalha. Quem confere ainda é tu.",
+  "objetivo": "salvamento",
+  "formato": "carrossel 5",
+  "estilo": "radar-semana, variante clara (plano B: manchete + slides + fecho do kit/render.py)",
+  "tom": "claro",
+  "fotos": [],
+  "fonte": "https://claude.com/resources/articles/claude-meetings",
+  "legenda": "Esta semana a IA sentou na reunião, montou equipe e indicou loja.\n\nClaude Meetings: o Claude entra numa chamada do Google Meet como participante visível, responde por voz ou chat e no fim escreve as anotações e os itens de ação. Beta, só nos planos Team e Enterprise, por ora só no Meet. Guarda transcrição e resumo, não o áudio. A Anthropic não falou de português. Para ti: a ata sai pronta, mas quem confirma o combinado é tu.\n\nSegundo a Podqi, empresa que vende proteção de marca, 9% das respostas de ChatGPT, Gemini e Perplexity sobre onde comprar 151 marcas citaram loja falsa ou inativa (Perplexity 15%, ChatGPT 8%, Gemini 4%). Alerta, só em 9% desses casos. Para ti: pergunta tu mesmo onde comprar o teu produto e vê para onde a IA manda o cliente.\n\nGemini 4 Carbon: chegando aos assinantes Google AI Ultra e à API paga. No Antigravity, ferramenta de programação do Google, o /swarm (em prévia) faz um único pedido virar uma equipe de agentes. Para ti: não é grátis nem para todos, e mais agentes é mais coisa para revisar.\n\nFontes:\nAnthropic, https://claude.com/resources/articles/claude-meetings\nPodqi (números via Dalin de Graff), https://dalindegraff.com/blog/ai-chatbots-recommend-risky-stores-shopping-answers\nGoogle, https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n\nSalva para conferir com calma antes de colocar qualquer uma na tua empresa.\n\n#InteligenciaArtificial #PequenasEmpresas #Claude #Gemini",
+  "story": true,
+  "status": "agendado"
+}

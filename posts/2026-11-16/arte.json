@@ -1,0 +1,10 @@
+{
+  "tom": "claro",
+  "pecas": [
+    {"modelo": "manchete", "chapeu": "Radar de IA", "data": "16 de novembro de 2026", "titulo": "A IA trabalha.|Quem confere|ainda é tu", "subtitulo": "Reunião, equipe de agentes e indicação de loja: três notícias da semana e o que mudam para quem tem empresa pequena.", "fonte": "Fontes: Anthropic, Podqi e Google, novembro de 2026"},
+    {"modelo": "slide", "titulo": "Claude anota|a reunião.|Tu confere a ata", "texto": "Entra no Google Meet e lista as tarefas no fim. Só planos Team e Enterprise, em beta. Para ti: ata pronta, mas revisa."},
+    {"modelo": "slide", "titulo": "Onde comprar?|9% das respostas|citaram loja arriscada", "texto": "Segundo a Podqi, em 151 marcas. Só 9% desses casos tiveram alerta. Para ti: pergunta à IA onde comprar a tua marca."},
+    {"modelo": "slide", "titulo": "Um pedido vira|uma equipe|de agentes", "texto": "Gemini 4 Carbon, só no Ultra e na API paga. O /swarm, em prévia no Antigravity, junta agentes. Para ti: mais entrega, mais revisão."},
+    {"modelo": "fecho", "opiniao": "A IA já entrou no expediente. Eu uso, mas a assinatura no fim continua sendo minha.", "cta": "Salva para conferir antes de adotar qualquer uma."}
+  ]
+}
