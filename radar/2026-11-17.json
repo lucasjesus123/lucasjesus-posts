@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-11-17T08:53:29+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "nota": 11.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "nota": 10.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "data": "2026-11-16T09:30:00+00:00",
+      "resumo": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "nota": 10.03
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "data": "2026-11-16T09:00:00+00:00",
+      "resumo": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "nota": 10.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "data": "2026-11-16T08:00:00+00:00",
+      "resumo": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "nota": 9.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "data": "2026-11-16T06:00:00+00:00",
+      "resumo": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "nota": 9.88
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "data": "2026-11-16T00:00:00+00:00",
+      "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "data": "2026-11-15T22:00:01+00:00",
+      "resumo": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "nota": 9.55
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "data": "2026-11-16T13:00:00+00:00",
+      "resumo": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "nota": 9.17
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "data": "2026-11-16T12:00:00+00:00",
+      "resumo": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "nota": 9.13
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "data": "2026-11-16T06:00:00+00:00",
+      "resumo": "",
+      "nota": 8.88
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "At Holiday Extras, dots get to work before anyone asks",
+      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "data": "2026-11-16T00:00:00+00:00",
+      "resumo": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "data": "2026-11-15T22:00:00+00:00",
+      "resumo": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "nota": 8.55
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "data": "2026-11-16T20:46:01+00:00",
+      "resumo": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+      "nota": 8.49
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "data": "2026-11-16T20:07:13+00:00",
+      "resumo": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "nota": 8.47
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "data": "2026-11-16T19:24:40+00:00",
+      "resumo": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on […]",
+      "nota": 8.44
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "data": "2026-11-16T19:23:45+00:00",
+      "resumo": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering […]",
+      "nota": 8.44
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "data": "2026-11-16T17:02:43+00:00",
+      "resumo": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "data": "2026-11-16T16:00:25+00:00",
+      "resumo": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "nota": 8.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "data": "2026-11-16T16:00:16+00:00",
+      "resumo": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+      "nota": 8.3
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "data": "2026-11-16T16:04:28+00:00",
+      "resumo": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "nota": 8.3
+    },
+    {
+      "fonte": "Google",
+      "titulo": "New Ask Maps features to help with holiday travel and prep",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "data": "2026-11-16T14:00:00+00:00",
+      "resumo": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "nota": 8.21
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google Maps can now create trip itineraries for you",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "data": "2026-11-16T14:00:00+00:00",
+      "resumo": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As […]",
+      "nota": 8.21
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "data": "2026-11-16T20:41:28+00:00",
+      "resumo": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "nota": 7.49
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "data": "2026-11-16T18:11:10+00:00",
+      "resumo": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+      "nota": 7.39
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "data": "2026-11-16T17:10:00+00:00",
+      "resumo": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "data": "2026-11-16T16:00:51+00:00",
+      "resumo": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "link": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "data": "2026-11-16T16:00:01+00:00",
+      "resumo": "Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing for science, engineering and analytics workflows. As agents help scientists and engineers explore more candidate materials, molecules and designs, they rely on simulations to test those ideas and guide their next […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "data": "2026-11-16T12:30:00+00:00",
+      "resumo": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "nota": 7.15
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "data": "2026-11-16T01:30:00+00:00",
+      "resumo": "Apple's new app for a study will answer everyday medical questions.",
+      "nota": 6.69
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "link": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "data": "2026-11-16T00:00:28+00:00",
+      "resumo": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "nota": 6.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "data": "2026-11-16T23:32:32+00:00",
+      "resumo": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "nota": 6.61
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+      "link": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/",
+      "data": "2026-11-16T20:00:37+00:00",
+      "resumo": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesn’t begin to encompass what Shoquist has made possible over decades. Shoquist, her team and their global network of manufacturing partners enable NVIDIA to introduce world-leading technologies year-round. Much of the […]",
+      "nota": 6.46
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "data": "2026-11-16T18:38:47+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
+      "nota": 6.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "data": "2026-11-16T17:36:43+00:00",
+      "resumo": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "nota": 6.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "data": "2026-11-14T17:30:00+00:00",
+      "resumo": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "nota": 6.36
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "link": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "data": "2026-11-16T16:00:11+00:00",
+      "resumo": "This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a foundation for modern science and AI. CUDA’s 20th anniversary presents an occasion to reflect across computing eras, from the people who wrote the very first CUDA programs to the AI developers […]",
+      "nota": 6.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Audible turns to AI to help users discover audiobooks",
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "data": "2026-11-16T15:52:19+00:00",
+      "resumo": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "nota": 6.29
+    }
+  ]
+}
