@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-11-18T08:53:12+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "data": "2026-11-17T18:58:01+00:00",
+      "resumo": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US […]",
+      "nota": 10.42
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "nota": 10.34
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "data": "2026-11-17T17:00:00+00:00",
+      "resumo": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "nota": 10.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Model ML raises $250M to automate investment banking grunt work",
+      "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "data": "2026-11-17T19:32:11+00:00",
+      "resumo": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+      "nota": 9.44
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "data": "2026-11-17T17:45:00+00:00",
+      "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "nota": 9.37
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "data": "2026-11-17T17:32:25+00:00",
+      "resumo": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "nota": 9.36
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "data": "2026-11-16T09:30:00+00:00",
+      "resumo": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "nota": 9.03
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "data": "2026-11-16T09:00:00+00:00",
+      "resumo": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "nota": 9.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "data": "2026-11-17T08:00:00+00:00",
+      "resumo": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "data": "2026-11-16T08:00:00+00:00",
+      "resumo": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "data": "2026-11-16T06:00:00+00:00",
+      "resumo": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "nota": 8.88
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "data": "2026-11-16T00:00:00+00:00",
+      "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "A step toward defining the Standard Model on a lattice",
+      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "data": "2026-11-15T22:00:01+00:00",
+      "resumo": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "nota": 8.55
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "data": "2026-11-17T21:00:55+00:00",
+      "resumo": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]",
+      "nota": 8.51
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "data": "2026-11-16T13:00:00+00:00",
+      "resumo": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "nota": 8.17
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "data": "2026-11-16T12:00:00+00:00",
+      "resumo": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "nota": 8.13
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "data": "2026-11-16T06:00:00+00:00",
+      "resumo": "",
+      "nota": 7.88
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "At Holiday Extras, dots get to work before anyone asks",
+      "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "data": "2026-11-16T00:00:00+00:00",
+      "resumo": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "data": "2026-11-17T22:29:05+00:00",
+      "resumo": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+      "nota": 7.57
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Our new blog for science",
+      "link": "https://openai.com/index/our-new-blog-for-science",
+      "data": "2026-11-15T22:00:00+00:00",
+      "resumo": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "nota": 7.55
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "data": "2026-11-16T20:46:01+00:00",
+      "resumo": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the […]",
+      "nota": 7.5
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "data": "2026-11-17T19:02:20+00:00",
+      "resumo": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "nota": 7.42
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "data": "2026-11-17T18:48:23+00:00",
+      "resumo": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "nota": 7.41
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "data": "2026-11-17T18:04:16+00:00",
+      "resumo": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "nota": 7.38
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "data": "2026-11-17T17:20:41+00:00",
+      "resumo": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "nota": 7.35
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "data": "2026-11-17T16:32:55+00:00",
+      "resumo": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+      "nota": 7.32
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "data": "2026-11-16T16:00:25+00:00",
+      "resumo": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "link": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "data": "2026-11-16T16:00:16+00:00",
+      "resumo": "With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and materials science to single-cell biology. The speedups are helping scientists analyze larger datasets and model more complex systems. The new libraries give AI agents the tools to help researchers make discoveries […]",
+      "nota": 7.3
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "data": "2026-11-16T16:04:28+00:00",
+      "resumo": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
+      "nota": 7.3
+    },
+    {
+      "fonte": "Google",
+      "titulo": "New Ask Maps features to help with holiday travel and prep",
+      "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "data": "2026-11-16T14:00:00+00:00",
+      "resumo": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "nota": 7.21
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "link": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "data": "2026-11-17T14:00:10+00:00",
+      "resumo": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "nota": 7.21
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Na era da IA, audiência do Reddit despenca 13%",
+      "link": "https://tecnoblog.net/noticias/na-era-da-ia-audiencia-do-reddit-despenca-13/",
+      "data": "2026-11-18T07:47:46+00:00",
+      "resumo": "Fórum é uma das principais fontes de consulta dos modelos de inteligência artificial atuais, inclusive o Gemini, que entrega os resumos na página de busca. Na era da IA, audiência do Reddit despenca 13%",
+      "nota": 6.95
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Satya Nadella says he’s AGI-pilled now",
+      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "data": "2026-11-17T23:41:18+00:00",
+      "resumo": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at […]",
+      "nota": 6.62
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "data": "2026-11-17T23:04:35+00:00",
+      "resumo": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "nota": 6.59
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "data": "2026-11-16T20:41:28+00:00",
+      "resumo": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" […]",
+      "nota": 6.49
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "link": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "data": "2026-11-16T16:00:51+00:00",
+      "resumo": "To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the network piece of the puzzle with NVIDIA Photonics co-packaged optics (CPO) switches. The cloud provider is using the switches to connect NVIDIA GB300 NVL72 racks with more than 10,000 GPUs, delivering […]",
+      "nota": 6.3
+    }
+  ]
+}
