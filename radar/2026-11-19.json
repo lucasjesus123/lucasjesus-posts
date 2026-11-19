@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-11-19T08:53:08+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "Advancing chip design with OpenAI models",
+      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "data": "2026-11-18T00:00:00+00:00",
+      "resumo": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "nota": 10.63
+    },
+    {
+      "fonte": "Google",
+      "titulo": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "data": "2026-11-18T17:00:00+00:00",
+      "resumo": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "nota": 10.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Remember the frontier AI pause? Chip companies don’t either",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "data": "2026-11-18T15:44:02+00:00",
+      "resumo": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used […]",
+      "nota": 10.29
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "data": "2026-11-18T14:00:31+00:00",
+      "resumo": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+      "nota": 10.21
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "data": "2026-11-18T08:00:00+00:00",
+      "resumo": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "nota": 9.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "data": "2026-11-18T06:00:00+00:00",
+      "resumo": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "nota": 9.88
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "data": "2026-11-18T00:00:00+00:00",
+      "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "data": "2026-11-18T22:58:11+00:00",
+      "resumo": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "nota": 9.59
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "nota": 9.34
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Put Gemini to work for you",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "data": "2026-11-17T17:00:00+00:00",
+      "resumo": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "nota": 9.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Suno now lets you make AI videos for your AI music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "data": "2026-11-18T11:16:53+00:00",
+      "resumo": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals […]",
+      "nota": 9.1
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "data": "2026-11-18T10:00:00+00:00",
+      "resumo": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "nota": 9.05
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "data": "2026-11-18T08:00:00+00:00",
+      "resumo": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic prices IPO at $83 a share, above projected range",
+      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "data": "2026-11-18T22:11:15+00:00",
+      "resumo": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "nota": 8.55
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "data": "2026-11-17T17:45:00+00:00",
+      "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "nota": 8.37
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Microsoft amplia linha própria de IA com sete novos modelos",
+      "link": "https://tecnoblog.net/noticias/microsoft-amplia-linha-propria-de-ia-com-sete-novos-modelos/",
+      "data": "2026-11-18T13:33:58+00:00",
+      "resumo": "Nova geração inclui IAs para código, cibersegurança, imagem e voz. Modelos devem ser integrados ao GitHub. Microsoft amplia linha própria de IA com sete novos modelos",
+      "nota": 8.2
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "data": "2026-11-16T09:30:00+00:00",
+      "resumo": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "nota": 8.03
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "data": "2026-11-16T09:00:00+00:00",
+      "resumo": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "nota": 8.0
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "data": "2026-11-18T08:00:00+00:00",
+      "resumo": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "nota": 7.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "data": "2026-11-17T08:00:00+00:00",
+      "resumo": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "nota": 7.96
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Introducing OpenAI for Chile",
+      "link": "https://openai.com/index/introducing-openai-for-chile",
+      "data": "2026-11-17T00:00:00+00:00",
+      "resumo": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "nota": 7.63
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The nation’s largest school districts consider ditching Google Search",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "data": "2026-11-18T23:18:35+00:00",
+      "resumo": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice […]",
+      "nota": 7.6
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "data": "2026-11-18T19:56:39+00:00",
+      "resumo": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "nota": 7.46
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "data": "2026-11-18T17:32:10+00:00",
+      "resumo": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "nota": 7.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "data": "2026-11-18T16:59:00+00:00",
+      "resumo": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "data": "2026-11-18T16:14:09+00:00",
+      "resumo": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "nota": 7.31
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "data": "2026-11-16T13:00:00+00:00",
+      "resumo": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
+      "nota": 7.17
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "data": "2026-11-16T12:00:00+00:00",
+      "resumo": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "nota": 7.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "data": "2026-11-18T12:00:00+00:00",
+      "resumo": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "nota": 7.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "data": "2026-11-19T00:42:56+00:00",
+      "resumo": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "nota": 6.66
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "data": "2026-11-18T23:45:00+00:00",
+      "resumo": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "nota": 6.62
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "data": "2026-11-18T21:34:13+00:00",
+      "resumo": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "nota": 6.53
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Trump’s latest land grab is an AI hub in the Philippines",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "data": "2026-11-18T19:40:36+00:00",
+      "resumo": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional […]",
+      "nota": 6.45
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "What is Nvidia without AI’s sugar daddy in charge?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "data": "2026-11-18T18:34:15+00:00",
+      "resumo": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO […]",
+      "nota": 6.4
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google’s AI feature in Search gets its own incognito mode",
+      "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "data": "2026-11-18T18:04:05+00:00",
+      "resumo": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "nota": 6.38
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "data": "2026-11-18T17:50:57+00:00",
+      "resumo": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&D has revealed three new Audio-Animatronic prototypes that rely on Amazon's […]",
+      "nota": 6.37
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "data": "2026-11-16T17:00:00+00:00",
+      "resumo": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "nota": 6.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "link": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "data": "2026-11-16T16:00:25+00:00",
+      "resumo": "In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA swept every MLPerf Training v6.1 benchmark and, in its first MLPerf Endpoints submission, delivered more than 10x generational gains in throughput per watt for agentic AI — measuring how much agentic […]",
+      "nota": 6.3
+    }
+  ]
+}
