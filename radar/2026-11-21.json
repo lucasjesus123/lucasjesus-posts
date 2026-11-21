@@ -1,0 +1,329 @@
+{
+  "gerado_em": "2026-11-21T08:53:26+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "data": "2026-11-20T10:00:00+00:00",
+      "resumo": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "nota": 10.05
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "data": "2026-11-20T00:00:00+00:00",
+      "resumo": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "nota": 9.63
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "data": "2026-11-19T18:00:00+00:00",
+      "resumo": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "nota": 9.38
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "data": "2026-11-19T08:00:00+00:00",
+      "resumo": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "nota": 8.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "data": "2026-11-20T00:56:01+00:00",
+      "resumo": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "nota": 8.67
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "data": "2026-11-20T00:00:00+00:00",
+      "resumo": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "nota": 8.63
+    },
+    {
+      "fonte": "Google",
+      "titulo": "The Gemini app is now available on lower-memory Android devices.",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "data": "2026-11-18T17:00:00+00:00",
+      "resumo": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "nota": 8.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "data": "2026-11-20T16:34:13+00:00",
+      "resumo": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+      "nota": 8.32
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "link": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "data": "2026-11-18T14:00:31+00:00",
+      "resumo": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+      "nota": 8.21
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "data": "2026-11-20T12:30:47+00:00",
+      "resumo": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "nota": 8.15
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "data": "2026-11-20T00:43:50+00:00",
+      "resumo": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "nota": 7.66
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Meta’s Muse Charm might cost $300",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "data": "2026-11-19T20:22:17+00:00",
+      "resumo": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
+      "nota": 7.48
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s IPO could deliver $156B to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "data": "2026-11-19T19:10:45+00:00",
+      "resumo": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "nota": 7.43
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "data": "2026-11-19T18:09:11+00:00",
+      "resumo": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "nota": 7.39
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "data": "2026-11-20T18:15:15+00:00",
+      "resumo": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "nota": 7.39
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "data": "2026-11-19T17:00:00+00:00",
+      "resumo": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "data": "2026-11-19T17:00:35+00:00",
+      "resumo": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "nota": 7.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "data": "2026-11-19T16:59:23+00:00",
+      "resumo": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic starts trading on Wall Street",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "data": "2026-11-19T16:52:01+00:00",
+      "resumo": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public. In its lengthy S-1 filing, […]",
+      "nota": 7.33
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "data": "2026-11-19T16:19:41+00:00",
+      "resumo": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "nota": 7.31
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "data": "2026-11-18T10:00:00+00:00",
+      "resumo": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "nota": 7.05
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "data": "2026-11-19T00:00:00+00:00",
+      "resumo": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "nota": 6.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "data": "2026-11-19T00:00:00+00:00",
+      "resumo": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "nota": 6.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "data": "2026-11-19T00:00:00+00:00",
+      "resumo": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "nota": 6.63
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "data": "2026-11-19T00:00:00+00:00",
+      "resumo": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "nota": 6.63
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "data": "2026-11-19T22:31:41+00:00",
+      "resumo": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
+      "nota": 6.57
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "data": "2026-11-19T21:42:31+00:00",
+      "resumo": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "nota": 6.53
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "data": "2026-11-20T19:53:41+00:00",
+      "resumo": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "nota": 6.46
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "data": "2026-11-20T19:32:08+00:00",
+      "resumo": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "nota": 6.44
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "data": "2026-11-20T18:50:19+00:00",
+      "resumo": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+      "nota": 6.41
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Gemini on Mac can now use your computer",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "data": "2026-11-19T18:21:13+00:00",
+      "resumo": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will […]",
+      "nota": 6.39
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "data": "2026-11-19T18:14:37+00:00",
+      "resumo": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "nota": 6.39
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "data": "2026-11-19T17:38:40+00:00",
+      "resumo": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "nota": 6.36
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "data": "2026-11-19T14:54:39+00:00",
+      "resumo": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "nota": 6.25
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "data": "2026-11-20T14:00:00+00:00",
+      "resumo": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "nota": 6.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Superhuman pushes its Go assistant everywhere",
+      "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "data": "2026-11-19T14:00:00+00:00",
+      "resumo": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "nota": 6.21
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "link": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
+      "data": "2026-11-19T13:35:06+00:00",
+      "resumo": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+      "nota": 6.2
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "data": "2026-11-19T21:58:06+00:00",
+      "resumo": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "nota": 5.54
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "data": "2026-11-19T20:18:49+00:00",
+      "resumo": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "nota": 5.48
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google is putting AI chats right on the homepage",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "data": "2026-11-19T20:05:06+00:00",
+      "resumo": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the […]",
+      "nota": 5.47
+    }
+  ]
+}
