@@ -1,0 +1,297 @@
+{
+  "gerado_em": "2026-11-22T16:41:14+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "OpenAI",
+      "titulo": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "data": "2026-11-20T10:00:00+00:00",
+      "resumo": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "nota": 8.72
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "data": "2026-11-20T00:00:00+00:00",
+      "resumo": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "nota": 8.3
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Introducing Tool Retrieval in the Gemini API",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "data": "2026-11-19T18:00:00+00:00",
+      "resumo": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "nota": 8.05
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Can Anthropic afford to put safety first?",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "data": "2026-11-21T15:00:00+00:00",
+      "resumo": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+      "nota": 7.93
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Apple may be developing its own AI agent that runs your Mac",
+      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "data": "2026-11-20T00:56:01+00:00",
+      "resumo": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "nota": 7.34
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "data": "2026-11-20T00:00:00+00:00",
+      "resumo": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "nota": 7.3
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Here are the top AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "data": "2026-11-21T17:00:00+00:00",
+      "resumo": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "nota": 7.01
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "data": "2026-11-20T16:34:13+00:00",
+      "resumo": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
+      "nota": 7.0
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The vibe-coding revolution is coming to all the gadgets",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "data": "2026-11-22T13:00:00+00:00",
+      "resumo": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+      "nota": 6.85
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "data": "2026-11-20T12:30:47+00:00",
+      "resumo": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
+      "nota": 6.83
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "data": "2026-11-20T00:43:50+00:00",
+      "resumo": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "nota": 6.34
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "data": "2026-11-21T21:37:10+00:00",
+      "resumo": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "nota": 6.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s IPO could deliver $156B to charity",
+      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "data": "2026-11-19T19:10:45+00:00",
+      "resumo": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "nota": 6.1
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "data": "2026-11-20T18:15:15+00:00",
+      "resumo": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+      "nota": 6.07
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google gives Gemini the ability to use your Mac for you",
+      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "data": "2026-11-19T18:09:11+00:00",
+      "resumo": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "nota": 6.06
+    },
+    {
+      "fonte": "Google",
+      "titulo": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "data": "2026-11-19T17:00:00+00:00",
+      "resumo": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "nota": 6.01
+    },
+    {
+      "fonte": "NVIDIA",
+      "titulo": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "link": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "data": "2026-11-19T17:00:35+00:00",
+      "resumo": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "nota": 6.01
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "data": "2026-11-19T16:59:23+00:00",
+      "resumo": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "nota": 6.01
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "data": "2026-11-21T16:00:00+00:00",
+      "resumo": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "nota": 5.97
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Apple is hiring engineers to build its own AI agent",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "data": "2026-11-19T22:31:41+00:00",
+      "resumo": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
+      "nota": 5.24
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "These tech outages are giving Y2K, AI agent style",
+      "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "data": "2026-11-19T21:42:31+00:00",
+      "resumo": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "nota": 5.21
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "data": "2026-11-20T19:53:41+00:00",
+      "resumo": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "nota": 5.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "data": "2026-11-20T19:32:08+00:00",
+      "resumo": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "nota": 5.12
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "data": "2026-11-20T18:50:19+00:00",
+      "resumo": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
+      "nota": 5.09
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "link": "https://tecnoblog.net/noticias/google-lanca-gemini-4-neon-nova-ia-para-tarefas-complexas/",
+      "data": "2026-11-19T18:14:37+00:00",
+      "resumo": "Modelo substitui Gemini 4 Argon e está disponível para assinantes dos planos AI Pro e Ultra do Google. Google lança Gemini 4 Neon, nova IA para tarefas complexas",
+      "nota": 5.06
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "data": "2026-11-19T17:38:40+00:00",
+      "resumo": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "nota": 5.04
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Six AI-powered gadgets that could make your home office smarter",
+      "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "data": "2026-11-20T14:00:00+00:00",
+      "resumo": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "nota": 4.89
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta’s new Muse Charm device may cost $300",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "data": "2026-11-19T21:58:06+00:00",
+      "resumo": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "nota": 4.22
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "data": "2026-11-19T20:18:49+00:00",
+      "resumo": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "nota": 4.15
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "data": "2026-11-20T21:58:29+00:00",
+      "resumo": "Google search is making it even easier to access AI tools on the search page.",
+      "nota": 3.22
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "data": "2026-11-20T21:47:10+00:00",
+      "resumo": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "nota": 3.21
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "data": "2026-11-20T20:59:08+00:00",
+      "resumo": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "nota": 3.18
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Google leva histórico de IA à página inicial",
+      "link": "https://tecnoblog.net/noticias/google-leva-historico-de-ia-a-pagina-inicial/",
+      "data": "2026-11-20T06:48:08+00:00",
+      "resumo": "Barra lateral reúne conversas recentes, permite retomar pesquisas e iniciar novos tópicos; recurso começa a chegar à versão para computadores. Google leva histórico de IA à página inicial",
+      "nota": 2.59
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Nadella: sistemas essenciais têm falhas que não podem ser corrigidas",
+      "link": "https://tecnoblog.net/noticias/nadella-diz-que-sistemas-essenciais-tem-falhas-que-nao-podem-ser-corrigidas/",
+      "data": "2026-11-20T06:44:12+00:00",
+      "resumo": "Satya Nadella cita equipamentos de refrigeração, ar-condicionado e transporte conectados à internet; IA também acelera a descoberta de vulnerabilidades. Nadella: sistemas essenciais têm falhas que não podem ser corrigidas",
+      "nota": 2.59
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+      "data": "2026-11-19T20:19:28+00:00",
+      "resumo": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "nota": 2.15
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "IA ajudou a descobrir falha crítica no Java",
+      "link": "https://tecnoblog.net/noticias/ia-ajudou-a-descobrir-falha-critica-no-java/",
+      "data": "2026-11-19T18:10:00+00:00",
+      "resumo": "Brecha pode permitir invasões remotas em sistemas vulneráveis. Oracle já liberou uma correção. IA ajudou a descobrir falha crítica no Java",
+      "nota": 2.06
+    }
+  ]
+}
