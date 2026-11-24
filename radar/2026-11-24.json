@@ -1,0 +1,305 @@
+{
+  "gerado_em": "2026-11-24T19:43:58+00:00",
+  "falhas": [
+    "Google DeepMind: not well-formed (invalid token): line 1, column 0",
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "Google",
+      "titulo": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "data": "2026-11-24T16:00:00+00:00",
+      "resumo": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "nota": 10.84
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "data": "2026-11-23T08:00:00+00:00",
+      "resumo": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "nota": 10.51
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "data": "2026-11-23T22:05:50+00:00",
+      "resumo": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "nota": 10.1
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "data": "2026-11-23T08:00:00+00:00",
+      "resumo": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "nota": 9.51
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "data": "2026-11-24T00:00:00+00:00",
+      "resumo": "",
+      "nota": 9.18
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "data": "2026-11-23T21:20:00+00:00",
+      "resumo": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "nota": 9.07
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Claude AI can review pull requests and ship fixes on its own now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "data": "2026-11-23T20:00:00+00:00",
+      "resumo": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull requests. Engineers have already been able to take advantage of Claude's code review capabilities thanks to the Code Review feature, which was […]",
+      "nota": 9.01
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "data": "2026-11-24T18:30:42+00:00",
+      "resumo": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "nota": 8.95
+    },
+    {
+      "fonte": "Google",
+      "titulo": "A more tailored Google Search that’s uniquely yours",
+      "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "data": "2026-11-23T17:00:00+00:00",
+      "resumo": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+      "nota": 8.89
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "data": "2026-11-24T11:00:00+00:00",
+      "resumo": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "nota": 8.64
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "data": "2026-11-24T00:00:00+00:00",
+      "resumo": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "nota": 8.18
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "link": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "data": "2026-11-23T17:36:08+00:00",
+      "resumo": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we approach model sentience and moral…",
+      "nota": 7.91
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "data": "2026-11-24T17:00:00+00:00",
+      "resumo": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "nota": 7.89
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "data": "2026-11-24T16:30:00+00:00",
+      "resumo": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+      "nota": 7.87
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "The New York Times warns photographers not to update Photoshop over AI features",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "data": "2026-11-24T16:09:23+00:00",
+      "resumo": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an email seen by The Verge and posted on Threads, two of the Times' photography leaders, Meaghan Looram and Josh […]",
+      "nota": 7.85
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "Raising the stakes for enterprise networks with AI modernization",
+      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "data": "2026-11-24T15:15:16+00:00",
+      "resumo": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than the same tasks done by human workers. As…",
+      "nota": 7.81
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "data": "2026-11-22T00:00:00+00:00",
+      "resumo": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "nota": 7.18
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "data": "2026-11-23T22:02:05+00:00",
+      "resumo": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "nota": 7.1
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "data": "2026-11-23T19:14:46+00:00",
+      "resumo": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "nota": 6.98
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "data": "2026-11-24T18:15:00+00:00",
+      "resumo": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+      "nota": 6.94
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "data": "2026-11-24T18:02:59+00:00",
+      "resumo": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "nota": 6.93
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "data": "2026-11-24T17:17:09+00:00",
+      "resumo": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+      "nota": 6.9
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "data": "2026-11-24T16:46:00+00:00",
+      "resumo": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "nota": 6.88
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+      "data": "2026-11-24T16:10:00+00:00",
+      "resumo": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "nota": 6.85
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+      "data": "2026-11-24T16:02:37+00:00",
+      "resumo": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+      "nota": 6.85
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "AI data centers throw another wrench into chaotic UN climate talks",
+      "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "data": "2026-11-23T21:09:37+00:00",
+      "resumo": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
+      "nota": 6.06
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "How Jensen Huang ended up as Nvidia CEO again",
+      "link": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "data": "2026-11-23T19:57:18+00:00",
+      "resumo": "The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been \"unfaithful\" to his wife […]",
+      "nota": 6.01
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "data": "2026-11-23T17:14:23+00:00",
+      "resumo": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "nota": 5.9
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "data": "2026-11-23T14:43:03+00:00",
+      "resumo": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "nota": 5.79
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "data": "2026-11-24T12:30:05+00:00",
+      "resumo": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "nota": 5.7
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "link": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "data": "2026-11-24T17:34:34+00:00",
+      "resumo": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "nota": 4.91
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Galaxy S26 Ultra (512 GB) cai quase para metade do preço na Black Week 2026",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-ultra-512-gb-cai-quase-para-metade-do-preco-na-black-week-2026/",
+      "data": "2026-11-23T17:35:38+00:00",
+      "resumo": "Galaxy S26 Ultra com display com tela de privacidade, chipset premium e Galaxy AI recebe amplo desconto com cupom especial e pagamento via Pix na Amazon Galaxy S26 Ultra (512 GB) cai quase para metade do preço na Black Week 2026",
+      "nota": 4.91
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "LibreOffice endurece regras para código gerado por IA no projeto",
+      "link": "https://tecnoblog.net/noticias/libreoffice-endurece-regras-para-codigo-gerado-por-ia-no-projeto/",
+      "data": "2026-11-24T14:55:49+00:00",
+      "resumo": "Uma das regras da The Document Foundation determina que o desenvolvedor seja capaz de explicar todo o código gerado com inteligência artificial. LibreOffice endurece regras para código gerado por IA no projeto",
+      "nota": 4.8
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "VP do Google: pessoas não querem apenas IA na busca",
+      "link": "https://tecnoblog.net/noticias/vp-do-google-pessoas-nao-querem-apenas-ia-na-busca/",
+      "data": "2026-11-24T14:31:46+00:00",
+      "resumo": "Elizabeth Reid, chefe da Busca do Google, afirma que usuários ainda querem conteúdo produzido por pessoas. VP do Google: pessoas não querem apenas IA na busca",
+      "nota": 4.78
+    },
+    {
+      "fonte": "Ars Technica",
+      "titulo": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+      "data": "2026-11-23T12:00:00+00:00",
+      "resumo": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "nota": 4.68
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Galaxy S26 FE chega a R$ 2.300 OFF na semana da Black Friday",
+      "link": "https://tecnoblog.net/achados/galaxy-s26-fe-chega-a-r-2-300-off-na-semana-da-black-friday/",
+      "data": "2026-11-23T19:54:43+00:00",
+      "resumo": "Galaxy S26 FE de 128 GB com tela AMOLED, câmera de 50 MP e Galaxy AI fica bem mais barato com pagamento via Pix na Amazon Galaxy S26 FE chega a R$ 2.300 OFF na semana da Black Friday",
+      "nota": 4.01
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Não quer IA? Canva ganha botão para isso",
+      "link": "https://tecnoblog.net/noticias/nao-quer-ia-canva-ganha-botao-para-isso/",
+      "data": "2026-11-23T12:48:31+00:00",
+      "resumo": "Novos controles permitem ocultar ferramentas generativas e reduzir conteúdos feitos por IA na biblioteca. Não quer IA? Canva ganha botão para isso",
+      "nota": 3.71
+    }
+  ]
+}
