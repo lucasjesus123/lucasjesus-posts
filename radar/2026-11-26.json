@@ -1,0 +1,328 @@
+{
+  "gerado_em": "2026-11-26T18:39:53+00:00",
+  "falhas": [
+    "Microsoft: HTTP Error 410: Gone"
+  ],
+  "noticias": [
+    {
+      "fonte": "TechCrunch",
+      "titulo": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "data": "2026-11-26T16:00:00+00:00",
+      "resumo": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "nota": 9.89
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "data": "2026-11-25T19:44:24+00:00",
+      "resumo": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "nota": 9.04
+    },
+    {
+      "fonte": "Google",
+      "titulo": "How Gemini is changing the game for Golden State's organization and fans.",
+      "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "data": "2026-11-24T16:00:00+00:00",
+      "resumo": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "nota": 8.89
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "data": "2026-11-24T13:00:00+00:00",
+      "resumo": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "nota": 8.76
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "data": "2026-11-24T00:00:00+00:00",
+      "resumo": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "nota": 8.22
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "data": "2026-11-25T20:03:27+00:00",
+      "resumo": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "nota": 8.06
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "link": "https://tecnoblog.net/noticias/bancos-dos-eua-implementam-botao-de-emergencia-contra-agentes-de-ia/",
+      "data": "2026-11-25T20:08:56+00:00",
+      "resumo": "Instituições revisam acessos e mecanismos de desligamento após incidentes com modelos da OpenAI. Bancos dos EUA criam “botão de emergência” contra agentes de IA",
+      "nota": 8.06
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "An Indic Voice Agent with CUGA",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "data": "2026-11-25T10:22:09+00:00",
+      "resumo": "",
+      "nota": 7.65
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "data": "2026-11-26T09:54:40+00:00",
+      "resumo": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
+      "nota": 7.64
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "data": "2026-11-24T00:00:00+00:00",
+      "resumo": "",
+      "nota": 7.22
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "data": "2026-11-26T00:00:00+00:00",
+      "resumo": "",
+      "nota": 7.22
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "data": "2026-11-25T21:51:26+00:00",
+      "resumo": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+      "nota": 7.13
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Even the best AI agents struggle with everyday life",
+      "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "data": "2026-11-24T21:33:29+00:00",
+      "resumo": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+      "nota": 7.12
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "data": "2026-11-23T21:20:00+00:00",
+      "resumo": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "nota": 7.11
+    },
+    {
+      "fonte": "Hugging Face",
+      "titulo": "Where scientists draw the line on AI agents",
+      "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "data": "2026-11-25T18:52:55+00:00",
+      "resumo": "",
+      "nota": 7.01
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "data": "2026-11-24T18:30:42+00:00",
+      "resumo": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "nota": 6.99
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Nothing offers a full look at its AI earbuds and charging case",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "data": "2026-11-25T16:00:59+00:00",
+      "resumo": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+      "nota": 6.89
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "data": "2026-11-25T14:12:33+00:00",
+      "resumo": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
+      "nota": 6.81
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "data": "2026-11-25T14:10:18+00:00",
+      "resumo": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "nota": 6.81
+    },
+    {
+      "fonte": "Google DeepMind",
+      "titulo": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "data": "2026-11-24T13:07:53+00:00",
+      "resumo": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "nota": 6.77
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Has vibe coding made open source the new normal for synths?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "data": "2026-11-25T13:00:00+00:00",
+      "resumo": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
+      "nota": 6.76
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "data": "2026-11-24T11:00:00+00:00",
+      "resumo": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "nota": 6.68
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "link": "https://tecnoblog.net/noticias/amazon-avalia-impacto-do-muse-na-publicidade-antes-de-liberar-agente/",
+      "data": "2026-11-26T11:06:07+00:00",
+      "resumo": "Amazon negocia fim do bloqueio ao agente de IA da Meta, mas teme impacto na renda com anúncios. Amazon avalia impacto do Muse na publicidade antes de liberar agente",
+      "nota": 6.68
+    },
+    {
+      "fonte": "OpenAI",
+      "titulo": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "data": "2026-11-24T00:00:00+00:00",
+      "resumo": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "nota": 6.22
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "data": "2026-11-24T21:32:38+00:00",
+      "resumo": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "nota": 6.12
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "data": "2026-11-25T18:11:46+00:00",
+      "resumo": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "nota": 5.98
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "data": "2026-11-25T17:44:51+00:00",
+      "resumo": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+      "nota": 5.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "data": "2026-11-25T17:35:58+00:00",
+      "resumo": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "nota": 5.96
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "data": "2026-11-24T17:00:00+00:00",
+      "resumo": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+      "nota": 5.93
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Jensen Huang deepfakes are the hot new AI slop",
+      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "data": "2026-11-24T16:30:00+00:00",
+      "resumo": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
+      "nota": 5.91
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "data": "2026-11-25T15:41:43+00:00",
+      "resumo": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+      "nota": 5.88
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "IA recria voz de comentarista morto em 2023",
+      "link": "https://tecnoblog.net/noticias/ia-vai-recriar-voz-de-comentarista-morto-em-2023/",
+      "data": "2026-11-26T12:34:17+00:00",
+      "resumo": "Novidade faz parte do EA Sports FC 27. EA teve autorização da família de John Motson. IA recria voz de comentarista morto em 2023",
+      "nota": 5.75
+    },
+    {
+      "fonte": "MIT Technology Review",
+      "titulo": "AI is straining America’s open records systems",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "data": "2026-11-25T10:00:00+00:00",
+      "resumo": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
+      "nota": 5.64
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "data": "2026-11-24T21:19:52+00:00",
+      "resumo": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "nota": 5.11
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "data": "2026-11-24T18:15:00+00:00",
+      "resumo": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+      "nota": 4.98
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "data": "2026-11-24T18:02:59+00:00",
+      "resumo": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "nota": 4.97
+    },
+    {
+      "fonte": "The Verge",
+      "titulo": "Tidal will start banning AI-generated music next month",
+      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "data": "2026-11-24T17:17:09+00:00",
+      "resumo": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+      "nota": 4.94
+    },
+    {
+      "fonte": "TechCrunch",
+      "titulo": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+      "data": "2026-11-24T16:46:00+00:00",
+      "resumo": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "nota": 4.92
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "IA cria arquitetura de CPU quase 4,6 vezes mais eficiente",
+      "link": "https://tecnoblog.net/noticias/ia-cria-arquitetura-de-cpu-quase-46-vezes-mais-eficiente/",
+      "data": "2026-11-25T17:49:42+00:00",
+      "resumo": "Projeto Frostbite, da startup Architect Labs, superou um núcleo convencional em simulações de 25 programas. Desempenho precisa ser confirmado em hardware real. IA cria arquitetura de CPU quase 4,6 vezes mais eficiente",
+      "nota": 3.97
+    },
+    {
+      "fonte": "Tecnoblog",
+      "titulo": "Nova York bane brinquedos com chatbots de IA",
+      "link": "https://tecnoblog.net/noticias/nova-york-bane-brinquedos-com-chatbots-de-ia/",
+      "data": "2026-11-25T13:06:06+00:00",
+      "resumo": "Lei começa a valer em fevereiro de 2027 e busca proteger crianças de conversas inadequadas. Califórnia já adotou restrição semelhante. Nova York bane brinquedos com chatbots de IA",
+      "nota": 3.77
+    }
+  ]
+}
